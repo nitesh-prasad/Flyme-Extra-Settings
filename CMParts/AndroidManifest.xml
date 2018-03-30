@@ -39,17 +39,7 @@
                 <action android:name="android.content.action.SEARCH_INDEXABLES_PROVIDER"/>
             </intent-filter>
         </provider>
-        <activity-alias android:label="@string/privacy_settings_title" android:name=".PrivacySettings" android:targetActivity="PartsActivity">
-            <intent-filter android:priority="3">
-                <action android:name="com.android.flymexx.action.EXTRA_SETTINGS"/>
-                <action android:name="org.cyanogenmod.cmparts.PRIVACY_SETTINGS"/>
-                <category android:name="android.intent.category.DEFAULT"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.personal"/>
-            <meta-data android:name="com.android.flymexx.icon" android:resource="@drawable/ic_settings_privacy"/>
-            <meta-data android:name="org.cyanogenmod.settings.summary.receiver" android:value="org.cyanogenmod.cmparts.PartsUpdater"/>
-            <meta-data android:name="org.cyanogenmod.settings.summary.key" android:value="privacy_settings"/>
-        </activity-alias>
+        <activity-alias android:label="@string/privacy_settings_title" android:name=".PrivacySettings" android:targetActivity="PartsActivity"/>
         <activity-alias android:label="@string/button_pref_title" android:name=".input.ButtonSettings" android:targetActivity="PartsActivity">
             <intent-filter android:priority="1">
                 <action android:name="com.android.flymexx.action.EXTRA_SETTINGS"/>
@@ -62,28 +52,8 @@
             <meta-data android:name="org.cyanogenmod.settings.summary.key" android:value="button_settings"/>
         </activity-alias>
         <activity android:name=".gestures.KeyHandler"/>
-        <activity-alias android:label="@string/profiles_settings_title" android:name=".profiles.ProfilesSettings" android:targetActivity="PartsActivity">
-            <intent-filter android:priority="1">
-                <action android:name="com.android.flymexx.action.EXTRA_SETTINGS"/>
-                <action android:name="org.cyanogenmod.cmparts.PROFILES_SETTINGS"/>
-                <category android:name="android.intent.category.DEFAULT"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.personal"/>
-            <meta-data android:name="com.android.flymexx.icon" android:resource="@drawable/ic_settings_profiles"/>
-            <meta-data android:name="org.cyanogenmod.settings.summary.receiver" android:value="org.cyanogenmod.cmparts.PartsUpdater"/>
-            <meta-data android:name="org.cyanogenmod.settings.summary.key" android:value="profiles_settings"/>
-        </activity-alias>
-        <activity-alias android:label="@string/status_bar_title" android:name=".statusbar.StatusBarSettings" android:targetActivity="PartsActivity">
-            <intent-filter android:priority="2">
-                <action android:name="com.android.flymexx.action.EXTRA_SETTINGS"/>
-                <action android:name="org.cyanogenmod.cmparts.STATUS_BAR_SETTINGS"/>
-                <category android:name="android.intent.category.DEFAULT"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.personal"/>
-            <meta-data android:name="com.android.flymexx.icon" android:resource="@drawable/ic_settings_statusbar"/>
-            <meta-data android:name="org.cyanogenmod.settings.summary.receiver" android:value="org.cyanogenmod.cmparts.PartsUpdater"/>
-            <meta-data android:name="org.cyanogenmod.settings.summary.key" android:value="status_bar_settings"/>
-        </activity-alias>
+        <activity-alias android:label="@string/profiles_settings_title" android:name=".profiles.ProfilesSettings" android:targetActivity="PartsActivity"/>
+        <activity-alias android:label="@string/status_bar_title" android:name=".statusbar.StatusBarSettings" android:targetActivity="PartsActivity"/>
         <receiver android:enabled="true" android:exported="false" android:label="ReportingServiceManager" android:name=".cmstats.ReportingServiceManager">
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED"/>
