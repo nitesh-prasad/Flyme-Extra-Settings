@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/gesture_preference_title" settings:keywords="@string/keywords_gesture"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto"
+  xmlns:lineage="http://schemas.android.com/apk/res/cyanogenmod.platform">
+    <org.cyanogenmod.internal.cmparts.CMPartsPreference android:key="touchscreen_gesture_settings" lineage:requiresFeature="cmhardware:FEATURE_TOUCHSCREEN_GESTURES" />
+    <cyanogenmod.preference.RemotePreference android:title="@string/touchscreen_gesture_settings_title" android:key="device_touchscreen_gesture_settings" android:summary="@string/touchscreen_gesture_settings_summary" lineage:requiresFeature="cmhardware:FEATURE_TOUCHSCREEN_GESTURES" lineage:replacesKey="touchscreen_gesture_settings">
+        <intent android:action="org.cyanogenmod.settings.device.GESTURE_SETTINGS" />
+    </cyanogenmod.preference.RemotePreference>
+    <com.android.flymexx.gestures.GesturePreference android:title="@string/fingerprint_swipe_for_notifications_title" android:key="gesture_swipe_down_fingerprint" android:summary="@string/fingerprint_swipe_for_notifications_summary" settings:animation="@raw/gesture_fingerprint_swipe" settings:preview="@drawable/gesture_fingerprint_swipe" />
+    <com.android.flymexx.gestures.GesturePreference android:title="@string/double_tap_power_for_camera_title" android:key="gesture_double_tap_power" android:summary="@string/double_tap_power_for_camera_summary" settings:animation="@raw/gesture_double_tap" settings:preview="@drawable/gesture_double_tap" />
+    <com.android.flymexx.gestures.GesturePreference android:title="@string/double_twist_for_camera_mode_title" android:key="gesture_double_twist" android:summary="@string/double_twist_for_camera_mode_summary" settings:animation="@raw/gesture_twist" settings:preview="@drawable/gesture_twist" />
+    <com.android.flymexx.gestures.GesturePreference android:title="@string/ambient_display_title" android:key="gesture_double_tap_screen" android:summary="@string/ambient_display_summary" settings:animation="@raw/gesture_ambient_tap" settings:preview="@drawable/gesture_ambient_tap" />
+    <com.android.flymexx.gestures.GesturePreference android:title="@string/ambient_display_pickup_title" android:key="gesture_pick_up" android:summary="@string/ambient_display_pickup_summary" settings:animation="@raw/gesture_ambient_lift" settings:preview="@drawable/gesture_ambient_lift" />
+    <cyanogenmod.preference.CMSystemSettingSwitchPreference android:title="@string/status_bar_double_tap_to_sleep_title" android:key="double_tap_sleep_gesture" android:summary="@string/status_bar_double_tap_to_sleep_summary" android:defaultValue="true" />
+</PreferenceScreen>

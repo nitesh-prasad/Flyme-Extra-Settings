@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/notification_light_title" android:key="notification_lights"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/notification_light_general_title" android:key="general_section">
+        <cyanogenmod.preference.SystemSettingSwitchPreference android:title="@string/notification_light_title" android:key="notification_light_pulse" />
+        <cyanogenmod.preference.CMSystemSettingSwitchPreference android:title="@string/notification_light_automagic" android:key="notification_light_color_auto" android:dependency="notification_light_pulse" android:defaultValue="true" />
+        <org.cyanogenmod.cmparts.notificationlight.ApplicationLightPreference android:persistent="false" android:title="@string/notification_light_default_value" android:key="default" android:dependency="notification_light_pulse" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/advanced" android:key="advanced_section">
+        <PreferenceScreen android:title="@string/notification_light_brightness" android:key="notification_light_brightness_level" android:dependency="notification_light_pulse">
+            <intent android:action="android.intent.action.SHOW_NOTIFICATION_BRIGHTNESS_DIALOG" />
+        </PreferenceScreen>
+        <cyanogenmod.preference.CMSystemSettingSwitchPreference android:title="@string/notification_light_use_multiple_leds" android:key="notification_light_multiple_leds_enable" android:dependency="notification_light_pulse" />
+        <cyanogenmod.preference.CMSystemSettingSwitchPreference android:title="@string/notification_light_screen_on" android:key="notification_light_screen_on_enable" android:dependency="notification_light_pulse" />
+        <cyanogenmod.preference.CMSystemSettingSwitchPreference android:title="@string/notification_light_zen_mode" android:key="allow_lights" android:dependency="notification_light_pulse" android:defaultValue="true" />
+        <cyanogenmod.preference.CMSystemSettingSwitchPreference android:title="@string/notification_light_use_custom" android:key="notification_light_pulse_custom_enable" android:dependency="notification_light_pulse" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/notification_light_phonelist_title" android:key="phone_list">
+        <org.cyanogenmod.cmparts.notificationlight.ApplicationLightPreference android:persistent="false" android:title="@string/notification_light_missed_call_title" android:key="missed_call" android:dependency="notification_light_pulse_custom_enable" />
+        <org.cyanogenmod.cmparts.notificationlight.ApplicationLightPreference android:persistent="false" android:title="@string/notification_light_voicemail_title" android:key="voicemail" android:dependency="notification_light_pulse_custom_enable" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/notification_light_applist_title" android:key="applications_list" android:dependency="notification_light_pulse_custom_enable" />
+</PreferenceScreen>

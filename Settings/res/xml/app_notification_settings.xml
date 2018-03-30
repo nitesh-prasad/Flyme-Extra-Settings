@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/app_notifications_title" android:key="app_notification_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:settings="http://schemas.android.com/apk/res/com.android.flymexx">
+    <com.android.flymexxlib.RestrictedSwitchPreference android:title="@string/app_notification_block_title" android:key="block" android:summary="@string/app_notification_block_summary" android:order="2" settings:useAdditionalSummary="true" settings:restrictedSwitchSummary="@string/enabled_by_admin" />
+    <com.android.flymexxlib.RestrictedSwitchPreference android:title="@string/show_silently" android:key="silent" android:summary="@string/show_silently_summary" android:order="3" settings:useAdditionalSummary="true" />
+    <com.android.flymexx.notification.ImportanceSeekBarPreference android:title="@string/notification_importance_title" android:key="importance" android:order="4" />
+    <com.android.flymexx.notification.RestrictedDropDownPreference android:title="@string/app_notification_visibility_override_title" android:key="visibility_override" android:order="5" />
+    <com.android.flymexxlib.RestrictedSwitchPreference android:title="@string/app_notification_override_dnd_title" android:key="bypass_dnd" android:summary="@string/app_notification_override_dnd_summary" android:order="6" settings:useAdditionalSummary="true" />
+    <com.android.flymexx.notification.RestrictedDropDownPreference android:persistent="false" android:entries="@array/app_notification_sound_timeout_entries" android:title="@string/app_notification_sound_timeout_title" android:key="sound_timeout" android:order="7" android:entryValues="@array/app_notification_sound_timeout_values" />
+</PreferenceScreen>

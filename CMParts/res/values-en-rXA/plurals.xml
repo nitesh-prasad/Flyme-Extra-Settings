@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backlight_timeout_time">
+        <item quantity="other">[%d šéçöñðš one two]</item>
+        <item quantity="one">[%d šéçöñð one two]</item>
+    </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">[»%d« ţîḿéš one two]</item>
+        <item quantity="one">[öñçé one]</item>
+    </plurals>
+</resources>

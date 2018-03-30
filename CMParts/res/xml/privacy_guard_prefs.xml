@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@cyanogenmod.platform:string/privacy_guard_manager_title" android:key="privacy_guard_manager"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <cyanogenmod.preference.CMSecureSettingSwitchPreference android:title="@string/privacy_guard_default_title" android:key="privacy_guard_default" android:summary="@string/privacy_guard_default_summary" android:defaultValue="false" />
+    <cyanogenmod.preference.CMSecureSettingSwitchPreference android:title="@string/privacy_guard_notification_title" android:key="privacy_guard_notification" android:defaultValue="true" />
+</PreferenceScreen>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">کۆدی PIN هەڵەبوو. تەنها %d جارت ماوە هەڵە بکەی.ئەگەر دڵینا نیت دوبارەی مەکەوە.</item>
+        <item quantity="one">کۆدی PIN هەڵەبوو. تەنها %d جارت ماوە هەڵە بکەی.ئەگەر دڵینا نیت دوبارەی مەکەوە.</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d بەرنامەکان ئەتوانن ئاگادارکردنەوەکان بخوێنێتەوە</item>
+        <item quantity="one">%d بەرنامەکە ئەتوانێت ئاگادارکردنەوەکان بخوێنێتەوە</item>
+    </plurals>
+</resources>

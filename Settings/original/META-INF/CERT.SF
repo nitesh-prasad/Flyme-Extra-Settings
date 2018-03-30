@@ -1,0 +1,3446 @@
+Signature-Version: 1.0
+X-Android-APK-Signed: 2
+SHA-256-Digest-Manifest: 1+8iVE3x6nSpM+3MqEJf98PyUhQdL8ujj4zbp7Mw/Vw=
+Created-By: 1.0 (Android SignApk)
+
+Name: res/layout/display.xml
+SHA-256-Digest: E9mjqlaIZmkFupC5hzPr2BULN5OFdzkAQ40Q5sX8hBk=
+
+Name: res/layout/zen_rule_type.xml
+SHA-256-Digest: jMl22SgrJQ72Na0j8RCVh5aN5UYCkADi58NWLWJCmQg=
+
+Name: res/xml/appwidget_info.xml
+SHA-256-Digest: NV7sjn63gLMAFjqrZiZRYxeDO3Uk7UL0xJixHSPzI+Q=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png
+SHA-256-Digest: uiR2fPL4m+nrPZUBIB0vguzBVJrrk1QBLGP4Cf+MPM8=
+
+Name: res/drawable/ic_power_flashlight.xml
+SHA-256-Digest: d6bfWeDUXbWQLDUsCgydzATFezL8npsfNvEEsP0Df0A=
+
+Name: res/layout/shortcut_badge.xml
+SHA-256-Digest: Kziz3olwhrIZQL7pNooqPo63JDOqX0YlQYn4lQ83geQ=
+
+Name: res/drawable/ic_perm_audio.xml
+SHA-256-Digest: /Z36cZKfZISlvcbCzTDHdidBKnh2IheQzhCaXYEotQA=
+
+Name: res/layout-land/confirm_lock_password.xml
+SHA-256-Digest: 6qFj4ofqXmr3JWxhdGpOA00C/9PeaJhYUuRb6vT63lA=
+
+Name: res/layout/setup_choose_lock_generic_header.xml
+SHA-256-Digest: UBuEHuk5NY24bfYTPxLv4CNEADj6q2ZaQhBqNdrcvfs=
+
+Name: res/layout/user_credential.xml
+SHA-256-Digest: we/7mfW/5zagz2jcVoDKU9xdi2GuuwgaWY7voZ1/0Ig=
+
+Name: res/anim-ldrtl/suw_slide_next_out.xml
+SHA-256-Digest: WRqlEoG2xfjURLVdBsLarWHwV5qKQZw+iwlbQV7LUeg=
+
+Name: res/drawable/ic_perm_nosleep.xml
+SHA-256-Digest: yzy7MjckeZGm4bmZX4QZpodEJQQyt681ZCTnvaLo6QU=
+
+Name: res/layout/nfc_payment_option.xml
+SHA-256-Digest: bR06DZpfqFjm+MEfF060R+3zeb66GHjHCTgkXz9JNCE=
+
+Name: res/layout/select_account_list_item.xml
+SHA-256-Digest: QLQdH+nkUEtBfQS9m1RRCt4DEREIXXyiG/qyJJKPMY8=
+
+Name: res/xml/app_storage_settings.xml
+SHA-256-Digest: WNgaaEIxaIcDVeXeGWhKANY0yqs30I5UkciDvKPMmjQ=
+
+Name: res/layout/preview_seek_bar_view_pager.xml
+SHA-256-Digest: q9TOoI+8pPt3YS2Dja2Lc+w9TiWaQ+2B1JTyEJ7Djcw=
+
+Name: res/layout/reset_network.xml
+SHA-256-Digest: BxYYXtbAK5WprrOB15kBKE7G0pxN8cxM//3wO5mlE/k=
+
+Name: res/layout/preference_icon.xml
+SHA-256-Digest: 4/fNcvCUF0d08/4qtknJpXKXLxoJBK3x33BaN37MfmI=
+
+Name: res/drawable/notification_bg_low.xml
+SHA-256-Digest: BNPMsQJwvktFGZviQrR4bbrfWLUh/l7knQ/Jgd74Jaw=
+
+Name: res/drawable/ic_settings_bluetooth.xml
+SHA-256-Digest: FTUwX+4/ZP9mx7vhXoGnAQa/jEPdU+4qBkmTJNTnsso=
+
+Name: res/layout/preference.xml
+SHA-256-Digest: 9vzRt6dd8icdaoBWUAxmpGjdnmk64ZS5gWb3xTNCA/s=
+
+Name: res/menu/manage_apps.xml
+SHA-256-Digest: xVgDiujMjLjxOQOpLPWeolE6oEARtK3fJLVW+lFsJmk=
+
+Name: res/drawable-nodpi-v4/fingerprint_sensor_location_front_overlay.
+ png
+SHA-256-Digest: fTps2sSwOuD4knkWdEszBzeNU8Kr+KnowSVp5Nx3Uqg=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_light.
+ xml
+SHA-256-Digest: wyZ7BCy7xukmQntsL3cYQOiMZTqeQqcxzI1Kko951F8=
+
+Name: res/layout/preference_appops.xml
+SHA-256-Digest: bFx4JN7Beyx0FnsDmHjxGxfGDqXvt1j90sJpsLePVxo=
+
+Name: res/color/abc_primary_text_disable_only_material_dark.xml
+SHA-256-Digest: QAoHcg33kwUlZUovpGpBfUk/c9RjtrKkNLiy/2dniKA=
+
+Name: res/drawable-xxhdpi-v4/ic_wifi_signal_1_dark.png
+SHA-256-Digest: ArhQhhXJb6q9SdR0gXOXhW2ph19ixhvlTr4McBnUKqM=
+
+Name: res/drawable/suw_navbar_ic_next.xml
+SHA-256-Digest: GSPENrfQFOtKMJ+C55MHtVPj68yc2JXsYvIV1Ib+yWY=
+
+Name: res/drawable/ic_security_pwd.xml
+SHA-256-Digest: FADgrlB02mp6UB8gT1PhOYPXnE1H44WdZkNNLoX4+Pg=
+
+Name: res/drawable/preference_background.xml
+SHA-256-Digest: CIMvEMy4LR6wONLL7rESzJ/iDZ/jQpLtpIPoayJpfa0=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png
+SHA-256-Digest: nU96OSscFjAzn8yo4AvncjN7zLXVJ8u/Shl7XJH3SVI=
+
+Name: res/color/audio_icon.xml
+SHA-256-Digest: wPyfEXrboyD34wKZDPhrmIJ2B8CGM7asYpb/IKzTFEk=
+
+Name: res/drawable-xxhdpi-v4/ic_settings_cell_standby.png
+SHA-256-Digest: qVZmG2d5doFL6KY6DEcRz5Qdf1RymomFhEOV5gzolBo=
+
+Name: res/layout/support_phone_dialog_content.xml
+SHA-256-Digest: 98nZovq5ImnPD6vGXJlsmgjwMKXbtrHeBRMljIoVozA=
+
+Name: res/drawable/ic_perm_wifi.xml
+SHA-256-Digest: M+yL5JsL3aotVMmh38dbAxrdodc5l7W9z38+DcsCUk4=
+
+Name: res/layout/wifi_config_info.xml
+SHA-256-Digest: LW0KIBPX/FYYYVfdUI2HlM7WtCLvS8DacnRipvQLFMU=
+
+Name: res/drawable-xxhdpi-v4/ic_settings_roaming.png
+SHA-256-Digest: Zyd2ybY6R8g4WcXZaQF8Yzsiw2xsHEL/v3l7Ex7A2cI=
+
+Name: res/drawable/ic_shortcut_data_usage.xml
+SHA-256-Digest: 171w2e3ZP3DMOiZv7dM/bcjO9hsk2r0snagnsAyKzbo=
+
+Name: res/drawable/ic_settings_print.xml
+SHA-256-Digest: NDtnX9d+teqmXowWMQ4k71HvgBZI5WSEgmEhPIMfRco=
+
+Name: res/raw/gesture_double_tap.mp4
+SHA-256-Digest: bEVYFGazei1caAxxVX1Uo+whAhAG6LfEMgPGHYJPQSk=
+
+Name: res/layout/location_list_no_item.xml
+SHA-256-Digest: Ma3QzNh+B5SAOv6+ebZX8qdiMf1xSJK2/9/OE9KDSxY=
+
+Name: res/layout/vibrator_intensity.xml
+SHA-256-Digest: dRBqEUcYzdSIBxPQtx1wh2IfhGqeEQCGMwOWJ5dwGg8=
+
+Name: res/drawable-xxhdpi-v4/suw_navbar_ic_right_arrow.png
+SHA-256-Digest: CvClFx3D1tOlGaCrYayt3yqOD75bfOC9Lt6t9r2Zfr0=
+
+Name: res/drawable-xhdpi-v4/lock_anim_12.png
+SHA-256-Digest: eNAr4gAcFd/qoGMuTQpv8RVmdduvMD2m1P/yulHgm1c=
+
+Name: res/xml/app_ops_permissions_details.xml
+SHA-256-Digest: 9vk5u/ntykfMdxC9bLRy9DMKxkIis7MWT5NJk6G0o4M=
+
+Name: res/drawable/abc_cab_background_top_material.xml
+SHA-256-Digest: qpwjgsXYZLJ899JLGZRgx5qqsbOvUlaYHO0tS0Bv7m4=
+
+Name: res/layout/condition_card.xml
+SHA-256-Digest: rygPSxvcInr/CKQ6OT5H6rCRNfAJrbOpT095N9FzVdY=
+
+Name: res/layout/restricted_switch_preference.xml
+SHA-256-Digest: soAyZIaqT/UjhYlrq1kMVZPo1q16w7SkfMuEsd+0QZg=
+
+Name: res/xml/data_saver.xml
+SHA-256-Digest: 9RWvXtRjlie5syUieP7tIiLVL9e/IE6UlBxmeY9zHtE=
+
+Name: res/xml/power_usage_summary.xml
+SHA-256-Digest: Jrv4RTTADXrNPDwlZdEKWcQ52F+8CAmTM+z/Z16O0Pw=
+
+Name: res/drawable-nodpi-v4/gesture_twist
+SHA-256-Digest: 2pYRZvU2ONeth5F/kxgzJrrybh64IqGnouToi6jI+jI=
+
+Name: res/layout/app_ops_item.xml
+SHA-256-Digest: /0qA2OLRrRIxqGUEV4rTjzRpVgArCVtr6ulotALQPHM=
+
+Name: res/color/abc_primary_text_material_light.xml
+SHA-256-Digest: wUqY0jGMCDtjPJ/A89UsJOhZsRh1AQTLcyGnAgJRkJ0=
+
+Name: res/drawable-xxhdpi-v4/ic_sync_red_holo.png
+SHA-256-Digest: TkQfwbXv0KTcyUThJO+UCNIL/15O4W2u3+QX/KrbakM=
+
+Name: res/drawable-xxhdpi-v4/appwidget_settings_ind_mid_r_holo.9.png
+SHA-256-Digest: 6t063aRcA7KbMZlonANAiJj7qRZRS+spKjzdhnQr474=
+
+Name: res/layout/suw_glif_template_card.xml
+SHA-256-Digest: zvMJs2eCCjvTUm6ifLFNyLxdVx5J5Yi00D2kE6Wh+uk=
+
+Name: res/color/abc_primary_text_disable_only_material_light.xml
+SHA-256-Digest: 6F0Gjfb1Wrk+rz42nB0jBMrsn+VzS5TKiidUY9iGo8Y=
+
+Name: res/drawable/ic_warning_24dp.xml
+SHA-256-Digest: YSp0RGhHArO5yUAEVMUrvd87dU2bJjb8+HWqlgZHnSo=
+
+Name: res/drawable/ic_wifi_signal_3.xml
+SHA-256-Digest: 5XPxzGwQyAATRcg//fDpFdV/7kxvQSEWVWw5J9DYMlY=
+
+Name: res/xml/device_info_settings.xml
+SHA-256-Digest: z9CyQEXS6e7Dcy8N1pItV+UKZT0O1DO2gBT3husdBwY=
+
+Name: res/drawable-xxhdpi-v4/ic_wps_dark.png
+SHA-256-Digest: VjlsrweCF2P2wqsnAG47WBdb/i5UMcYhLKKiG4BZeG4=
+
+Name: res/anim/abc_popup_exit.xml
+SHA-256-Digest: YeZdjlPaz4Uq71nRj/UCdiAWNTNsBoRfCFnRaKTcfxk=
+
+Name: res/layout/storage_internal_unmount.xml
+SHA-256-Digest: s/Df9mv4kyiV/8930cB2oE9a58rfeqHlJn/y//+KjXs=
+
+Name: res/layout/admin_support_details_dialog.xml
+SHA-256-Digest: p81yylTC/o9oBIujD8KG4btoJM57Mtz5h4AmTPQNLmE=
+
+Name: res/layout/regulatory_info.xml
+SHA-256-Digest: Sc/KzxR1MhN3wOpFi8clLxhwCqN2Y3jy0GNqQQZgodo=
+
+Name: res/xml/apn_settings.xml
+SHA-256-Digest: 6HOfAVwS3oFsMycaXDir/nKmS5YMsr9ieA1mlyAkZOc=
+
+Name: res/xml/security_settings_pin_sub.xml
+SHA-256-Digest: g6Vhw4Xty02T+g2NGFHCwSdnmoLfPHxsyXWtsmzcfOk=
+
+Name: res/drawable/launch_app.xml
+SHA-256-Digest: A2ylp27W43aOq5gnqljovWuGd7r8v+WvegmZBSyDa78=
+
+Name: res/drawable/ic_fingerprint_list_icon.xml
+SHA-256-Digest: n2rMwEjhz7xCfqTSq5QQvbF8lqqoNFKddUl6TU8Zrtk=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.
+ png
+SHA-256-Digest: IV7tHmFowPQePpGbRNSjgm5rnsalQJbhhHdZcRWWD+A=
+
+Name: res/layout-land/fingerprint_enroll_enrolling.xml
+SHA-256-Digest: 3s7JRYWFcBQISS2/fKHU3WCBFaqIRLEogyS1mx+Zccw=
+
+Name: res/xml/managed_profile_settings.xml
+SHA-256-Digest: S6JCrLdWaTlNairWTtls5pYBTxyDAefwY0dsi/13slA=
+
+Name: res/drawable/ic_security_pattern_6x6.xml
+SHA-256-Digest: PtBXcXY/XMDWqsvJ+gjLrjErOW/KZo8K9mS+kT9zyi8=
+
+Name: res/layout-sw600dp-v13/date_time_settings_setupwizard.xml
+SHA-256-Digest: ycqNwLJcbJNDY4biPSUPZgZRsQFLSXzg3ZDFFaOr6MI=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.p
+ ng
+SHA-256-Digest: 3G7tVGatkSw7X/H9Pgf533U0DkYVYKJOIxFsXFZagLs=
+
+Name: res/drawable/ic_perm_drawontop.xml
+SHA-256-Digest: qrHWCPI24PilGxa4qnifN2SpALSYglYGD2gPWaYWlYA=
+
+Name: res/drawable/selectable_card_grey.xml
+SHA-256-Digest: zgQA+4j50Rj7CdKfsxIEiOaHXHDc35j3tlz+93jpcF8=
+
+Name: res/drawable/abc_ic_voice_search_api_material.xml
+SHA-256-Digest: 3jwsPcZ5wFk6l2r/Zt8A1V/QMSPf5JFroc/5rs40F6M=
+
+Name: res/layout/keyboard_layout_dialog_switch_hint.xml
+SHA-256-Digest: OYt2m0wYtcRF1cbgexODER9/Vw59ojqxC5jp19ojtn4=
+
+Name: res/xml/testing_settings.xml
+SHA-256-Digest: VQhKxAeJitMMosxTliY3l7y6jG933h9VyDgXWgZ75Ko=
+
+Name: res/drawable/ic_wifi_signal_2.xml
+SHA-256-Digest: idJRfjhRchDIQ0R98w4Rzw+USNgC0nDi7WiHUsPs8u0=
+
+Name: res/layout/font_size_activity.xml
+SHA-256-Digest: tHA9cKhVtCTLt4XVotDhcsA617QsN1rL1hYGECuOzYE=
+
+Name: res/drawable/abc_ic_ab_back_material.xml
+SHA-256-Digest: Q00ybjoE+E4LUB1qdGxTAdm2qPDIH0gfcyQ1KCu565Y=
+
+Name: res/layout/app_preference_item.xml
+SHA-256-Digest: bAY0h1Lo9Iw2o1YIN24sXd26GNvn/NUnrQQ7dX/hRGY=
+
+Name: res/layout/wifi_setup_custom_list_item_1.xml
+SHA-256-Digest: 5R2vA8U2kb4dBdMZNOsK5LRx+bAU6toa2hWuQDkUk8U=
+
+Name: res/layout/dock_audio_media_enable_dialog.xml
+SHA-256-Digest: zhTvwCbk04UTBmLBGbPh16pLnRBaCs1VeaezOJNYf2g=
+
+Name: res/xml/accessibility_settings_for_setup_wizard.xml
+SHA-256-Digest: wGHRuIol5VBKd4pqX+06zlBnfDSBuo1MHMoAMz7rMnk=
+
+Name: res/drawable/wifi_signal_open_dark.xml
+SHA-256-Digest: kAAarZZP1Q1dVh5PHrLh6jZzK4eXlDLNMagtwWsQQnA=
+
+Name: res/layout/crypt_keeper_password_entry.xml
+SHA-256-Digest: 39iVDB+iIPsSrTexZVxTfNsAN2q/G7jouNIqwgjCMGQ=
+
+Name: res/menu/data_usage.xml
+SHA-256-Digest: 3BNi0h9TOQNUTqxsm4QmqeAYm7SwV4kbDjtS8sp1V40=
+
+Name: res/layout/choose_lock_password.xml
+SHA-256-Digest: Xb4w4CZsuRPZ8MgitFqknLhzu0WYc8qanc2pt4nhak0=
+
+Name: res/layout/password_requirement_item.xml
+SHA-256-Digest: 24Es0h0m0ROQDkvSv9yInZBbIWXFFzYgvm1JoFE1ctg=
+
+Name: res/layout/setup_wifi_mac_address.xml
+SHA-256-Digest: wlM/uqxBrHTmH5zpvhXwg12PjWbi0FD2QkUw5pNpXRE=
+
+Name: res/drawable/ic_help_24dp.xml
+SHA-256-Digest: GvsULalbEMg3wSKg57kRStbYIyCGyaAYUmltrkzXHvg=
+
+Name: res/layout/master_clear_confirm.xml
+SHA-256-Digest: QTOV8KIoBAc0J/48AZD8yRtzyI3dCZxxqEqSytTQ6C4=
+
+Name: res/xml/file_paths.xml
+SHA-256-Digest: z0sxQs/PwAijOgzzDGqCSDEnjJwSd2zEUsjEghahHLo=
+
+Name: res/drawable/ic_fingerprint_24dp.xml
+SHA-256-Digest: DgDDirysmPpg6aIyCtt08ra1BHZ35O5f36lD7OR3oJM=
+
+Name: res/layout/dashboard_container_header.xml
+SHA-256-Digest: uRUlhzCRudm6iKF2BvogUbMloSwk8v4gmdrwnePJn0A=
+
+Name: res/drawable-xxhdpi-v4/transparency.png
+SHA-256-Digest: xBCCy866kI4Bx0TlEmCIfZ1T6HkUo+z2W46E9xy/Pw0=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: NZqhLsQ+bOy+x5+cryKlZWqXSiSDGb48ngmgyzUi0z0=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+SHA-256-Digest: nts3ul88UqIihjRp4thpuki2fe8J4/9HDOPi+4jqk7w=
+
+Name: res/drawable/wifi_signal_lock_dark.xml
+SHA-256-Digest: lwHfEblgtP7VXqFuOk6+gt8pMqR9tw1EwlN7drXrT7I=
+
+Name: res/anim/abc_popup_enter.xml
+SHA-256-Digest: 4i7bcyddbylvBxBcLeSfxRBdjgzUJbj8spHMHie0P0A=
+
+Name: res/drawable/ic_menu.xml
+SHA-256-Digest: HrwOJuCn27xHfbabQoJOU8kaSaKEllC/JT5X4Nutqo0=
+
+Name: res/layout/crypt_keeper_switch_input_method.xml
+SHA-256-Digest: L4OOjjrH/8AhR+9KcmaH6YTvvP9Q7TABcI+Bm0qMojY=
+
+Name: res/color/abc_tint_switch_track.xml
+SHA-256-Digest: Wl52sF8n3xvsVKtrf9Qz4brJJbLsMFP0ga/QnSqoZEE=
+
+Name: res/drawable/data_sweep_limit.xml
+SHA-256-Digest: SsED2X3RG2DdkzDHkR0tyCH1BWisj3I8Pa+6iFcNQMg=
+
+Name: res/xml/zen_mode_settings.xml
+SHA-256-Digest: Da1hyedLyo9SYoYBNXP6GrPWSd3HDgyzmyDWkwB3gNA=
+
+Name: res/layout/preference_dropdown_material.xml
+SHA-256-Digest: E1P3/HfVmrHkb5yN80tsOcYnlRkvkaJu5WIWAkmZ27Q=
+
+Name: res/drawable/ic_perm_su.xml
+SHA-256-Digest: gGPCJuXAS0WMb5fX52s4ueiYmdfVZ2abtf3dbzEETzI=
+
+Name: res/color/abc_hint_foreground_material_light.xml
+SHA-256-Digest: 7bE2CebVWV9Z7BySzoysHWr9YCk6xl2pjs3QKYcJ3G0=
+
+Name: res/drawable/ic_settings_accessibility.xml
+SHA-256-Digest: dqNuw+0YzItA6mTLspbgo8zMFT3XzUrUs+8QMokheuw=
+
+Name: res/layout/settings_with_drawer.xml
+SHA-256-Digest: 3NpvBOnS7aEzUTTBMXftVUcb3Xg9Ik5I94R+JCV9638=
+
+Name: res/layout/process_stats_mem_details.xml
+SHA-256-Digest: dskqtfbi8Eh7Uctjyi/phoAW/47/CEuoBWdXICExBak=
+
+Name: res/drawable/fp_illustration_enrollment.xml
+SHA-256-Digest: gVdSv7IkTNIeQcP/MVyG3J0MCziPejt36wr6CwNbxIA=
+
+Name: res/drawable-xxhdpi-v4/nfc_how_it_works.png
+SHA-256-Digest: 1C9uf0N2ZQWZQQ8TPYQah+SxpCJuOTttwKJY3PBSpY4=
+
+Name: res/layout/suw_glif_blank_template_compact.xml
+SHA-256-Digest: AOH/NR/uw6FyR0OW/oRUyVWpgRdypaaLAUOPILZXtM8=
+
+Name: res/menu/vpn.xml
+SHA-256-Digest: WDzlEgI6yZzWYp/wXOLVbvyghp1GazykTKqwVAR/+7w=
+
+Name: res/layout/running_service_details_service.xml
+SHA-256-Digest: S5bcoSF8DOwK6l9DVS8voaff8jez7jal1RrqeAekvBM=
+
+Name: res/animator-v11/suw_slide_next_in.xml
+SHA-256-Digest: Ey8/bJDATi2r4dXRiovjmLlHkyR/0tuSkFd8cvxmupM=
+
+Name: res/drawable/ic_bt_headset_hfp.xml
+SHA-256-Digest: Fo8zBr1V+nNY5L5Je76duQswXWI9Afvjnk1UN78omiU=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+SHA-256-Digest: Ymot+K5J6ZVKOjHehcYdSYX3JuJB1I5zP40S5CeU2hE=
+
+Name: res/drawable-xxhdpi-v4/ic_appwidget_settings_brightness_off_holo
+ .png
+SHA-256-Digest: 6yy06Bw2I04fhD0E2O022Se+21pD3xjDuKo4hwHcHXE=
+
+Name: res/layout/apps_filter_spinner.xml
+SHA-256-Digest: idl1Yj/N6eZhWnlJca8Va0x5P+fnbdqfoLtqcJe4b+0=
+
+Name: res/drawable-xxhdpi-v4/activities_icon.png
+SHA-256-Digest: fUOTmm6arehQTGj41XrxzWjIrkPpZCvLKLBqjKZVyP8=
+
+Name: res/drawable/ic_fingerprint_error.xml
+SHA-256-Digest: OtYFqVBzGo3lLqnICyFf/xVZGxeKQu8n/nhRmFS8vHY=
+
+Name: res/layout/confirm_lock_password_base.xml
+SHA-256-Digest: JVwvdaiQEFFail0jAROydR4kaFQXBLKuAu1y2+5pp7w=
+
+Name: res/layout/wifi_progress_header.xml
+SHA-256-Digest: krqMqhqKubKGWvxy4piYw612Is+BgzxKbB6AT3uTkAA=
+
+Name: res/layout/preference_widget_switch.xml
+SHA-256-Digest: v9uBr+UX/69KvVeeJQUYRekRCrY69HvwnejLWBQXdtg=
+
+Name: res/layout/preference_category.xml
+SHA-256-Digest: NO1XAzx4LXnSkQGhUTRK/EyANkiQ2tfLlafwUxYQbtE=
+
+Name: res/layout/reset_network_confirm.xml
+SHA-256-Digest: fG5AP9ltwS5bPFEflqYh4cH4YMT1CHi04anXyL/1IIM=
+
+Name: res/drawable-xhdpi-v4/lock_anim_11.png
+SHA-256-Digest: b9ashHw6eMdXghEqB2MNQJBzSVNty/Qx9H4szd3HWS4=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: E1SD9f8GHvJgyf1HhXw4+CpmcilhHjBDR/BaDHvfqOM=
+
+Name: res/drawable/suw_card_bg_light.xml
+SHA-256-Digest: ZkTFjZM+5CozmZtcG+Jn+xzs3iei2LFD5xdr42FM2Rg=
+
+Name: res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+SHA-256-Digest: uRgQo9hFR1D/7YNh7ht9LAKLyudwHLVzwVuLPpNiWmA=
+
+Name: res/xml/configure_notification_settings.xml
+SHA-256-Digest: 5MSf1UdjjVpHnLcDR83nmVtfEkgqmPbTL7/7xliBm6s=
+
+Name: res/drawable/ic_wifi_signal_1.xml
+SHA-256-Digest: 9YsURkp82FNeHUaCaMNTX0DwiPUclcyeveez4HSTzHQ=
+
+Name: res/layout/patternlock.xml
+SHA-256-Digest: bw4i4nb6995AeEB4VZ4X+ekptU+XUHTLaxfcjaFO6kg=
+
+Name: res/layout/device_admin_add.xml
+SHA-256-Digest: hwLP9QXXA3M5gphunSSUBAlPzG3eLiPHsMN/VfacuVw=
+
+Name: res/layout/choose_lock_pattern_common.xml
+SHA-256-Digest: aN8tyjf6mlvyZwt/yZuouYr/xIUpHp+s77Fr9Jm2Udk=
+
+Name: res/layout/locale_drag_cell.xml
+SHA-256-Digest: QsD43RV5YXClDbKejDQM2kKE+Z5vcdzLVXsAkYZUgHk=
+
+Name: res/layout/conversation_message_icon.xml
+SHA-256-Digest: KbBhgldeVG6J9PnPvjUeRFrq/eCTcP0890LEgxWZj8g=
+
+Name: res/drawable/ic_perm_notifications.xml
+SHA-256-Digest: 0OyezQExRxMOF8uGtFw1DdjnQUwJ4+a5bfZiYbybtB0=
+
+Name: res/layout/preference_dialog_seekbar_material.xml
+SHA-256-Digest: 0pFp8NMf3lcfQFQO02cLm5aU2yVLycOQ/TWHX49h4tU=
+
+Name: res/layout/setup_wifi_layout.xml
+SHA-256-Digest: eOUBuHgWe3sz8ksyEBD1Wl+XpDBhE0wnIENqVi/5K1M=
+
+Name: res/layout/bluetooth_device_picker.xml
+SHA-256-Digest: 1YjsUtcWTT/ytHk7DigdENS2X3tJrEe20MzOtKbTkUY=
+
+Name: res/drawable-xxhdpi-v4/appwidget_inner_focused_c_holo.9.png
+SHA-256-Digest: Pz3qTDzekQ59kdKIglHLap9W0ots2u8xuOW4u8ElAU4=
+
+Name: res/layout/bluetooth_pin_entry.xml
+SHA-256-Digest: sOFJ6KN1fOa/X8QDSX+YDyXS3h/HGIjMX86gGjF18ow=
+
+Name: res/menu/options_menu.xml
+SHA-256-Digest: jxHNLdJ18YSf0bJkp1F7Dkt5Rh9S6kKarZLhrFs0vf8=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.p
+ ng
+SHA-256-Digest: mBmDyW2IbEuxkXm5ZdcTxtU/OCwM0TuxxKHn+JzU/g4=
+
+Name: res/layout/settings_main_prefs.xml
+SHA-256-Digest: Ii2PfP+uZNEqDJCfVkAYlo+a3UqLYcYE29oO39m845M=
+
+Name: res/layout/fingerprint_enroll_enrolling_base.xml
+SHA-256-Digest: j8NQycwvKnKlCgGIRIUzV07hnITUs/YFnzHXTF8hEwA=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: Y6tTfbTACyvnsXcoxhbSlHyjGwn7n78UgwUC5sx665Y=
+
+Name: res/drawable-xxhdpi-v4/appwidget_settings_ind_off_r_holo.9.png
+SHA-256-Digest: QbpzGDSzBomX8VRubIn32uFvys2oPJpJuN279122dlM=
+
+Name: res/layout/crypt_keeper_settings.xml
+SHA-256-Digest: z6RD3QVC23ls0K8Q7j/725kkNeMGnSiS/81Zy5dBaLA=
+
+Name: res/layout/usage_stats.xml
+SHA-256-Digest: evo3ory9yd3ThKb2m+oWFpkAH44xXKDlV7Kn/enDSek=
+
+Name: res/layout/preference_dropdown.xml
+SHA-256-Digest: WigVcXIdQd67b3jdc2+MbXdwYqShJzjGbsNgwelFvrI=
+
+Name: res/layout/abc_popup_menu_item_layout.xml
+SHA-256-Digest: N1i5FzFaB3MY2CeaxaMY+gFec8owH3VC4/3IgXAKGRs=
+
+Name: res/animator-v11/suw_slide_next_out.xml
+SHA-256-Digest: +0WOtt9jHMz2aXa1HSR6SAj1pPtQykfr8sFaU83xmiQ=
+
+Name: res/xml/security_settings_pin.xml
+SHA-256-Digest: D3bEWxLyZCR1Tw/fkNzB1/KB9xMUgwJuj6LJQlWcr8Q=
+
+Name: res/layout/nfc_payment.xml
+SHA-256-Digest: ho8FAEKCNMgYwUSKthNzypDJiV9m46n05Ym79X+vju8=
+
+Name: res/layout/preference_material_settings.xml
+SHA-256-Digest: yTbP2+H84vbK1WPNEiwCVuJrZRPyXnO0h3UMKVP4mB8=
+
+Name: res/layout/battery_usage_graph.xml
+SHA-256-Digest: XAEygPXojxORCKz0wToyidNR/o82CnmoN/aUZa/lCNw=
+
+Name: res/drawable/abc_ic_clear_material.xml
+SHA-256-Digest: FK/OYCS7GpjI7G8CAY11rrl57QP46pHVqjekA+JrAoQ=
+
+Name: res/drawable/ic_settings_applications.xml
+SHA-256-Digest: oGDBniEOnMnPkombJXnw7q2pkYyQJ6Nwe2o+0aUdSLA=
+
+Name: res/layout/setup_choose_lock_generic_fingerprint_header.xml
+SHA-256-Digest: fuXBLvxHYqDpXPRfdsHhPLjjYNF4mVH8xG06dKIiApA=
+
+Name: res/layout/suw_preference_recycler_view_header.xml
+SHA-256-Digest: ypwXMHU2lxeyDZfkfm6yhptMBRW4MJGkNdiNirPrfwo=
+
+Name: res/drawable/notification_auto_importance.xml
+SHA-256-Digest: IP5n75LWVGv4pGJuQnLCaLGcuh2Dy5hrbkz5kkLO+bg=
+
+Name: res/layout/search_result_item.xml
+SHA-256-Digest: LIPRyq5hMErYooBJBBPIf1WbiyX+WwsME838HWyxt8c=
+
+Name: res/drawable/ic_delete.xml
+SHA-256-Digest: bre8uCyoNjpWT9WwfAePMnexzrw2kM6H+jt8KU64UMw=
+
+Name: res/xml/battery_saver_settings.xml
+SHA-256-Digest: 1YMIqOC/hyeBHb0D1rt76pwl/xXPO5ZPy6f6cO3btJ4=
+
+Name: res/drawable/ic_airplane.xml
+SHA-256-Digest: kdlTWaUh40Q5RavJk3U9tZ1qJdwv+ilNI0B068xzJao=
+
+Name: res/layout/preference_category_no_label.xml
+SHA-256-Digest: o+gavBpHxZl5BoWgJpLBi3I7lE9vnJCJxJsN4nYXm0M=
+
+Name: res/color-v23/abc_tint_switch_thumb.xml
+SHA-256-Digest: m3kCUrI18rx7ZYfbpjQcHHgCoz+RK083s8+yiAsWv+I=
+
+Name: res/layout/abc_alert_dialog_material.xml
+SHA-256-Digest: HSxeFG1y4da7IUwkw61LnxGqLGqramZgnZrvsvJ/hnA=
+
+Name: res/xml/security_settings_pin_profile.xml
+SHA-256-Digest: FCHprKAntzLYPq3q7wYG+Syff0v/lHJKe/TVnVIq6Gk=
+
+Name: res/drawable/ic_settings_storage.xml
+SHA-256-Digest: nVnKH5WJ6igPH8xM4cNu7c3xHfdeQlM//CSl4ikGoBM=
+
+Name: res/xml/billing_cycle.xml
+SHA-256-Digest: nOZE02x1fLNdAZBcn8T7oeABxHkd/WhbXnaqVnl3t9U=
+
+Name: res/layout/manage_accounts_screen.xml
+SHA-256-Digest: aoaS5XkK+FTcYK1zHejxh2Irv7+ZSL4fE2CVLhJ+Bdk=
+
+Name: res/layout/preference_bluetooth.xml
+SHA-256-Digest: CsHjgJ1/9Nmzoa+FOAaL633z+qIwVVrx4IhoUK7XrWA=
+
+Name: res/color/abc_tint_default.xml
+SHA-256-Digest: gA62zxfxNOlSA8ui0tE0qMFBa+3Az32BOa+XnwjJZ8k=
+
+Name: res/drawable-xxhdpi-v4/ic_wps_light.png
+SHA-256-Digest: Hk9dCRPOF56bi9+qllx02zVP/CslDgAi2+xDHssTzM8=
+
+Name: res/drawable-xxhdpi-v4/bg_portable_storage_header.png
+SHA-256-Digest: tswfTlXAmGtyTwVnUDMbH2juQYFAvulrjvizyvt4QKE=
+
+Name: res/layout/confirm_lock_background_base.xml
+SHA-256-Digest: G7AXKk67RBNQETlNZgeqvJD0PQc2jdAY2YzsSS4vxsY=
+
+Name: res/layout/suw_no_scroll_template_card_wide.xml
+SHA-256-Digest: ILXVrQ+Bc4MH5DZXSpQ8p7EuiWWpNtisbXZp19ApkSQ=
+
+Name: res/drawable-xxhdpi-v4/ic_appwidget_settings_bluetooth_on_holo.p
+ ng
+SHA-256-Digest: 1/W8KEKQ0nkwOsNYVyCUnx4Xt4Li4ZtS2HMx4HGyrSw=
+
+Name: res/layout/preference_dialog_edittext.xml
+SHA-256-Digest: G2Gxa42H3M5PXr5GHhVvBaTlBAXgc8haetrVd1ClG08=
+
+Name: res/layout/two_line_list_item.xml
+SHA-256-Digest: wDb4MCoqqByJL0hy/soyKzZihnatg/BUegZItvPDI4U=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: 4UK7ykSwVkNGFshBaOoVbxroOziY2B3OIjoC4/W/234=
+
+Name: res/xml/device_info_storage_volume.xml
+SHA-256-Digest: 5Upruar7AKbqHUv9XVNavWKpa2N+MuzSI0qw+lANjAA=
+
+Name: res/drawable-xxhdpi-v4/ic_wifi_lock_signal_1_dark.png
+SHA-256-Digest: 4eqXmp6M4W5b3XQujoYOBL2UatbQz5WYKe6kSBk+PMw=
+
+Name: res/drawable/ic_settings_sync.xml
+SHA-256-Digest: 5axKYMLvefNDSXxFAVT7w2KNxa1KHGMbp3p0Ra9E8Xc=
+
+Name: res/xml/wifi_access_points_for_wifi_setup_xl.xml
+SHA-256-Digest: tucuNrjS4gxirSjWYv4FEM81FGJ70NZntACScL7JDrY=
+
+Name: res/drawable-nodpi-v4/gesture_ambient_tap
+SHA-256-Digest: hRbtM+Sq4nWvlsEwleyikQty8bbypFufh4B1CPNnT4o=
+
+Name: res/drawable/suw_navbar_btn_bg_dark.xml
+SHA-256-Digest: 0UjFiEl73YnALhX7/g+vS1vYgAJMucZ2Yaxy/pfaKsI=
+
+Name: res/raw/fingerprint_location_animation.mp4
+SHA-256-Digest: 29kv0Glch03iyJj8hJJLDVPvqyrNSA7wik1D7+dSbd0=
+
+Name: res/drawable-xxhdpi-v4/data_grid_border.9.png
+SHA-256-Digest: RN7n8fQud7m6AwAXE/NfvnM05kmw0w/9BMZZxFjNeNk=
+
+Name: res/xml/security_settings_lockscreen.xml
+SHA-256-Digest: Rq/BiN39xuiUsW7ey0UyxWFkJYi8NbR+YQtiDB04ZFI=
+
+Name: res/layout/app_version_and_package.xml
+SHA-256-Digest: UeBYnR/B9+yWtasVDh4kG8RdKwURmia677UOq6IbWD4=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA-256-Digest: qfKrLd1/1SX7rdRtiLgqVhZh0hKbUqHlUJJ9Q9MJ+6M=
+
+Name: res/drawable-xxhdpi-v4/ic_appwidget_settings_wifi_on_holo.png
+SHA-256-Digest: D7UAAr/cHdWRxZbfelf33ORsKlo/sfBYDvqoAjJLyrQ=
+
+Name: res/drawable-xhdpi-v4/ic_grayedout_printer.png
+SHA-256-Digest: aRlqHQ5wG2aaok/DBWe4bWd4dWMZEjvyRmcvCRUhlYE=
+
+Name: res/layout/confirm_lock_pattern_base.xml
+SHA-256-Digest: hdBZZxej6Q8in9nKtD2GI5kl+jyl3JM+rkptq4T2xnc=
+
+Name: res/anim/abc_slide_out_bottom.xml
+SHA-256-Digest: buWu5qjuulPE3WZaWtftHJkzep1MSmQLO9gLSxeAunc=
+
+Name: res/layout/notification_template_custom_big.xml
+SHA-256-Digest: 7XJWYlrgYJdt2jtUAMSrEenbNpFmc4c/kGUG/UEJImQ=
+
+Name: res/layout/restricted_switch_widget.xml
+SHA-256-Digest: 20BTuxaztk6nUmZWKtP2l10vSzKdH+RjbQ3tbu9gq9s=
+
+Name: res/drawable/ic_wifi_signal_0.xml
+SHA-256-Digest: e7+rzJrnNq0XVNSHnSM4chp3X3t1AglGFuNhUINylD4=
+
+Name: res/layout-v21/preference_material.xml
+SHA-256-Digest: M5AqLWkDBCejvGpg4wDY7lUq/3zR8KaxVPqDhQC0mGU=
+
+Name: res/animator-v11/suw_slide_back_in.xml
+SHA-256-Digest: kdCwUJrQqoJIsZvw4Z8HdcUKOXwvoDpXZqQTdd/yvS4=
+
+Name: res/drawable/ic_settings_24dp.xml
+SHA-256-Digest: R+/LdSTMkdhdCJYrQGUvjNj9xSLA+9NryTiyND8QO/w=
+
+Name: res/layout/wifi_display_options.xml
+SHA-256-Digest: 2Gx2k0BmDfFhKQYM770dAO91w4VhLPPufY/V36A2Nb8=
+
+Name: res/anim/enrollment_fingerprint_isolated_ridge_7_path_animation.
+ xml
+SHA-256-Digest: DUlHbf3stCqUdizb7Hm1HWLm3zMZmUo/+KBOHxjJqi8=
+
+Name: res/layout/restricted_icon.xml
+SHA-256-Digest: uhpKUkoscrlYpIFWOUbnRBcfpwJAPCqPh+KMiOnRxIA=
+
+Name: res/layout/preference_app_restrictions.xml
+SHA-256-Digest: 6fMXDOJ3Tf7QB4gaM0T99lSwi0QifZJdmMZpisCA38g=
+
+Name: res/xml/configure_notification_settings_profile.xml
+SHA-256-Digest: SsdpWNo0X1hoiS/3Pm7VjHofP+/m+wZkFHrpfdkLYBM=
+
+Name: res/drawable/ic_wifi_signal_lock.xml
+SHA-256-Digest: aAQdY/F2kIEL5S9GHcBeRM0ZX+fzeegzIk8CF9vAGbU=
+
+Name: res/drawable/search_panel_list_background.xml
+SHA-256-Digest: 5DleUUc1HY0I8sO9YXIpJ7JcoDmLgTj/MJw73azVHmY=
+
+Name: res/layout/preference_linearcolor.xml
+SHA-256-Digest: oLkuEGPIp1hrUS6FCALnmnRPZmjfbNg8Tp6f6xJfzDo=
+
+Name: res/layout/intent_sender.xml
+SHA-256-Digest: clDDYiKvYR15c/jzjFD2hfRyHggSrOWRxVZXKwZCHhQ=
+
+Name: res/anim/confirm_credential_open_enter.xml
+SHA-256-Digest: c9XYrFLZN0qd5azscuEuMW+ZLN8qICxSbwYqtbveFCg=
+
+Name: res/color/abc_btn_colored_borderless_text_material.xml
+SHA-256-Digest: 2HaoVNPUAwp/XC9ovLIMHz6DNKMDnpD3pm4YHi8JMSo=
+
+Name: res/drawable/ic_settings_lockscreen.xml
+SHA-256-Digest: dhCl2W2FaA22VoRkiFJNSRn8cxXlIeL0E490FXk61+s=
+
+Name: res/xml/security_settings.xml
+SHA-256-Digest: 2gLYWa9yonVdCt+RFmSSaNPMjD8zx0VDS2XyZ/5tLas=
+
+Name: res/drawable/abc_item_background_holo_light.xml
+SHA-256-Digest: ddrfAG429k7aAK9nLyWtKWS5WsGCiL9mhmpNLf55xRc=
+
+Name: res/drawable/ic_menu_add_white.xml
+SHA-256-Digest: mWpkIRPVLLX3OJu/Mx1X3DtcweTQ1oX3XS/kbQH8a2E=
+
+Name: res/layout/text_description_preference.xml
+SHA-256-Digest: 0bcRPuiQDqzNOpVENUgOKZkwEK5UIPsBrGFQ9/B81iI=
+
+Name: res/drawable/ic_suggestion_fingerprint.xml
+SHA-256-Digest: gA0uZYjFn7VUDiqNtLT0jSPWYL3v/LOhXwIu2+O8wb4=
+
+Name: res/layout/bugreport_options_dialog.xml
+SHA-256-Digest: nYw4cg1EO3oSbSTk486CF7ppeC6lINY0sZL9oFJT7+0=
+
+Name: res/xml/manage_assist.xml
+SHA-256-Digest: wc96Dtg3HVx1J17iANWPzGG+qUFJU+afLC8q+9ail44=
+
+Name: res/drawable/ic_perm_sms.xml
+SHA-256-Digest: /LQ/wj+1W3Ox+X/K8c8ZUJ3fzLeI+grtBPPAQquSaM0=
+
+Name: res/drawable/ic_expand.xml
+SHA-256-Digest: MHly02gm5JWcgrCZoXxwYXEvTgJtwDY4LXzMnbyCMBo=
+
+Name: res/drawable-xhdpi-v4/lock_anim_14.png
+SHA-256-Digest: tJ+ZtyTtqyQsdzxWgv53/7/ZoYU2Ff4DHpyN+3WlUm0=
+
+Name: res/drawable-xhdpi-v4/ic_menu_3d_globe.png
+SHA-256-Digest: TF9y40fl3pDeXlGRdQoB7h72C0BYnojgdBHtLSu4KgU=
+
+Name: res/layout/search_panel_results_header.xml
+SHA-256-Digest: jB+iOogezvkaE/eTdGGtTtnbzXFKetAaJuU82WbBajk=
+
+Name: res/drawable-xxhdpi-v4/ic_appwidget_settings_wifi_off_holo.png
+SHA-256-Digest: /xnr+qqGS9gTUjHYzQPp0SW15fmG3kL4fEQa+uNqbj0=
+
+Name: res/layout/suw_glif_template_compact.xml
+SHA-256-Digest: hI+/cizOzdpgXp53cNiZGzVRhOVaJHM3bxowN6t0LoI=
+
+Name: res/raw/gesture_ambient_tap.mp4
+SHA-256-Digest: UBnF3mb6armaHNcUnUc/SCAnOPECOMKr1foVhgaxfwY=
+
+Name: res/xml/vpn_settings2.xml
+SHA-256-Digest: XFY5rGC9V+8/VHYXZi04p31hhE9VrCbeJYj6a9EE9u8=
+
+Name: res/drawable-xxhdpi-v4/ic_sim_card_alert_white_48dp.png
+SHA-256-Digest: kxCRY1UFN8hImDr4ifj+TlBZ4GbpL8DblRat2Rv5wVs=
+
+Name: res/layout-v21/preference_category_material.xml
+SHA-256-Digest: O+MBLRWJaE2mZIwxX2eruVBX7RLRZ4Veq4eOcPxw7j0=
+
+Name: res/layout/permission_settings.xml
+SHA-256-Digest: bgfjuTRvepPWhb4IvRIapbQfU+Gtg5LcIuheX8OkPSY=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+SHA-256-Digest: P/dDkKkPPvdkDLaGUTaZmAH5FOe7jQYoYJbRSLnhAC8=
+
+Name: res/drawable/ic_add.xml
+SHA-256-Digest: jCunVB/VQoB/Aj9mIj6HiWH1m9TLt7jHD7qUAel1oQg=
+
+Name: res/animator-ldrtl-v11/suw_slide_next_out.xml
+SHA-256-Digest: rmBf7aQy2KW45+jc2MqBQIV2/yN8nNmLlcSvaTP4MDo=
+
+Name: res/layout/suw_glif_list_template_content.xml
+SHA-256-Digest: 7iHFuXDQAFvCd8eoUwTqp9NexV7yE5OVNlVUPr9rr80=
+
+Name: res/layout/preference_app.xml
+SHA-256-Digest: uZWJoh3gFDpZa3argATg0KWQ5/YJEe2nsTF4XB4U1Rs=
+
+Name: res/layout/settings_color_picker_item.xml
+SHA-256-Digest: zv+CLlGUhkOlU1hvKopL2Jwcc0HFbfg/MtFBMGvt1ls=
+
+Name: res/drawable/ic_shortcut_battery.xml
+SHA-256-Digest: 45ReoI7tZn90YieVVg1Oy5Ku7bwL+dSAlg2Vrcdky+g=
+
+Name: res/drawable/abc_text_cursor_material.xml
+SHA-256-Digest: u2YreeJNNtDR/BE7qxayhzK/0F9wV4chld0aMClC7Ps=
+
+Name: res/drawable-xhdpi-v4/lock_anim_13.png
+SHA-256-Digest: EycXsW62H2KdqaP6NWB7ZOOBNZWjuY8KD0KwPEzapG0=
+
+Name: res/drawable-anydpi-v21/suw_navbar_ic_back.xml
+SHA-256-Digest: nYK/8RQ/pobQrFn1+/jLjaCg6I+i3O8AWWazpVCtHJI=
+
+Name: res/anim/suw_slide_back_out.xml
+SHA-256-Digest: KEtYRmWfeg/5vHKUKUdof33FKPpDTcMmZZZr4zrwy4Q=
+
+Name: res/color/unlock_pattern_view_success_color.xml
+SHA-256-Digest: v8VWHTGHnWK/9ZVn1xO8HJyjE18TDXohFGaXxxwt98E=
+
+Name: res/drawable/ic_add_24dp.xml
+SHA-256-Digest: uHuP4JGa8jd+4tRDFFiUoevcG7C8o4Ky09Pc2GwZHg8=
+
+Name: res/drawable-xxhdpi-v4/ic_appwidget_settings_location_on_holo.pn
+ g
+SHA-256-Digest: F8MIlhPY+sEG1qqfZv8TX1OdDYY+C+odU/5SVoA06cA=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA-256-Digest: qk001exhk9KTyXaUf69vu+lXqeKAKtFr87tQGPJLG4A=
+
+Name: res/layout/abc_list_menu_item_layout.xml
+SHA-256-Digest: QdZ5hRAn1z1GOSq54FZQGomaboKxjhTGc16fPymg1Vs=
+
+Name: res/drawable-xxhdpi-v4/ic_appwidget_settings_location_saving_hol
+ o.png
+SHA-256-Digest: XbifzsSTafkC2NKVcBuQflLJF8Jp2h92oN/eEqzfCtg=
+
+Name: res/layout/wifi_dialog_row.xml
+SHA-256-Digest: 82416yAB9fG0PFpXs4gCI9n0/QsO14QxHdp83pV2R6E=
+
+Name: res/drawable-xxhdpi-v4/appwidget_bg_holo.9.png
+SHA-256-Digest: qzRFEMdxO71PohqFQVV0nWlO020+fKVPv/5kOM3Nim8=
+
+Name: res/layout/admin_disabled_other_options_footer.xml
+SHA-256-Digest: pkYJAL7DObS5Z/5YDXHKySthuuEDs773Z+jAKEMAm3w=
+
+Name: res/drawable/abc_btn_colored_material.xml
+SHA-256-Digest: jbaID5mYVEPBp0oWm8o4/tHAyMq/C6kNuHhUPI1JIwM=
+
+Name: res/layout/suw_list_template_header.xml
+SHA-256-Digest: 9PW3DaPg4raYPw4tnGZ+Al/rFk7/EsqUyYeYJ3uPOTw=
+
+Name: res/layout/data_usage_summary.xml
+SHA-256-Digest: qGhpw9fR/Lyf7vxUnJ6j38bA/8hFxSbRCRmUpWo4cwQ=
+
+Name: res/layout/abc_list_menu_item_radio.xml
+SHA-256-Digest: B2cVU74X5rqnKbXRZDexiZj7CtSp5YecxQycqGId3pk=
+
+Name: res/anim/enrollment_fingerprint_isolated_ridge_1_path_animation.
+ xml
+SHA-256-Digest: Vo2BIYd04zUI7/0rTI894utKUdPXVrAepQ6k9QEFYAg=
+
+Name: res/layout/choose_lock_generic_fingerprint_header.xml
+SHA-256-Digest: enc5CjVnqzjfTcX+J41IReyku7Zhwyl9Pj+9UK3Cvvk=
+
+Name: res/layout/wifi_wps_dialog.xml
+SHA-256-Digest: kl1x3jFhWAY59jQmr5e/c+oaTQDm6zbCxnQopNzREj0=
+
+Name: res/xml/virtual_keyboard_settings.xml
+SHA-256-Digest: Dno2ZzqUjX5zQ+yE7VgIwu+lNK27N9QSvSMT0KQclVc=
+
+Name: res/color/abc_hint_foreground_material_dark.xml
+SHA-256-Digest: 9cLjRMbJkPouoBfKdw/fkAbT7nMfRuzJNH0ajSfq+n8=
+
+Name: res/drawable-xxhdpi-v4/ic_wifi_signal_4_dark.png
+SHA-256-Digest: HUt8Uem/egIyZaNU9maO+bevsyNlcMJqY5luO+zua4o=
+
+Name: res/drawable/ic_bt_network_pan.xml
+SHA-256-Digest: YEzwUkpvLTBeOK0W10JqoCjyEnEA++fR4UB2tDXGSl0=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: jCZz78FHQO3FZbK+sXQZnYji57R9iigqrfUVAUGvaA8=
+
+Name: res/layout/crypt_keeper_pattern_field.xml
+SHA-256-Digest: 9S7pRHtY/QKG+Jhrfvhml2lE2GgasrD0uiCgFFDKawU=
+
+Name: res/color/abc_tint_switch_thumb.xml
+SHA-256-Digest: barOFg7arkfomxdKDa8KZfa/aLZRtY2slZi0eKGN2V8=
+
+Name: res/drawable/ic_cancel.xml
+SHA-256-Digest: ZWV0NC1CdMi+D7qs89MheY+JF37uRTvCdvQFQWPOx34=
+
+Name: res/layout/drawer_spacer.xml
+SHA-256-Digest: agWyiLwSmFPHrWhz5tMnuQu2H4hp69FTSblKaJ8MXRE=
+
+Name: res/layout/abc_action_menu_layout.xml
+SHA-256-Digest: KP3PQA3cFFeHhGKvlujtDcIJtgcT9exinDFpp3GNsrs=
+
+Name: res/xml/security_settings_pattern_sub.xml
+SHA-256-Digest: EfeLbnFOAvxq/FYdZx5hWWULeETarWpEbSkTSwUZb5Y=
+
+Name: res/drawable-xxhdpi-v4/ic_network_signal_4.png
+SHA-256-Digest: YsFqaDWiK7AUY5ezF2kw8n5iVCgEvQIjQNIn92/xrjc=
+
+Name: res/layout/abc_list_menu_item_icon.xml
+SHA-256-Digest: KlSIXsJq5V3yaEgDAXTD7cu894VNIaBOnZKiLsTIhQs=
+
+Name: res/layout/app_domains_item.xml
+SHA-256-Digest: iNtPkVGkxevT/7HxW6xNR/hdUOoHvBIij0fhEglEVTE=
+
+Name: res/layout/crypt_keeper_confirm.xml
+SHA-256-Digest: QNkZQBSgWeZ+PQSRCALSio2mgjf0ADBfgBB8e9+fqDc=
+
+Name: res/layout/notification_action.xml
+SHA-256-Digest: pgXJE9pf1Z4jNCTzz74R/6gSdLt4l5V2m5MWgKocPVY=
+
+Name: res/drawable/ic_settings_gestures.xml
+SHA-256-Digest: 2118FX1VEoCM8RKIWFKp8K+2/ABOaAUOoDFz5YJT578=
+
+Name: res/layout/screen_zoom_preview_2.xml
+SHA-256-Digest: f11X5cbzxWZeyYdR2Hm5tHBmtlpYJ4/kE6olAAP0LGk=
+
+Name: res/menu/appops_manager.xml
+SHA-256-Digest: iwKn+0MznxBfdYx8Vfiergzm7XswF9VBG4jsX77SSmA=
+
+Name: res/layout/confirm_convert_fbe.xml
+SHA-256-Digest: X8EXC5SDi0WYA4iOZqJV02M3GhMxRPYHYuhAx2VtO/8=
+
+Name: res/xml/device_info_status.xml
+SHA-256-Digest: 4dx8qm3dERmsE0OntD5Z+H7ciOtdTD2w5ipd942SbU8=
+
+Name: res/layout/storage_volume.xml
+SHA-256-Digest: rKFBe4BWSejDQR8zAN1wLOvmiIu7Af2KisKpqSy43qw=
+
+Name: res/drawable/ic_settings_sound.xml
+SHA-256-Digest: 6IoI/yNk2gigXuYhJyGS3eNU4JqM2At0Qol9IDsN21M=
+
+Name: res/drawable-xxhdpi-v4/ic_settings_nfc_payment_am_alpha.png
+SHA-256-Digest: kOfF8ZzERm7fsmwFWdb9SjMgk457WmmJg6diRZg6wJ4=
+
+Name: res/drawable/lock_anim.xml
+SHA-256-Digest: uZjKuYr4HHuAHeyYOn8j1up2MfI4lD3HPtTRai5CcHY=
+
+Name: res/drawable/ic_bt_misc_hid.xml
+SHA-256-Digest: GQmheVos1Z/fqD6I1n2fVJZm+mi7GDu1EHaRc8CBFPg=
+
+Name: res/layout/crypt_keeper_pin_field.xml
+SHA-256-Digest: PLNPhrM4glB7mXwiQTwrzc1JRy5/ipWaUO+0o/H+jkQ=
+
+Name: res/xml/accessibility_daltonizer_settings.xml
+SHA-256-Digest: LmvLqPVPK46yiI/lPmNstrBecL+J49S4gE4TTngvmfw=
+
+Name: res/layout/restricted_preference_user_delete_widget.xml
+SHA-256-Digest: B4bfFe3TfKgDCoekZ7cngtjq1lbnp/4SdMuAWku7fI0=
+
+Name: res/drawable/ic_settings_camera.xml
+SHA-256-Digest: kl9tN7tp40H+C4eBFzaOqPprOBA6ebfZI9luYvG9g+w=
+
+Name: res/drawable/ic_settings_display.xml
+SHA-256-Digest: td3pc8oEthJ8GYP6Lqq4qsFmdSjwD/YoCVOUFbhp6RQ=
+
+Name: res/drawable/suw_navbar_btn_bg_light.xml
+SHA-256-Digest: m6JTLkXz0dkyAtSUpa5op8S4Z+weqODmXtvAeOIv410=
+
+Name: res/layout/two_buttons_panel.xml
+SHA-256-Digest: KD2/qUVkYIfOWTNx0rwNhLlFCZ3qjU/2aBH3z0kz4D0=
+
+Name: res/layout/preference_importance_slider.xml
+SHA-256-Digest: 3ew7lmBavQryL4tN5pJ5VNnhyNVJ1Y29AWLZ6Yr6Uyw=
+
+Name: res/drawable-sw600dp-xxhdpi-v13/setup_illustration_lock_screen.j
+ pg
+SHA-256-Digest: dnEV1yKFPHIKRkJRU7rPGY3XlcvaqADSt0+4GI9SFqk=
+
+Name: res/layout/user_preference.xml
+SHA-256-Digest: I7ypGcMFRMEbk5DUAy1DxBJs1ZBFZ6B3fTzA9AlsYvE=
+
+Name: res/layout/abc_action_bar_view_list_nav_layout.xml
+SHA-256-Digest: 8Aaw2txmxLiXppyC4FSicDRZkQ7x9Digkk89t4zhgL8=
+
+Name: res/xml/sync_settings.xml
+SHA-256-Digest: OPwQzrKyJcJ7TsTLnALV/czIMvnj0NIb/ezt4Qj10uo=
+
+Name: res/layout/suw_no_scroll_template_card.xml
+SHA-256-Digest: 5NDXL1BE96mCm6575pqdMELxgSMaUIrkUUmNyvXs5/Q=
+
+Name: res/anim/abc_slide_in_bottom.xml
+SHA-256-Digest: +yAi3MaQZNPBPcdh/Hh+Mb4caMzkuxyMEUQAi3QLEm8=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA-256-Digest: ls3uZdWqDIE0MNdNLhhJw2v6p1AnE0mBDDZCNGNrbqg=
+
+Name: res/drawable-xxhdpi-v4/appwidget_settings_ind_mid_l_holo.9.png
+SHA-256-Digest: EFB/jhqbOQqdcfR4V9HHaprgsnrjO1R2tjq6t3mJe6I=
+
+Name: res/xml/captioning_settings.xml
+SHA-256-Digest: NnvuebJz9/aJ1xHrpHrqWqEgIPQvgz4AroCm9QoafVc=
+
+Name: res/xml/security_settings_pattern.xml
+SHA-256-Digest: 98Zs6XTums5uUcoqDN5fS6enxD40UoinVuy51ngSMtA=
+
+Name: res/layout/wifi_status_test.xml
+SHA-256-Digest: E2ixlZ1J0SWr3Om3HoXnAw4Zj+0iLGyCcHZlXeshWRw=
+
+Name: res/layout/suw_items_default.xml
+SHA-256-Digest: uPf/qveVQQhR7QmjgeSQxeHl1W7TUSlV/BVphhRjY8I=
+
+Name: res/layout/app_item.xml
+SHA-256-Digest: twYClS24WXqBqlW1Qc7Lkeec1GSijPi0+PkIAWXCIZY=
+
+Name: res/layout/date_time_settings_setupwizard.xml
+SHA-256-Digest: rwf7Yrmiz1WcWYlBD6jBf8x7F69Ohqfo02mv+521vQk=
+
+Name: res/layout/suw_no_scroll_template_header.xml
+SHA-256-Digest: /8y2++26SJEBDseCwVKELFnTh5KnXSmVEaXdfvkWxzw=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: kpIKRPy/7f8X3UB3Qhubk24SQLcBhGV78wALRklqojY=
+
+Name: res/drawable-xxhdpi-v4/appwidget_settings_ind_on_c_holo.9.png
+SHA-256-Digest: jTaie5lEs7TXt+bguOc51Rv5uFKH8glFWHj4rT/pIdc=
+
+Name: res/anim-ldrtl/suw_slide_back_out.xml
+SHA-256-Digest: bTaD06m+C8Jl3QyOlexXl9S2Ie7leXS/jZFtNSnkZsU=
+
+Name: res/xml/device_info_sim_status.xml
+SHA-256-Digest: Fe0fT2YEFWSp3030zOSut0uFdiaEJtLtGO0Ce20Jq5Y=
+
+Name: res/drawable/ic_settings_backup.xml
+SHA-256-Digest: ob0Pow4p38gMSGUjE4inw9lf8s/ZvxqPch0qaSmFbkM=
+
+Name: res/layout/tall_preference_category.xml
+SHA-256-Digest: 1DoKGEVfbxr1KujRKBL3DafvAcY4dB/OsG8GCoICgW0=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png
+SHA-256-Digest: i81O+SWtUPWyrRMmsOp2rTtAxGca3o2hJnjvy0oXXHA=
+
+Name: res/layout/multi_sim_dialog.xml
+SHA-256-Digest: Psrt0vJxDXBiQdO/d47wFwPc8QbbLFuvhtXeJfWm/70=
+
+Name: res/layout/abc_search_dropdown_item_icons_2line.xml
+SHA-256-Digest: bWTCl4hEYrZFGFsIYMaK5RL+gmU8A3JNE69ZHcHMEiY=
+
+Name: res/drawable-xxhdpi-v4/appwidget_inner_focused_r_holo.9.png
+SHA-256-Digest: 2dOqacXVaJBZvevqdd4av/lbSxbzOik0+I2UM9M7DXg=
+
+Name: res/layout-land/choose_lock_pattern.xml
+SHA-256-Digest: VDIuEvJGCdGaaJKbowGfL8NjgswD0YveewT4rJq0vyc=
+
+Name: res/layout/running_processes_item.xml
+SHA-256-Digest: cJSMK5SS5YAo/HqcY0wFO02K6TC3cbIHAUB8ofgGDDU=
+
+Name: res/layout/wifi_dialog.xml
+SHA-256-Digest: nN/L/zFSsqwXYeh/kV5ZJZCC145xvfYJLTf4p50RGlc=
+
+Name: res/color-v11/abc_background_cache_hint_selector_material_dark.x
+ ml
+SHA-256-Digest: WbFa9pgJYWlFx7plkzkHY2qCcwK+gfIHjJ99pq32UT0=
+
+Name: res/layout/nfc_payment_empty.xml
+SHA-256-Digest: uY4NROn6oO4O7j23aT03ClfoQMfPC9ug2Nuz3tp4QOU=
+
+Name: res/xml/home_selection.xml
+SHA-256-Digest: Nm8HMI33YHP1srTTSfrndENXLp0OVpwKBKPJDytbtio=
+
+Name: res/drawable-nodpi-v4/caption_background.jpg
+SHA-256-Digest: Q7jBtvvQGQoALbCBzA3wRfxzfQYEmbWKkfSgnIND8jc=
+
+Name: res/xml/wifi_calling_settings.xml
+SHA-256-Digest: 8ZDGZC8wPTvGgzjrAkGGs+uYvwKkdV62dDhGmFK5c3s=
+
+Name: res/drawable/fab_background.xml
+SHA-256-Digest: tkpy2oDUzyAjn5K3hjEnuI+TVtJdoAmUB6wh/BT6Hmo=
+
+Name: res/drawable/home.xml
+SHA-256-Digest: tGcB/Jo+dC0GnGDQdksPP3Wy7vOOnqGuPGCUc71P9pE=
+
+Name: res/xml/wifi_settings.xml
+SHA-256-Digest: Z+InfEGlNBavpLx30OsWCOtUMpUWi9YbyeaCHnOmIvc=
+
+Name: res/layout/encryption_interstitial_header.xml
+SHA-256-Digest: q1Vr5sHCGUhN000lwT3ETXpmFpbgzUKiUo5ItmTB1eQ=
+
+Name: res/menu/misc_files_menu.xml
+SHA-256-Digest: +M1/I5yCuw5WarawgxgwFoa/YZbifa4lUVq0c+AbAFU=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA-256-Digest: uXY6G0jRm/22W3PCh/Bn1QB8m4GwiK1QCuoTeveblDQ=
+
+Name: res/layout/dialog_edittext.xml
+SHA-256-Digest: etU8JAQiKSbwhtdxCsbrGeYYEMxH3wtPiwgPLjrLEjE=
+
+Name: res/layout/edit_user_info_dialog_content.xml
+SHA-256-Digest: Boz4UsXY8ocmurGNr8fTe/HtqORADnLwsVsoVSTAZtY=
+
+Name: res/drawable/ic_label.xml
+SHA-256-Digest: g2OdCWaoU1GgdUbyMu8dTKaEp6hVZQAnkHxcYsBaSBI=
+
+Name: res/layout/user_dictionary_add_word.xml
+SHA-256-Digest: xrp/3WgAOXs5abu47oidOyjDXD9Z1EDbdByfjjk17og=
+
+Name: res/layout/support_tile_spacer.xml
+SHA-256-Digest: xHsODkwCe4Ui5Fwp5LukvRi6VsCKKcjAE3T1h2c9Zh8=
+
+Name: res/drawable/appwidget_button_right.xml
+SHA-256-Digest: w8xvpdqyFLsCqSwD7Vu9MZf67jNsmOcay45Gqk47MqI=
+
+Name: res/layout/suw_glif_list_template_compact.xml
+SHA-256-Digest: AdRgqXhBEkt/vtGLEuiyQXA81iMOemyuz2fhoHGCI8Q=
+
+Name: res/drawable-nodpi-v4/gesture_fingerprint_swipe
+SHA-256-Digest: jrK/7qBEaip5Lw7mR2aBkxkDibPPVyNzeItrosQjLZM=
+
+Name: res/xml/app_notification_settings.xml
+SHA-256-Digest: NJm3MvNCkJkENj0AqJr3+buVhu7niJgPpX9snlJn1gI=
+
+Name: res/drawable-xhdpi-v4/lock_anim_9.png
+SHA-256-Digest: HQ5B0dkettKxqwydJpSF+DXRux+NzQQXq5BmIYZY7tQ=
+
+Name: res/layout/notification_template_lines_media.xml
+SHA-256-Digest: /FY/wPa4ne4r+IvK+9dpytOWwRXdIAkHz/PWCIMA8eE=
+
+Name: res/xml/app_restrictions.xml
+SHA-256-Digest: 31OJ4CsgvImZNiZdSH+Zkfg8hWB/xdQHk9A4bD7Uc38=
+
+Name: res/drawable/ic_list_sync_anim.xml
+SHA-256-Digest: xyQB7bqBe9O4L8UFP7TvrbXlMVeQMYwDn5+FPlH6Pqs=
+
+Name: res/drawable-v21/suw_card_bg.xml
+SHA-256-Digest: toAnLDrHnj9D4mBEBBzEZSh+jPIsS7KybH76LUAPcoc=
+
+Name: res/xml/tts_settings.xml
+SHA-256-Digest: OsRDgFecuzrAQ84qzC9nUd7G2SZ73t8MiicmyoH1Ets=
+
+Name: res/layout/pick_item.xml
+SHA-256-Digest: d7xQWuOxiGyxH8GUKwwg9c2P1WhfMjfKFubYRZanZ+A=
+
+Name: res/xml/security_settings_lockscreen_profile.xml
+SHA-256-Digest: sqnEVRnwPVikvkcuud/u+fyQzs+qR5IWjKK2IGNVq1w=
+
+Name: res/drawable/notification_bg.xml
+SHA-256-Digest: 6/94WWmyhgk/PbG5Q4k3kcVAa5mE2hHZeys12RgmRCA=
+
+Name: res/layout/suw_no_scroll_template_header_collapsed.xml
+SHA-256-Digest: UKL2tV02Lw3+8drmiVpGrDF0wSuRxX8WGfAjf9yk9gU=
+
+Name: res/drawable/ic_perm_clipboard.xml
+SHA-256-Digest: nRFzFo9LmATq72oaXlH85NJhLCnq8AecnBzfs0P+LrY=
+
+Name: res/layout/screen_zoom_preview_1.xml
+SHA-256-Digest: izzLgmijpnXBxy2Epn3c0WvRDMKVMG4d+cIHI4f3Sok=
+
+Name: res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+SHA-256-Digest: i50jz+NFaJmQmQNhJNsrR9Lcud2n8WYBw2vtebnMYdE=
+
+Name: res/layout/user_credentials.xml
+SHA-256-Digest: 0PBYAqu3NH88f1FasbdujteyRchhEGxXSOGgZmkCKNg=
+
+Name: res/drawable/abc_list_selector_holo_light.xml
+SHA-256-Digest: jKOpcQZmwLQOOYmjCupQ5znnZTMn1cmm+UBpB1uOjAQ=
+
+Name: res/layout/protected_account_view.xml
+SHA-256-Digest: G1ATUsyrqCFrkDpTNZ2b9GBK5DZAB5fXBkLPFL3DkNQ=
+
+Name: res/drawable/ic_search_history.xml
+SHA-256-Digest: 0PIU6rI52O2HyOHzfTS2eEYd3POKGo22CNg+FmgWf8Q=
+
+Name: res/xml/security_settings_profile.xml
+SHA-256-Digest: kiVMFi6rh5CTbDolxzkXd8W/UbyfB5XuDfVC1VWYWsM=
+
+Name: res/layout-v21/preference_dropdown_material.xml
+SHA-256-Digest: ZxUXkmGN10jMnesTJ3eYNdJHNwI3DLI5lfKAeVwFPMc=
+
+Name: res/drawable/ic_perm_settings.xml
+SHA-256-Digest: ft11XqqTxdafNfsY6XvyLCgpahq4Bd+vCwoKWhZDPvk=
+
+Name: res/layout-sw300dp-land-v13/font_size_activity.xml
+SHA-256-Digest: UmBUgBqbznskZ87idF0DFBoAQC/o7HYuxNYazEy63CA=
+
+Name: res/drawable/ic_settings_data_usage.xml
+SHA-256-Digest: qtmYAotfy+GinOWUZi6IRuwz+C+IVuq2kKmywKWLDjQ=
+
+Name: res/layout/admin_support_details_content.xml
+SHA-256-Digest: qp7AOzuXdzA7Npp52F8bleD2KXXg2Kc7T9lsFQ0Zk2E=
+
+Name: res/layout/device_admin_item.xml
+SHA-256-Digest: A1ur5j0bb+Dfb7o457YgP+2qv6T+lK2PFCu3n3HLKdg=
+
+Name: res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+SHA-256-Digest: cU+dmR/jqy78PREBH5xubiQzYXpwK1gn/WQhr5UdmLg=
+
+Name: res/layout/fingerprint_enroll_find_sensor_base.xml
+SHA-256-Digest: K8WmVuFtnYY5xDncVr9IM8D3diTjCW3htZGBfX506/I=
+
+Name: res/drawable/ic_settings_night_display.xml
+SHA-256-Digest: JMQG8eqRk9AaOVdzU4Stp3RHKEAhatSxcxqiXL3GKJA=
+
+Name: res/layout/setup_encryption_interstitial_header.xml
+SHA-256-Digest: 8Hg2juhoUXc8/7TBjZ2mnCMD5nYVsn1Gxbj25v83WmI=
+
+Name: res/layout/storage_internal_forget.xml
+SHA-256-Digest: cIlXpqfweqxMjbAHEC84yXWlOTPBgXmXr9Rtm3gnDYQ=
+
+Name: res/layout/user_info_header.xml
+SHA-256-Digest: 8uFLh/sR4GMbL31oBCVCLUITkwJx6Sgao3MMoelpDqw=
+
+Name: res/drawable/ic_settings_multiuser.xml
+SHA-256-Digest: 5MIX+fwCNwCqgOZ4JJ5ZvL9LLSnWJC5EMZI1Ywpu3KQ=
+
+Name: res/layout/twelve_key_entry.xml
+SHA-256-Digest: fkS+E2g6hrLYgSH6wMTSHbglrFYPO8wDpf0FVmy3vxs=
+
+Name: res/xml/usb_settings.xml
+SHA-256-Digest: 5m6qGaBBNTM/x6nX3jhqponSGVUP0dyKFGReBY6p424=
+
+Name: res/drawable/suw_navbar_ic_more.xml
+SHA-256-Digest: doNpXLNKMjqoXsVszIIASmvNBYYtC5BMUHRi8SSAyeo=
+
+Name: res/layout/select_dialog_multichoice_material.xml
+SHA-256-Digest: OaImZh75cjACeukxf6DkJGhfHlY1LkSR+njrsaNbBhE=
+
+Name: res/layout/abc_action_mode_bar.xml
+SHA-256-Digest: cS39rlSM3stqdjqhBto0GNK1nk3jCgQlQHwnCijRxxQ=
+
+Name: res/layout/see_all.xml
+SHA-256-Digest: i4fWfv6S7q4nK82k4C7NE6NiTWk92qcoqlgIYWXXnm8=
+
+Name: res/drawable-xxhdpi-v4/appwidget_inner_pressed_r_holo.9.png
+SHA-256-Digest: OpTHddEs34H/+qZ55ioPz66qnQUuU9aiXuCmayADYLc=
+
+Name: res/layout/notification_media_action.xml
+SHA-256-Digest: rDz+bb9s0ZTqT0spZRommVJ3cvl/zDbcO/TkKVQ/EgE=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha
+ .9.png
+SHA-256-Digest: iu2FRB8KXRQKJUmThSiy6OzWpG9hKZkW+Y2GrAsUeOA=
+
+Name: res/color/abc_tint_seek_thumb.xml
+SHA-256-Digest: kwO3POiuUXUCrOCMZnz2VWp4gvw5xZws+nudMtnLjdM=
+
+Name: res/drawable-xxhdpi-v4/spinner_default_holo_dark_am_no_underline
+ .9.png
+SHA-256-Digest: BOCBQYvMBKNdJihhQMmWsLPOEA7gUZkjtL1G7A3FIYk=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+SHA-256-Digest: ht59uem1gct2y/LjdgoUnozMGM3Vr8DICmci4oETPqc=
+
+Name: res/xml/data_usage_wifi.xml
+SHA-256-Digest: IX1Ok3pW9JEDT8CYfIo2qK+emYtyZRBFyuzScIhvRgE=
+
+Name: res/xml/date_time_prefs.xml
+SHA-256-Digest: iMjYmCosyOPLZsbFFGoqL7oCOFW/EcY3O51JWSdjybM=
+
+Name: res/xml/wallpaper_settings.xml
+SHA-256-Digest: JpcE2k3UcvdjTspBx0C719Wg2AS5Q6RyPzO8q+pu9U0=
+
+Name: res/layout/abc_list_menu_item_checkbox.xml
+SHA-256-Digest: TqrSfcDL0lAyEB4kCRm3i3mLm5nEtbB/IXjsO2AuC2s=
+
+Name: res/layout/user_credential_dialog.xml
+SHA-256-Digest: C7P5qwKfsWD0+C7KPp5/rK+l6OR3OJ+zaEeHzR1kKu8=
+
+Name: res/drawable/ic_lockscreen_ime.xml
+SHA-256-Digest: wqOOxnN4GoKIvvTuLsqtGzfrSo4P+6BncV3LK3CmQxc=
+
+Name: res/layout/crypt_keeper_pattern_sizes.xml
+SHA-256-Digest: vez3YIOhh61Q5uxEJu5xHeEuM/l9qx0ZNX/WPoFnBrs=
+
+Name: res/xml/apn_editor.xml
+SHA-256-Digest: QKux7w3p02cUSiDf6f5FyWeQaVYKsUhC5+CnZsk7Ofw=
+
+Name: res/layout/setup_preference.xml
+SHA-256-Digest: GN8eFA5PQvA6yzqdMEemvqFFX7bj43WyOqG14ej7AoM=
+
+Name: res/color/abc_secondary_text_material_dark.xml
+SHA-256-Digest: sXEZPjVx65Ahhmej6n6e9DQm0KY12EwNJu3B8aeM8Z4=
+
+Name: res/layout/sliding_tab_title_view.xml
+SHA-256-Digest: CeNUet7Vvxr6hnaDOefeC42PTOX9VDRzZJSAYG5KIvs=
+
+Name: res/drawable/selectable_card.xml
+SHA-256-Digest: tYKrZP63tEOCPvmqUXsRO4WFO6h4JYZHVP4VgJXG0pY=
+
+Name: res/xml/bluetooth_device_advanced.xml
+SHA-256-Digest: E/gS8szihOunyQuGSopB8lONYnC+rpIvcNVneiJLP+Q=
+
+Name: res/layout/fingerprint_settings_footer.xml
+SHA-256-Digest: BmPTV6JcNqBPbCCsYgdtd6wFcz4g84layWdHdN3s4bg=
+
+Name: res/drawable-xhdpi-v4/lock_anim_8.png
+SHA-256-Digest: KBCf+vv01NabQvwj4ZDyU0iqjuAHLKsKGv2KF3CwgeQ=
+
+Name: res/layout/storage_internal_format.xml
+SHA-256-Digest: 99YQuAy/aX8AD10rsxY0C3Ccf51MsyaJjEW9I/6o8/A=
+
+Name: res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+SHA-256-Digest: TS9Rtvuj6O2kKkc8N4k4BkEyGIFVPT9q0zxG2YjtDO4=
+
+Name: res/drawable-xxhdpi-v4/nfc_payment_empty_state.png
+SHA-256-Digest: znxYBY3kxibSmBn9aKNN+UD/0Sc0XfDaALoSHwdqQJQ=
+
+Name: res/drawable/ic_security_pattern_5x5.xml
+SHA-256-Digest: UNxioDyk2/gA3U/GSu3ruKN5WUE5e8q8rgKzRXjQK0I=
+
+Name: res/layout/notification_template_media.xml
+SHA-256-Digest: 6JwPVAHJIw2ZKH9lK8j73AXl4bMNFD9//T5awGfWoMs=
+
+Name: res/drawable/ic_bt_pointing_hid.xml
+SHA-256-Digest: dm/53ItTzS9NR/fzpNrCEMniMrJh2tTYi0D/9ubcqNo=
+
+Name: res/layout/preset_picker_item.xml
+SHA-256-Digest: 7rbsN95W6i46v1WzWva/sts4SzVEY77tVyqYHL0TMcw=
+
+Name: res/layout/zen_rule_widget.xml
+SHA-256-Digest: lpgBWb5l2uDSSCVxrEMP/kDmlYmG2P8vuAZ2lkYnEtk=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: aFWNY0+BA1eg1RwVl1f/tQl1+6fbu/FZ/J8fevFC8k4=
+
+Name: res/drawable-xxhdpi-v4/ic_wifi_signal_2_dark.png
+SHA-256-Digest: Lh3niP2TqfHlTFFsmHbB7utQm7lGFizY13zQS6QS8UA=
+
+Name: res/anim/abc_slide_in_top.xml
+SHA-256-Digest: 4Va0O8ZCEojY5YlB066/JsTPQOPbNAJxpaVJ7Y4i1IQ=
+
+Name: res/drawable-xxhdpi-v4/setup_illustration_lock_screen.jpg
+SHA-256-Digest: WiWQzKLmZTwXKdscMq1D6B+7LXcfTjVuxsEEu3xLs5Y=
+
+Name: res/drawable-xxhdpi-v4/ic_tab_selected_running.png
+SHA-256-Digest: pgPni2fyPFmCZ4VMHjR01mfiOgDPrdJuk6V0/9+h7B8=
+
+Name: res/layout/radio_info.xml
+SHA-256-Digest: e9L45ytindEkP/tNQDgpDG1GpHQe4T+qSPAixeU+G2E=
+
+Name: res/drawable/default_preference_background.xml
+SHA-256-Digest: ZHU95uXhtr45KKr4sqYCGRlAofu/bTpPT9Qi3pr2DlU=
+
+Name: res/drawable/ic_shortcut_wireless.xml
+SHA-256-Digest: 2Xs4EwY2nTr8GMj6rSO+7oxsDcDJvrmRLuNf2Y/kd1o=
+
+Name: res/drawable-xhdpi-v4/ic_network_signal_2.png
+SHA-256-Digest: PZ/UwD1nB3nyOPwtJoKOyppwYLBb1k26VWZdAW7H6FI=
+
+Name: res/anim/suw_slide_back_in.xml
+SHA-256-Digest: 7l6uefXcHkRVirIgvtmDEY87xCR/N1yRrOxBc9e0KJE=
+
+Name: res/layout/radio_with_summary.xml
+SHA-256-Digest: KsvsuNWKTZpTrKNCxhKltk8Mx/kepybWJPXHR0uM3+s=
+
+Name: res/color/abc_primary_text_material_dark.xml
+SHA-256-Digest: KfZR4sEdtfiJfqobgz/4kEWwq993BQmyLndNk2yM0DY=
+
+Name: res/drawable/ic_font_size_16dp.xml
+SHA-256-Digest: 9ZndVmW6TYOQVzHUAlaJpaLu59nXSEmmkU+GJL+O/U0=
+
+Name: res/drawable-xxhdpi-v4/appwidget_item_bg_pressed.9.png
+SHA-256-Digest: KXCfX6RD1PG7XK8axxkuVC4qHWD/kNyVmcvsNMuAC5c=
+
+Name: res/layout/preference_material.xml
+SHA-256-Digest: o1qMDAAk8YliYDll5MIQApr00Qhq2uFPvIjSBNYpg1s=
+
+Name: res/layout/usb_dialog_container.xml
+SHA-256-Digest: k+ehoDNILl2+1FNcD2wLSD45YOk0fDn2ji/BOFaZKXQ=
+
+Name: res/layout/keyguard_appwidget_item.xml
+SHA-256-Digest: C1njTVnWwZSZA+3A+KNrKJBaYeH+sf/aAU6U2mZyk14=
+
+Name: res/anim/suw_slide_next_in.xml
+SHA-256-Digest: MwhK2cbCoiwCmb/q8ZZQ0KSvb97OpDeqbt3O2t5WPqM=
+
+Name: res/drawable/ic_security_pattern_4x4.xml
+SHA-256-Digest: I06jQtq6Gmkwq9Wk1hXkb8j+5LnMzZkrD8ZmDm8Nmuw=
+
+Name: res/drawable-xxhdpi-v4/ic_settings_development_alpha.png
+SHA-256-Digest: s9Cy0hmdHezAJk3Fd+rgFNTpFW2F3uJj+CsKUp7XrDk=
+
+Name: res/color-v11/abc_background_cache_hint_selector_material_light.
+ xml
+SHA-256-Digest: Btd+9xkgwDXsVeZ5Da7UYqSNUSw9BXnKGcIlG8XYJiA=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.pn
+ g
+SHA-256-Digest: 6bNcLgzwpDJrO63eM4tPrdl+nUJbR3fiJmLXvLuDFCc=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA-256-Digest: GNRUzUYmYckrrwwZPxZfP/zMwosew5r1WzlS8ei2e3E=
+
+Name: res/layout/grid_picker_dialog.xml
+SHA-256-Digest: VqJOJkN7byFFE2sZ6gSiHNvigy77/UDNaWtzxlZbC8E=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/msg_bubble_incoming.9.png
+SHA-256-Digest: pBOPXgeLp+rgb7f10ziXX6LveBlP+oloyLDx82gOLPo=
+
+Name: res/drawable-xxhdpi-v4/ic_power_system.png
+SHA-256-Digest: 1xITsa7eqMpEESvDs0jo80Zl69PIMnfinBHCxfR4q0c=
+
+Name: res/layout/bluetooth_access.xml
+SHA-256-Digest: x3F3vqzQUAqFqGuj+wZMrfatuaKSGNqQZ5xMyntWNr0=
+
+Name: res/layout/color_picker_item.xml
+SHA-256-Digest: f3FS5Mugv/YyzN239GjhDw/kOQPknWJPtbgwBXGRvYU=
+
+Name: res/layout-v17/preference_material.xml
+SHA-256-Digest: /8axiMu01cdV+dqyJwo171TAdP7WonhqgzgEyiiOJlU=
+
+Name: res/xml/security_settings_unification.xml
+SHA-256-Digest: D2wRD8St9qDHAR7vUFxpGXmxYjEs4cCEl8ACzjLyc1s=
+
+Name: res/animator-ldrtl-v11/suw_slide_back_out.xml
+SHA-256-Digest: hUgJ9+Yd1DX5fsYqKlpKYWvuIprXyeu7H6X2N5FU650=
+
+Name: res/drawable-ldrtl-xhdpi-v4/ic_appwidget_settings_brightness_hal
+ f_holo.png
+SHA-256-Digest: /pQTFBW2EZY55dxGEBbjJ9B5gnXMSkMR1I4Eyvp2G/g=
+
+Name: res/layout/zen_schedule_rule_day.xml
+SHA-256-Digest: 27tTw0226sqMbTnH3hEkv1R/s5qd5615M/HSRv3JQ0g=
+
+Name: res/drawable/abc_textfield_search_material.xml
+SHA-256-Digest: +1KP0UITrYtpCldxBPJ0b2+frUr1HbIxH3hxXJ07q1E=
+
+Name: res/layout/usage_view.xml
+SHA-256-Digest: /TkUb3CJyw/h7fCqAsV6Qr3M9REqj9GOdQpAdZ6ICBc=
+
+Name: res/drawable/vector_drawable_progress_indeterminate_horizontal_t
+ rimmed.xml
+SHA-256-Digest: afgosNsX5G5i0ydwCkJLiUECKVkZBGdo7NpTKzeH8CU=
+
+Name: res/drawable-v23/abc_control_background_material.xml
+SHA-256-Digest: ybJwZzdj3F3LmNzM4jN5D3XOgBDIn8f+gbuyg6CRMuk=
+
+Name: res/drawable-v21/abc_btn_colored_material.xml
+SHA-256-Digest: FpCNudCQE3MjXGrNLtp50bhxgb5IfBf/n46J/iICd4Q=
+
+Name: res/layout/battery_history_chart.xml
+SHA-256-Digest: 5GBk7x11kiRU+c0J1pZzvHPZnJXLG5rwK+rJI/lEFAs=
+
+Name: res/layout/preference_home_app.xml
+SHA-256-Digest: BcHfq+WqyDAITCgxsUBs2owK49r7FYsWmfo85GT88ac=
+
+Name: res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+SHA-256-Digest: F1PqpupLeOCz8SxKvxjb/J+SSuN8CtJASefIBFSW5yM=
+
+Name: res/xml/account_sync_settings.xml
+SHA-256-Digest: VTphRh4m8jRGhxoXh4GAfvJ9SuUTaGyRt0oxEnKUc38=
+
+Name: res/xml/data_usage_ethernet.xml
+SHA-256-Digest: H41lPh1GZt/ao3UfZSgRC7ceX+mNyFwhYV1fO/C866s=
+
+Name: res/drawable/ic_cross_grey_24dp.xml
+SHA-256-Digest: whNvE9Wy+K3+CyV9IiZpdfHafMEB0fJygTdlWl7ofFQ=
+
+Name: res/drawable-xxhdpi-v4/msg_bubble_outgoing.9.png
+SHA-256-Digest: Jlus/pwDDvuQwhinG6nWT+1xfqsHCZjiYRLGgKwfDiI=
+
+Name: res/layout-land/confirm_lock_pattern.xml
+SHA-256-Digest: AhCHP1Ecsq8bCGsgGnIKuPEvnLdxSCO5TmvozvWcfKs=
+
+Name: res/xml/language_settings.xml
+SHA-256-Digest: q+P1skjFKqW5vkwTS5pgaLti2uWbazZ7hZIq2RA6Jxo=
+
+Name: res/layout-sw600dp-v13/wifi_settings_for_setup_wizard_xl.xml
+SHA-256-Digest: ov3NnFOfee0KHiYkXT4cU+V553rk3YmVTn8PpxNj/os=
+
+Name: res/xml/tether_prefs.xml
+SHA-256-Digest: fMSte7rWXP30xjq/6M7iZzPXeWVvNzqEGEcDzFx588g=
+
+Name: res/color-v23/abc_tint_default.xml
+SHA-256-Digest: b0oXxzhvNNVooZeSF0Ig4b3DQK9lY5TkUmxlSgG3TpM=
+
+Name: res/drawable-ldrtl-xhdpi-v4/ic_network_signal_3.png
+SHA-256-Digest: vD7Oa1cSx+OQs1EMBm0gdPHSuOYglR+lHGRpRZmfAlE=
+
+Name: res/layout/background_check_summary.xml
+SHA-256-Digest: Xdn7qyYGqyMxEjhcW+kj5SBcuh98swNwiuNDNRm4Vcc=
+
+Name: res/drawable/ic_fingerprint_success.xml
+SHA-256-Digest: PeGA62owVr70ZjO9r5/Pt5PbIHKeUglp7wqvbPcPKvU=
+
+Name: res/drawable/ic_settings_about.xml
+SHA-256-Digest: uT5m4pu408hKZlpX5gzlR0GEIVHd8gg2zZJ/p7wlZ9w=
+
+Name: res/layout/radio_list_container.xml
+SHA-256-Digest: UPBcNZ+V/YjkItit35sbhky1WExZNlCxCzw+oZElJGY=
+
+Name: res/drawable/switchbar_background.xml
+SHA-256-Digest: GIyiBoQFSxIxszb3Fhp4SRc9gITzPJsHC9N/WalhzxQ=
+
+Name: res/layout/dream_info_row.xml
+SHA-256-Digest: X/1YVNrAYhErbpB5w+zH0jwTtwqexKSjJxU4HA0vMqk=
+
+Name: res/drawable-xxhdpi-v4/appwidget_item_bg_normal.9.png
+SHA-256-Digest: 6XaNGMHyyUlYLM1dkZ0g1pFh5RvJZnsCz3mP2Mtj6As=
+
+Name: res/layout/abc_action_bar_up_container.xml
+SHA-256-Digest: NuEcJZQuMSaMLm0Fg1EYgAkYE5qb0/Fkc4ImV9yMsAA=
+
+Name: res/drawable/ic_perm_microphone.xml
+SHA-256-Digest: rseziQcootbY8zE6o0Qv+ZB2J1Y70PPwZStNvM7xXjA=
+
+Name: res/layout-sw600dp-land-v13/wifi_settings_for_setup_wizard_xl.xm
+ l
+SHA-256-Digest: 67CbYE72yqwaCxBvMWFzJDUAXl7XIqEAKLx0tfvBKeg=
+
+Name: res/animator-v11/suw_slide_back_out.xml
+SHA-256-Digest: zPGWC+FNcx18NyGMTtfEbb6tzbDOR0ngrU1ya9ox6a0=
+
+Name: res/drawable-xxhdpi-v4/illustration_tile.jpg
+SHA-256-Digest: Fs3j9CKabWUvFvZ1N6LezziNiKv3u86TVqaCtwKmV14=
+
+Name: res/drawable/ic_security_pattern_3x3.xml
+SHA-256-Digest: jtWprh1osYvE/IWJyjt8jYDKBfSesfR1lQ2UjjnzkKA=
+
+Name: res/drawable-xxhdpi-v4/ic_sync_grey_holo.png
+SHA-256-Digest: RyYT6sABzq9Pzg24aXs0bx1eqMc20xErKhebWuWQZzo=
+
+Name: res/drawable/abc_ic_search_api_material.xml
+SHA-256-Digest: 9j46I3BKLAoFbZSiw0B9XoTFWkukOrnp8fUxO0mwsl8=
+
+Name: res/anim/suw_slide_next_out.xml
+SHA-256-Digest: Acb9vBRZdSAZ6dVmqXfkqb80RGvmpV48sK4t9cGT3jA=
+
+Name: res/drawable/abc_ic_menu_overflow_material.xml
+SHA-256-Digest: TOUgF/f9JxCrhqFo9DdmZzKIyYaPPc38S9R0wzPM7nU=
+
+Name: res/drawable/ic_info.xml
+SHA-256-Digest: XQZvJ3Lfzt80CuualLJec1kPqd9fzxIbmf+s+IbMXmA=
+
+Name: res/drawable/ic_menu_add_inset.xml
+SHA-256-Digest: WkYsO7b4SrBlR0T51xUxllE5NS/eTh0WTToPZgC+PKg=
+
+Name: res/layout/storage_wizard_generic.xml
+SHA-256-Digest: /nUvXTHBtW6VgXJNk5NXJlQOd4H/bnE90266PgORvE4=
+
+Name: res/drawable/ic_security_pin.xml
+SHA-256-Digest: rxyVc3RaSLWzS0oWc88B40bbSZSVqCRz/p90z+pHY1o=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+SHA-256-Digest: +02TBqSDVfcRWo9YFYDmfjQ53AEV9oaRPImdbwgWO8Q=
+
+Name: res/layout/account_type_preference.xml
+SHA-256-Digest: 3auUVvmww70TOfpB9gyLUXAaBphntUBAOJaGQzBGpcc=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+SHA-256-Digest: Itlf4X4WPshT62q3ghKbgD4rUiv3M1HHUGZut6uIyMo=
+
+Name: res/xml/user_settings.xml
+SHA-256-Digest: r/2sA53F3OdL/qFkS2rCwXYSGKRaRfQvJ7GVyqaDXxo=
+
+Name: res/drawable-xxhdpi-v4/ic_appwidget_settings_brightness_auto_hol
+ o.png
+SHA-256-Digest: wZ8t8irXl7hcZNdi2APGM7S9l9aKkc8Xi6WK6BtZSaw=
+
+Name: res/layout/preference_list_fragment.xml
+SHA-256-Digest: qZhNRQX/4Uh6IzU7kMcIUwjvZWoH0XtZeVCVDfRS+tI=
+
+Name: res/drawable-xhdpi-v4/ic_network_signal_3.png
+SHA-256-Digest: P9Jj1ishPw+JpxXNmWf3rSI+L5JPheeGHeoe3bCcOz0=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+SHA-256-Digest: joh1b6xWrnMD+Hztbr1/szayVynEWIAQtTWA7o86n/g=
+
+Name: res/color/sliding_tab_title_text_color.xml
+SHA-256-Digest: Yl2V9f3BVAf4PpA6fboXTVofOZnfRxsUoUT2q7OrW8E=
+
+Name: res/xml/security_settings_picker.xml
+SHA-256-Digest: vR5nUfg0U85MHYPt30CUFtFUVgqYMzxrFVcaHsk2Xao=
+
+Name: res/layout/fingerprint_enroll_finish_base.xml
+SHA-256-Digest: 5nTVfNPuUZXO8BTY/ctQNi/G22tbVayDQFenLuTVTt8=
+
+Name: res/xml/gesture_settings.xml
+SHA-256-Digest: kMP2qTlMT2/VMteJHF9cITsTxTglM8md+YyHpPTxiVc=
+
+Name: res/drawable/abc_edit_text_material.xml
+SHA-256-Digest: btPhAijTNeAM1tyGM+5Rsp1Y4IyHivVBg/FZMOZPt6M=
+
+Name: res/layout/suw_navbar_view.xml
+SHA-256-Digest: bJj6nOzAcd4OT4x7fpliD4nAnhy0oEVil/W5rCHNbfo=
+
+Name: res/layout/tab_widget.xml
+SHA-256-Digest: vO2d77nmwl96hrd0ZB2GINtIbCvILXuRlQQhniEWg88=
+
+Name: res/drawable-xxhdpi-v4/ic_appwidget_settings_brightness_half_hol
+ o.png
+SHA-256-Digest: 6W2zJMk2rjtSmR2JoorLP5D583irmDCB+542cxp/2Bs=
+
+Name: res/drawable/ic_cellular_off.xml
+SHA-256-Digest: df2j6fB0fArQnYgPYS8SEpzI9wBtkuk4JSP9o/d/I7U=
+
+Name: res/drawable/ic_expand_less.xml
+SHA-256-Digest: TNPzg8lK3+LhP1kI2lZx7OWn553stAlEaYDDecQ8vsM=
+
+Name: res/drawable/drag_handle.xml
+SHA-256-Digest: ONnjqQD/m7/8PU4KeWdJByn/fFAYWKVRFNdYHJyjrVc=
+
+Name: res/anim/abc_grow_fade_in_from_bottom.xml
+SHA-256-Digest: cp9B7GJcpHNTCv5fnq9iuIyz4kRRQXAmkHePS/4BGLo=
+
+Name: res/drawable-xhdpi-v4/encroid_resignin.png
+SHA-256-Digest: eOrZ8YJTfb1M9GXZizbnV9kPdb8SdvA65AW9oqIq114=
+
+Name: res/drawable-xhdpi-v4/ic_sync_grey.png
+SHA-256-Digest: jv9rV68KO7wY4UhmQfUvGOiOV6O+bDTDCqWBbXhhn1E=
+
+Name: res/drawable/transparency_tileable.xml
+SHA-256-Digest: qjy9m5jPN00vp7+pyKFxjPqL55+cFqJa3S90Mxye5Ds=
+
+Name: res/layout/empty_print_state.xml
+SHA-256-Digest: JxUTfRxAskQDoDjmBKnuB0VuhXVbot4yTmivmPa3wtE=
+
+Name: res/layout/suw_template_header_collapsed.xml
+SHA-256-Digest: S55Jr9II7y2Zg+ZXKqXG7HHb1HUeTuhYu7pjzR9MIkA=
+
+Name: res/drawable-xxhdpi-v4/ic_appwidget_settings_bluetooth_off_holo.
+ png
+SHA-256-Digest: Ifeez6SuQBHVXK1Wxr/Sm1GLx2yYu4EyuKmDy399k9A=
+
+Name: res/layout/crypt_keeper_emergency_button.xml
+SHA-256-Digest: p30/Y1KuUJU6sW+sD6Ag/0UBHAoOJU8KiM1sSuT77/4=
+
+Name: res/layout/support_fragment.xml
+SHA-256-Digest: vSutopP8TZHgJgp51zNNVHNbhmSFjr7Ne5fyjXbHH+A=
+
+Name: res/color/switch_thumb_material_dark.xml
+SHA-256-Digest: bpcGbpeEfpS22a1dDZ1Tkbx2q5WEp64YWQP45iZYWtE=
+
+Name: res/drawable/ring_notif_increasing.xml
+SHA-256-Digest: 1uOPCKfz+x1NToStdm3O1dHbdp5R2g5oat4+SOXKdvw=
+
+Name: res/layout-v21/notification_action.xml
+SHA-256-Digest: iNwYPRO+4jJAe8ARlY/4GSQZr5Xlje5HW01M5kB7e6k=
+
+Name: res/layout-v21/suw_progress_bar.xml
+SHA-256-Digest: CrT4gzdrKBApDL67GAvFX4b4Rf8TEfMtNalD555WX/s=
+
+Name: res/layout/font_size_preview.xml
+SHA-256-Digest: MR84t+BQmuZJnuBXybC8HaPaYUmqLPj5IN26qYQTcGU=
+
+Name: res/layout/notification_app.xml
+SHA-256-Digest: F2V/MHyvI0904pdAl1035CTgS1PlnDN6KtlVxScf8hg=
+
+Name: res/drawable/enrollment_fingerprint_isolated.xml
+SHA-256-Digest: 2Ghbo7B3O6+KGdzuqT2zOZHqdSv5D1o9mec/LMfRI9c=
+
+Name: res/layout/preference_multiline_title.xml
+SHA-256-Digest: UBjM2wcHXKU4q4mXc5x8rkX1Iu/H/INhZJbnlinp0tg=
+
+Name: res/layout/storage_wizard_navigation.xml
+SHA-256-Digest: phq3BAhkh4ikrJM56lYyAKIqKkllRz2vuVTv6l9inMY=
+
+Name: res/drawable-xxhdpi-v4/bg_header_horizontal_tile.png
+SHA-256-Digest: GDh//v5aYo+2ASrx5jiVfhF9DIsT6gW7jefgXQ+SyNA=
+
+Name: res/layout/notification_template_media_custom.xml
+SHA-256-Digest: 16rTW4TNBdsNJTjkLl9mk9HxXrbooZLmLx5+WcB/uo8=
+
+Name: res/layout/locale_order_list.xml
+SHA-256-Digest: z/Td6x0hRf/vAluSfxEEWDJeO1j3qltVQ7gFFu+ch6U=
+
+Name: res/layout/suw_glif_header.xml
+SHA-256-Digest: eZCQGHihm5bZRDD8eikY4ODS9GvkVsBVbi9AGHjAm14=
+
+Name: res/color/lock_pattern_view_success_color.xml
+SHA-256-Digest: vqE2jipgYFWdVMG4ZRDRq2VzyWX5q0FfZ8qe8FILI50=
+
+Name: res/drawable-xxhdpi-v4/ic_wifi_lock_signal_3_dark.png
+SHA-256-Digest: QWm8soLo/8eaYMYB180uKM9vOHd43e5MEa5qd67YUmk=
+
+Name: res/layout/widget_progress_bar.xml
+SHA-256-Digest: 8XU1jOQG+7RbhRcFmjd5iNDuYHlXq6n/UF6j5STnmro=
+
+Name: res/layout/remember_dock_setting.xml
+SHA-256-Digest: 9mbdJQ3eiz8ea7ESP73QPWB8uxg9gPQ/xAK2ktBXXpI=
+
+Name: res/layout/abc_action_mode_close_item_material.xml
+SHA-256-Digest: IDpfuANX7BrpUg0zZjiB/QFOJSDgB7sSbxeBh+986uQ=
+
+Name: res/drawable/ic_print.xml
+SHA-256-Digest: 6OB2UjokhngbPqfGTjZX3GjUoQnKBxNSN6oKvCihN9o=
+
+Name: res/layout/preference_bt_icon.xml
+SHA-256-Digest: /0LTT8LuqRT8AzDcgcJKY6yOkYyWtvP8WFyIyJqrjgs=
+
+Name: res/xml/location_settings.xml
+SHA-256-Digest: 8d67zY4Y0rkE6hJ4YZTQDA9G39j0Mhlq0BuV3Ed0MT0=
+
+Name: res/drawable-nodpi-v4/fp_app_indicator.png
+SHA-256-Digest: OEdlzbbGs/ceYTh8vw4utmOp2Py5syY55drLWytaV8U=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA-256-Digest: iognESfaodDUlzOCzTwpRlmrBeihIMXl2gidyesSsnM=
+
+Name: res/drawable-xxhdpi-v4/appwidget_settings_divider_holo.9.png
+SHA-256-Digest: +krCLnD6eylQdVUTb+prvJU4k3pSzJCP8iTm3+iDnhI=
+
+Name: res/drawable-ldrtl-xhdpi-v4/ic_network_signal_4.png
+SHA-256-Digest: COHpmvv/dvyzP5fn9KVO7MIgQtC2Y5vhG0x87bqnI0I=
+
+Name: res/layout/search_panel.xml
+SHA-256-Digest: pAa3cIf3dWKqvF2EhlLogSOOp3dAwNC/UioX5DAUs/A=
+
+Name: res/layout/support_sign_in_button.xml
+SHA-256-Digest: bF3d5J71S8X41prpuVYXhXxVh4yvOxASWcknDLsq6Z8=
+
+Name: res/layout/dashboard_tile.xml
+SHA-256-Digest: JfURTs1XrNEoIBTWAz9FkvK41ONr/V+DwrJmVIQYNFg=
+
+Name: res/drawable/ic_perm_vibrate.xml
+SHA-256-Digest: jIEdNUgsP5trpbRyWO0QGLTsUVGOAqa03TjAN7RDU4E=
+
+Name: res/layout/suggestion_tile.xml
+SHA-256-Digest: CnLChnAltu34Y47xczzLod+6NlBQCD9Fxk45k8ONdJE=
+
+Name: res/xml/inactive_apps.xml
+SHA-256-Digest: sa+at8EOFbBqyNZDTo0NMOwAcUbg4TUdoUq8ZGd3ALk=
+
+Name: res/layout/abc_activity_chooser_view.xml
+SHA-256-Digest: FGXOwUNCKYr2UdqyUZNMSMleu9810yUbt7nGv1Snui4=
+
+Name: res/layout/suw_recycler_template_card.xml
+SHA-256-Digest: CtXLXzugvBNHd9ReMpVKjVTXCZqCRPMLkgN0VdrPbBE=
+
+Name: res/layout/user_dictionary_add_word_fullscreen.xml
+SHA-256-Digest: 8Tc/+/2hs1JLqhabF6vPRMoTz3BT00JqYGkDT/Us49k=
+
+Name: res/drawable-xxhdpi-v4/bg_setup_header.png
+SHA-256-Digest: AkUtkC2UBP7hmjm97NiTedjQ6xfhmqcCmK27MtD3TVI=
+
+Name: res/layout/usage_side_label.xml
+SHA-256-Digest: ioC3pR/Zv3D+HS0a6S7/ErVxiE29KrDuorKxjG/ICig=
+
+Name: res/anim/enrollment_fingerprint_isolated_ridge_2_path_animation.
+ xml
+SHA-256-Digest: UwhQYHd6cVRhUZHDgJppTgyHsoDl9mmz714NwGpnQ7g=
+
+Name: res/layout/restricted_radio_with_summary.xml
+SHA-256-Digest: SQlY3gkCIxaUfB18TjNp56cCaXcLUJCD6nCtKNlLz+8=
+
+Name: res/layout/preference_progress_category.xml
+SHA-256-Digest: bNZLN1yS9BOX5eX4M3kYvM4AvJGB/nrplOj6So0t6gE=
+
+Name: res/layout/preference_widget_sync_toggle.xml
+SHA-256-Digest: WWrG8eo+u1bZSHVsnzmrBIn39/BEv1UlvTEtSUegFf0=
+
+Name: res/layout/wifi_advance_layout.xml
+SHA-256-Digest: ji5oPXsR/LBf7GXfSlWN+aiMOYwy6uA9c5RHiDB6o/c=
+
+Name: res/anim/enrollment_fingerprint_isolated_ridge_6_path_animation.
+ xml
+SHA-256-Digest: h34bAPDgyXcUvDSU7huYMdul9Z9QKjc6NJCN1l18+TA=
+
+Name: res/drawable/ic_bt_headphones_a2dp.xml
+SHA-256-Digest: lUd6AU+h3WTtbEla634Ml8uVclrqiqhB1YATsb902Rc=
+
+Name: res/layout-land/patternlock.xml
+SHA-256-Digest: iodPEp51RlaTkRd+prseZ91PHQ6baPvxicbPT9it7HI=
+
+Name: res/drawable/ic_settings.xml
+SHA-256-Digest: pTZzalJryEVlDXL+P6YnyG0CPXq5HwHK6wThII2XHSo=
+
+Name: res/layout/storage_wizard_migrate.xml
+SHA-256-Digest: ZxlliA7rTEJNKhYYT1Hitb3Yx7TjmDpwTJvSyUsr0hE=
+
+Name: res/drawable-nodpi-v4/gesture_double_tap
+SHA-256-Digest: aQQ7lS0hWK69YgSS5POJZXcN4okMDjQYLQCPdA3w+m0=
+
+Name: classes.dex
+SHA-256-Digest: ZERep0XN0XKhCupeWBW0nDl6vVENqyxMYAScia66Ong=
+
+Name: res/drawable/ic_zen.xml
+SHA-256-Digest: ebhtZO3BwwcJL/Yj2TLxj426q8ta+wRZJobMKu6DXfM=
+
+Name: res/xml/power_usage_details.xml
+SHA-256-Digest: rbc+qSdNc7/YygOvifjUI/fkSNwvckzCPkR+N1ivpPc=
+
+Name: res/drawable/ic_remove_circle.xml
+SHA-256-Digest: +JFwX7psx/HPM79jkGjTe1iFL8UQId1g0mS0Z+qW8nE=
+
+Name: res/layout/usage_bottom_label.xml
+SHA-256-Digest: WjaW63/6Skyp1YFg+EAtG1TpoL70t5Yo7w1Q75cgOm8=
+
+Name: res/layout/network_reset_disallowed_screen.xml
+SHA-256-Digest: tRtRlux7BWNFqKvQFJjyW/pjFvqwGD/vdSnsOrNPHYo=
+
+Name: res/drawable-xxhdpi-v4/ic_settings_phone_idle.png
+SHA-256-Digest: 1KktztgPOXlCfbM/KZpytOzoPbVkon21G0Ca8w3EOw4=
+
+Name: res/xml/screen_pinning_settings.xml
+SHA-256-Digest: vDVx1su89GZZY+Au34A3vdizKE5bTMxrYy5x9d1f6yI=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA-256-Digest: qSkGKok1xwtz6VhKadoQMZtIWJ97J/nibNavMSPgk7U=
+
+Name: res/xml/security_settings_fingerprint.xml
+SHA-256-Digest: dADXvHJWUVCDekAKD63I7QFHxZvlgsvzjPBbeIKI5V0=
+
+Name: res/layout/suw_glif_preference_template_header.xml
+SHA-256-Digest: 18DaJLPry7vuhsDx3AyieKshUqBmHXGBYWTDyD/5wxs=
+
+Name: res/layout/locale_picker.xml
+SHA-256-Digest: PBc7bIiKX3V1rU588ti2rZfV+40CVvoIcTHIquuGWV0=
+
+Name: res/layout/suw_items_verbose.xml
+SHA-256-Digest: 43xjCOXR8wr8i89ZhzPqhGIg5tGp18VNsPWU95KcRO0=
+
+Name: res/layout/credentials_dialog.xml
+SHA-256-Digest: cHq40JsfPpcoL+hx72wWoM5Z15QIRCDFmDGG+hQdKHI=
+
+Name: res/xml/print_settings.xml
+SHA-256-Digest: Pv2aKoOvbdl4KuZlH8Ro3uORBk5MbqFqGJmmIErRYYo=
+
+Name: res/drawable/ic_bt_laptop.xml
+SHA-256-Digest: LM8wjll2n8wTYv357VD3Y8MAaYKhXxbqi7MR+oz0fsE=
+
+Name: res/drawable-xxhdpi-v4/illustration_horizontal.jpg
+SHA-256-Digest: ThRZDPiEu9sktXdYMZCt3hXcFa1bSBd2VMVGlhW6K88=
+
+Name: res/layout-land/fingerprint_enroll_finish.xml
+SHA-256-Digest: 3OMitW6NBg6xDvQZNNpyBddlbFu9VyG7g2WvjtGI2Hw=
+
+Name: res/xml/security_settings_unencrypted.xml
+SHA-256-Digest: iBzY/gI6h3pusiJQnNfrcfe02I9Ce0G6kCzY9lVuiyI=
+
+Name: res/drawable-xxhdpi-v4/appwidget_inner_focused_l_holo.9.png
+SHA-256-Digest: 91smlhoz3cdEUPPQR5+Q9nap/UjEnceaYNBYf4uHMss=
+
+Name: res/drawable-xhdpi-v4/ic_btn_next.png
+SHA-256-Digest: 1W5tD3oblDetDuuoqvQipRIMkAwn5Q3u90rHJxUNwTg=
+
+Name: res/drawable/data_sweep_right.xml
+SHA-256-Digest: TpGZB05ovIPGUvxkhnt14cSTHBa211UDjxfAI031n6M=
+
+Name: res/drawable/ic_settings_sim.xml
+SHA-256-Digest: LKBJv4axy3vc/l7l+q0XjPDoWaKSGzawnXGTfNrbXeY=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9
+ .png
+SHA-256-Digest: Jpc3Q96++LwgwEaYQxdHM1gv/yBb4m3rWsFBMxWAXkM=
+
+Name: res/xml/account_settings.xml
+SHA-256-Digest: Lo5ofkL9dp7qQKqZ4ogLVNG0dFJHdefV72EU3NBnMGU=
+
+Name: res/layout/data_usage_cycles.xml
+SHA-256-Digest: H+BLP2rmRsb1t0yMzTQL/4d7lB0dXcrnwGS9gRUkYRQ=
+
+Name: res/layout/preference_volume_slider.xml
+SHA-256-Digest: eZfcAu1s6u1XD5e+/MQKD3MCaM01InZOfl3QutZ8hEQ=
+
+Name: res/layout/admin_support_details_empty_view.xml
+SHA-256-Digest: 1Nl6ohsCpmiNi0PQpt4xURwtIzGzd32M+E6JqpCMcMA=
+
+Name: res/layout-v11/preference_dropdown.xml
+SHA-256-Digest: XenikQFDGpWvFgSFYQL3hHmepNKJF/LVl9a2KB5pXzk=
+
+Name: res/xml/trust_agent_settings.xml
+SHA-256-Digest: gtIGut5FxfaWMqe1AAoOFqRj3tNEaxajCTlln9w9S+o=
+
+Name: res/layout/abc_alert_dialog_button_bar_material.xml
+SHA-256-Digest: 8P6P+TGTkANwNhe50ih4+rW9hh606a7R0pHQtB9dzm4=
+
+Name: res/xml/security_settings_password.xml
+SHA-256-Digest: n3HxzzMtWBlYB1LuNgMiNJQkGnyAE0rjnioX3UuJeNU=
+
+Name: res/drawable-xhdpi-v4/ic_network_signal_0.png
+SHA-256-Digest: F8pG4L+CBAPXdH3Pe98OiG9XhVpmELS5e3DExeyNb+M=
+
+Name: res/drawable/ic_security_pattern.xml
+SHA-256-Digest: 146guGwGButpWXyFkIPYPnEQix5MIbeGtObO0JDgbbA=
+
+Name: res/anim/fab_elevation.xml
+SHA-256-Digest: prqg5p35BcqNao37PbMN2zDB7tH179FO+Wq8esYHs7g=
+
+Name: res/drawable/ic_expand_more.xml
+SHA-256-Digest: YVuelsHvaR7KLrYOqgZgH++6EaF08M5kOdhh5O7tm8U=
+
+Name: resources.arsc
+SHA-256-Digest: vgCzaWY6uYrfs6q9UDnGfrljuNLiAYyRHtF4UtKESA4=
+
+Name: res/layout/ownerinfo.xml
+SHA-256-Digest: eVnw76z0vlPQwT+lQ9saowhWlv1bernsUtz9/QabX6o=
+
+Name: res/drawable-xxhdpi-v4/suw_navbar_ic_down_arrow.png
+SHA-256-Digest: JRBUivreDfjGr4nfs2Vb5q8XjO+GRUItCl4tEWbsVbY=
+
+Name: res/layout/preference_widget_checkbox.xml
+SHA-256-Digest: grG86SOGYobMbaXITJcaGv2wR3BaUNhIDLOta5gRqas=
+
+Name: res/layout/app_domains_dialog.xml
+SHA-256-Digest: L4SSCcUgQu2iQEBpFz8qx5NdL9+8oLvhuhyfGRdZzR8=
+
+Name: res/layout/suw_items_button_bar.xml
+SHA-256-Digest: YMlDpmQ63gDs/rd1hpwPtoPM9nHINvZLKrF2OrIo4Qw=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+SHA-256-Digest: I9FhXoqpUa+eaWp7HQx4nYmM/bBTRC7hNzhLUYzyAOE=
+
+Name: res/drawable/abc_list_selector_background_transition_holo_dark.x
+ ml
+SHA-256-Digest: yJs0nV1SDs/hUgtnsJiK4Bhtz4VgboZFt4X0Op0g0iI=
+
+Name: res/drawable/conversation_message_icon.xml
+SHA-256-Digest: 22xBuK2y02mGjGCrojIwJqGHhDGCOcYj/EB2w+2vB2g=
+
+Name: res/layout/installed_app_details.xml
+SHA-256-Digest: gfNsGVPyk/q25zwCsyI3T8HivfV0/E1B6/ENWH7BvSA=
+
+Name: res/color/abc_tint_spinner.xml
+SHA-256-Digest: sAz6FKBIIHSVFwpppJinP8FZBtwHcO9CM1js+4g8/x0=
+
+Name: res/layout/dashboard.xml
+SHA-256-Digest: h+92w5ztbV86n9Bhq9pEqsiqvz3ERrK692mTIPdRP1s=
+
+Name: res/layout/printer_dropdown_item.xml
+SHA-256-Digest: of69GNcA/Cz+PPZR3ps+4d0XhoeSHrE+4OBezc4EblM=
+
+Name: res/drawable-xxhdpi-v4/ic_tab_selected_download.png
+SHA-256-Digest: /XvTjPX+ExsZ5QPnZKg5GDj3clvyphyCNhGLTo3mv3k=
+
+Name: res/drawable/ic_lock.xml
+SHA-256-Digest: r5OBmCnxLeNvMunamNwPNH8ZDRL6sA8W4uAX5dT7/wE=
+
+Name: res/layout/vpn_dialog.xml
+SHA-256-Digest: gqHH2yktnd6bocfwpOj5wT1rCtvcsw/ToFpnc+yS0s8=
+
+Name: res/drawable-ldrtl/suw_navbar_ic_next.xml
+SHA-256-Digest: SCmnUjTygRiVe3lmYaEGpup6KVkLGtpOy251B8zyYlc=
+
+Name: res/layout/storage_wizard_ready.xml
+SHA-256-Digest: JcwAJASrol/gLjJ+MMS1U2WHUD2goVInC9RXA2hi/4g=
+
+Name: res/layout/crypt_keeper_password_field.xml
+SHA-256-Digest: /YwLya0rCeZdQtX6hpgLzKofvc+gkVeD/BDd44cXXYs=
+
+Name: res/drawable/ic_eject_24dp.xml
+SHA-256-Digest: 09qLV6b+YSPd5Q2HPIjullohZhRzj/G1cL2/OHkoFNY=
+
+Name: res/xml/advanced_apps.xml
+SHA-256-Digest: 69Xx7QDCshL6CbrW2hVVaFhV5xgcHR4Ed6znWyn8kso=
+
+Name: res/layout/manage_applications_running.xml
+SHA-256-Digest: swHycpJ+i6L9AOTMjNbAbRqkFJHliUW0TFoCQNLcizo=
+
+Name: res/drawable/ic_settings_wireless.xml
+SHA-256-Digest: uAURHxqNG5j4DehRcIg+/FCE+O+Q6xz9y90R4MmBvnw=
+
+Name: res/layout/abc_screen_simple_overlay_action_mode.xml
+SHA-256-Digest: 28ScNES70uiLyhj+ne7BJ9ak46jTyP/8aTyNWnarlfA=
+
+Name: res/drawable-xxhdpi-v4/folder_lock.png
+SHA-256-Digest: jT0Kr6sfu201HRQ0XecQ+UxGtOC7Ud6qXw2/iE23klM=
+
+Name: res/layout/wifi_notify_scan_mode.xml
+SHA-256-Digest: 3Eq6H3o45HaBfeZPM9job4H4Dkor2GHeL/bJKScLKTo=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA-256-Digest: IwF2V2yf2ZrcE2enjXsUywKQM3CGaqSSpSW4AOnn3go=
+
+Name: res/layout/suw_list_template_header_collapsed.xml
+SHA-256-Digest: Zr9byHVlEaxGoMFRc/Ce6FjbM2qsicI/IWRDpCcWA4U=
+
+Name: res/layout/trust_agent_item.xml
+SHA-256-Digest: v6d6vM5xu7Z9Pf9z89cs5Jxsak9EvZPqwItR3fZUknk=
+
+Name: res/xml/profile_challenge_settings.xml
+SHA-256-Digest: AFDzzD2SWOOzVXY0ER+56p24AHk06KnqjkfaodiywE4=
+
+Name: res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+SHA-256-Digest: ujRKiL1A27DGMEQzboyG8xOve7t+3D641zpoJOr3doQ=
+
+Name: res/xml/process_stats_summary.xml
+SHA-256-Digest: Y46cB1fJ9MTpduGqKTkSSUebDBe7eYCn5JMVscWN6Ug=
+
+Name: res/layout/video_preference.xml
+SHA-256-Digest: oS37xlckz5EOj6GQNgOZnGPy1VPYSpHjPP9Fy6h2LGg=
+
+Name: res/layout/loading_container.xml
+SHA-256-Digest: uj/kIe5XSH4d95TKo7JQkkEDGRNrvwMOSc3ixoQuISQ=
+
+Name: res/anim/abc_fade_in.xml
+SHA-256-Digest: ruDtkV74ZzZyf66WSstedQLIGRVHvwgtVbpC9mFR1sI=
+
+Name: res/xml/zen_mode_schedule_rule_settings.xml
+SHA-256-Digest: meMhwckB92/D/BCTrgxTIaeopdxRdelOBZemyMM8R3Q=
+
+Name: res/layout/switch_bar.xml
+SHA-256-Digest: JbzkmXo4ivWbkPTkaWbaJvwAD/uUz2Ueb7lP86pxhfc=
+
+Name: res/xml/sound_settings.xml
+SHA-256-Digest: Rgz7xa5W/Cjrxoq3Eyd+3iMf/8VsDww7HqCE7YxZjJM=
+
+Name: res/drawable-ldrtl-xhdpi-v4/ic_network_signal_1.png
+SHA-256-Digest: AP+ttkwRxanEJf0mk91PU1uYu8JAv0QBRhq4AqgcgOI=
+
+Name: res/drawable/ic_perm_background.xml
+SHA-256-Digest: 9E7CVgyBTxv0LlloK+pjEL8Q0BAobd9aQzYJPb8QxWI=
+
+Name: res/color/abc_search_url_text.xml
+SHA-256-Digest: FM+oMAdg7MZRdJgkKUm2Fd595/SDlISSopsrXVsPYxI=
+
+Name: res/xml/security_settings_password_profile.xml
+SHA-256-Digest: WjOYX0xqeh4C21pX81+hjwbiqXv+Wi2cqR5sX2pwtvQ=
+
+Name: res/drawable/progress_indeterminate_horizontal_material_trimmed.
+ xml
+SHA-256-Digest: OnYKyAUOOjumrpG9pgbUQwHDk1x9oOUTYHcH59cYt0s=
+
+Name: res/xml/other_sound_settings.xml
+SHA-256-Digest: MU7iQyQGYdDTJZxFL221aUBUkbBv1/mLOb07TREFuJE=
+
+Name: res/anim-ldrtl/suw_slide_next_in.xml
+SHA-256-Digest: eYkssHDtEqw0Oobxencs53ggfCiug1vpcqR9XOVj8/8=
+
+Name: res/layout/preference_iconless_slider.xml
+SHA-256-Digest: 2EhiZqGVxobXiPYSLRFcw3VktdGgUwbJyJAN5zOplW0=
+
+Name: res/drawable-ldrtl-xhdpi-v4/ic_tab_unselected_running.png
+SHA-256-Digest: P83TkQHN1nQy2V0t+HQ7+8fOcJvYETa856fqzBl7XSs=
+
+Name: res/drawable-xxhdpi-v4/appwidget_inner_pressed_l_holo.9.png
+SHA-256-Digest: /3B0lJ2GfvRHNFPPR/+0Hvh90TxZKpD5akRaY+Z5vBc=
+
+Name: res/drawable/notification_icon_background.xml
+SHA-256-Digest: h+SVP0HeB1PlO5FWgMv5hSiCstCmvgWl9/Odtp69IvM=
+
+Name: res/layout/cancel_pref_widget.xml
+SHA-256-Digest: 2Uk0nScQB62qwVDEKPNPskUGP/zZRY3ptvVGXNxZREI=
+
+Name: res/raw/gesture_twist.mp4
+SHA-256-Digest: A/LKFWCQPIogWSDxbIx9XDi7l/9vcI2Oac63jVpHRs8=
+
+Name: res/drawable-xhdpi-v4/ic_tab_selected_sdcard.png
+SHA-256-Digest: Ap+O2yHrNePgGzQcSDN3aQpaiW5k5Fb0q+bmtHifHys=
+
+Name: res/drawable/ic_skip.xml
+SHA-256-Digest: cSP0n/XsHFZRs6IKwlTd6dLDQPWCriEvJwmI86V0b7U=
+
+Name: res/drawable-xhdpi-v4/dotted_line_480px.png
+SHA-256-Digest: nWzOot6j94q14asmh6r7ZrdnlP7Cph6GF3FOhSPM5mk=
+
+Name: res/drawable/ic_fingerprint_header.xml
+SHA-256-Digest: Rvc8gYs8iarEf5QsAwVNd91oR89gjN5zk+hRqe0ze3U=
+
+Name: res/layout/master_clear.xml
+SHA-256-Digest: 3wnmebwwDa5QrVCwc/Wt/4UaUvPphksEKl8GwHyRIwM=
+
+Name: res/xml/usage_access_settings.xml
+SHA-256-Digest: ioxqKpgwUtaVQVQCGm/zNShgha1/rBJsiH35q/77on4=
+
+Name: res/layout/work_profile_category.xml
+SHA-256-Digest: K6SsCky1Uwg+UJqoXXbkyj8r3iTm5VPIhOqNbJfJMB0=
+
+Name: res/drawable/ic_remove_24dp.xml
+SHA-256-Digest: uN9N3h6XHuS4NP2cVluwaCFQktAYYX5FTrKP8YhdtBQ=
+
+Name: res/drawable/ic_settings_notifications.xml
+SHA-256-Digest: WNxRIpWo8nm06ZmVoGrCD85tT0VD0D5jP9dF0qzculk=
+
+Name: res/layout/search_suggestion_item.xml
+SHA-256-Digest: c5f+qxmLvLlpiVK+Jg6v4NLld7QzbTK8DEVQPNUI8h4=
+
+Name: res/xml/physical_keyboard_settings.xml
+SHA-256-Digest: 78NfzwofCq+DFfnDttuFnmX0vDcOSQkUrytGn8RS4mw=
+
+Name: res/drawable/abc_ratingbar_material.xml
+SHA-256-Digest: JRigXVrv31tlS/sjjApj24qusl9+SPvSHqb4t+YEN28=
+
+Name: res/layout/dashboard_container.xml
+SHA-256-Digest: U1KQN1KtySOuuO8VzmUX3bk6LUDtxfRaUCV7bitO4XQ=
+
+Name: res/xml/high_power_details.xml
+SHA-256-Digest: M2h8ErtZ7a5eklOqrhxcOe0SJI1QS87KNvSpGLZrnHc=
+
+Name: res/layout/battery_history_detail.xml
+SHA-256-Digest: FQzNiUGwiNY+Q+B8UFNWaWdDltR3JnyJauSnw0tYego=
+
+Name: res/drawable/ic_gesture_play_button.xml
+SHA-256-Digest: WoK6rH3psxZCzULKH1szXZnUccHhCpTIzAaHZgA26OA=
+
+Name: res/drawable-sw600dp-xxhdpi-v13/bg_setup_header.png
+SHA-256-Digest: l61SJJQepSZ08TaUnXyR4KGQQgqZBwMeXoIyWZruwvg=
+
+Name: res/layout/preference_information_material.xml
+SHA-256-Digest: cGN8+5iZ1KWTBTegNi3rZzG2wbOlRDfkORCYA71ZXAo=
+
+Name: res/drawable/ic_perm_location.xml
+SHA-256-Digest: ASG4o+CChzigp9Uv4SlryPpmn5Whdqe1C3vklJvB7h4=
+
+Name: res/layout/suw_list_header.xml
+SHA-256-Digest: Xl7ENJKapu1O7kdKZUWSs4efbfnRDRkNkXs1e1y83xk=
+
+Name: res/drawable/preview_seek_bar_outline.xml
+SHA-256-Digest: kYkEKtBHZgW9OxCOKxYpSPn4DX1Z6/mAB68oh5RXlUE=
+
+Name: res/layout/suw_recycler_template_header.xml
+SHA-256-Digest: U+FfkuX1rV9lPAJYhrs0CCB2hq5o4XNkUPK/cTfu0DY=
+
+Name: res/layout/separator_label.xml
+SHA-256-Digest: wiRRqHscc7W4TFKJ/fH8k/GWsXfVVwOHirsgX+6ILSo=
+
+Name: res/xml/user_details_settings.xml
+SHA-256-Digest: l+JGKooyfzDlxy+xsQVnhhtnfMQWV6mw0f3j5ftJGSc=
+
+Name: res/drawable/ic_perm_data.xml
+SHA-256-Digest: bUPtJXkD9n3Vk0PiqvjqL+98+BuDh5m/NfG3T5jY95M=
+
+Name: res/drawable-xhdpi-v4/ic_network_signal_1.png
+SHA-256-Digest: szMdeIOZ85H1NwNtg+mdpkCgiac7IEIDFMc74cjAqEs=
+
+Name: res/layout-sw300dp-land-v13/screen_zoom_activity.xml
+SHA-256-Digest: 13EAQvBryB64zkLLmgcaKMzXvbfv0AE3Upa2wqqIzSM=
+
+Name: res/drawable-xxhdpi-v4/ic_wifi_lock_signal_2_dark.png
+SHA-256-Digest: V5hleLC9ukmVrpFplqg/lpbWvrU4O5/DcTzUeiAJxc8=
+
+Name: res/color/fingerprint_indicator_background_activated.xml
+SHA-256-Digest: axXjj3+nZmFd9VL5UGAhcj2pSxFgWWOwwMNCetOUgoA=
+
+Name: res/layout/fingerprint_enroll_enrolling_content.xml
+SHA-256-Digest: MEgi/GyL/10QX9L+2wWV4tona0YU9uD+vIKLGOAvU5Q=
+
+Name: res/xml/wifi_display_settings.xml
+SHA-256-Digest: T91EaMfn9pl4z/gU03O5Ixnqq30M/qqOH7906stxLEE=
+
+Name: res/layout/data_usage_chart.xml
+SHA-256-Digest: 8cLvxFoYVa/waBD8ieLsTcWwPVl6OnW5ZdJ9Oq6q4A8=
+
+Name: res/menu/account_settings.xml
+SHA-256-Digest: e/UBZjkUqrVG/2wkvhu8lYQS8gDL+OMXrZCGr+Nngac=
+
+Name: res/layout/abc_dialog_title_material.xml
+SHA-256-Digest: /OvkH97ymnfpzRE9MY0wtZitDAqzXbX93qREEJXkIW0=
+
+Name: res/layout/notification_template_part_time.xml
+SHA-256-Digest: 7Bn/dvulADq6Tui3lV4cYCEw3SdTi6syVZRhzJbB7I8=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png
+SHA-256-Digest: PRxP21offInR1u7dwgMujKutCnB+arV9JjyVPG0S/Bc=
+
+Name: res/layout/nfc_payment_how_it_works.xml
+SHA-256-Digest: wlRn+QYTetotZLPfgCEZo7EzO5Mz2i3aOsNEup9KSaI=
+
+Name: res/layout/suw_glif_blank_template_card.xml
+SHA-256-Digest: c3KXtymWLPsnyeJJGcilggrl2QVeUuQyvT8NxPWc6Us=
+
+Name: res/color-v23/abc_btn_colored_borderless_text_material.xml
+SHA-256-Digest: vACP5OidHBgIJEGDubXEeCrNGsXzCoqrvnvRaxDdKUM=
+
+Name: res/xml/development_prefs.xml
+SHA-256-Digest: 9dhYHMZ/BAfgfXLtfcrqgCVXs1iH/VYBnFTFeSqxswk=
+
+Name: res/drawable/ic_lockscreen_ime_white.xml
+SHA-256-Digest: unSln9lrLLVNui+vtticjHqADf97WnKKc2emzK1YidQ=
+
+Name: res/layout/headerless_preference_category.xml
+SHA-256-Digest: Gq5eRQtcwIkZShgkb7asSMI5jbY+4RWXlZrai/VcFoE=
+
+Name: res/layout/hidden_apps_list_item.xml
+SHA-256-Digest: OLsxYgTQdCjeesMrq+SibNc/COQG9/bjVqLIL1NSTl8=
+
+Name: res/xml/zen_mode_automation_settings.xml
+SHA-256-Digest: EaPJ5eWi6NY9RFKy/U7aboHsCz20p4a07dHOsQeg+sY=
+
+Name: res/drawable/ic_settings_security.xml
+SHA-256-Digest: U+CHj0GuTyZtT0Lzs9S0mBVjFVWkm+pv0EEJvt1lfWg=
+
+Name: res/xml/installed_app_details.xml
+SHA-256-Digest: CgYuM6ot7MhjFodZN0n1zd0WSwiZGCfSkwlrygIZ7Uc=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+SHA-256-Digest: ms8Rnu+wi2lsdZBCiIVNc4fk5kjdf0UvLmUpye0gIh0=
+
+Name: res/drawable/ic_settings_more.xml
+SHA-256-Digest: +kgKvH5JrxTrOEf+pbqL3rMj42lAM3ISiciKfsn6s5g=
+
+Name: res/menu/print_service_settings.xml
+SHA-256-Digest: CviGdatfOwqYDPJLtzF4BIgKuBHJ/hCfqqzmxw+e7NQ=
+
+Name: res/xml/sim_settings.xml
+SHA-256-Digest: Faas9+qst5JLNhnUrpS/TzjHh0B0j/IY8IFGmM8B85A=
+
+Name: res/layout/suw_template_card_wide.xml
+SHA-256-Digest: QINQJzPfhJnM8SYyIkKpuldWMiqLue+cfLeNXm+6JPk=
+
+Name: res/drawable/appwidget_button_left.xml
+SHA-256-Digest: AQYBU+KoanoHmk9C/yTNpJQmJ+jcc1gdR8Qu98qHZ1s=
+
+Name: res/layout/delete_managed_profile_dialog.xml
+SHA-256-Digest: K0SpO+iRCm5wQWZ1mr2fqySApb5PmmGxYxp1BEZc48g=
+
+Name: res/layout/storage_summary.xml
+SHA-256-Digest: GsUxMXTKr9DC8/aRCi10S1r+Hl5dJ9/faGQgQKx1lek=
+
+Name: res/color-v23/abc_tint_spinner.xml
+SHA-256-Digest: aioQL6zZ2XpELJGSuZlqvDQyyDVf1VkezdriYqYr9GA=
+
+Name: res/anim/confirm_credential_open_exit.xml
+SHA-256-Digest: HTeaZ4rP+WWOkx45RWuz+e3AR2pjKMZbuJ/VoghMMNk=
+
+Name: res/color/abc_background_cache_hint_selector_material_dark.xml
+SHA-256-Digest: wJSWK65kvipRl5it9+KxEOsAhMNPKj+pm3kfKFaiMiY=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_settings.png
+SHA-256-Digest: yg4bho+IL3Nc+gjSGl3F+sycskh3ChrVLvl7DomDGRs=
+
+Name: res/drawable/ic_signal_workmode_enable.xml
+SHA-256-Digest: 6/1wV8BlkoODwA+QH05PmgiLX/X53Qe9UftqI8LEMs8=
+
+Name: res/layout/restricted_preference_dropdown.xml
+SHA-256-Digest: zfmlqVY/+pLSH6YopEw9Ies8Iu3W11RnUKgYBx1XZII=
+
+Name: res/layout/gesture_preference.xml
+SHA-256-Digest: 8CYyQeqmAnVg0J1hEuwcg++5s9m5ffJLTB6zb0H0d+s=
+
+Name: res/drawable-ldrtl-xhdpi-v4/ic_network_signal_2.png
+SHA-256-Digest: OZEbFAwHvYCeleZFZl76VYV9PdMe4IkmiQDbuctvZj0=
+
+Name: res/layout/preference_color.xml
+SHA-256-Digest: tX4dboXciU7DqwQ3+NdW3SxMhKShpKrLu5UOjbPGNhg=
+
+Name: res/layout/wifi_ap_dialog.xml
+SHA-256-Digest: 7wJZCmIhiYTEJmHL7OfmI39Yl2joNW0st45Q85JszRM=
+
+Name: res/xml/voice_input_settings.xml
+SHA-256-Digest: V8mLWbrtgLEzqp/ux/vLXQvyNk9CJdQIdo4P/Ix2ZJc=
+
+Name: res/drawable/preference_highlight.xml
+SHA-256-Digest: v9Moo860HkZL/ao5I7YrVfDuVQjNFJAUeePLyUdiGPs=
+
+Name: res/layout/abc_search_view.xml
+SHA-256-Digest: QMNS4heG4bj8+s+p+7K8aWEmx0OVMXeIbnPjPgKrsl4=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+SHA-256-Digest: 5hC2OCglrUrnkri6Iq8DZTS0KuTBsRUtPdjvAmawME8=
+
+Name: res/menu/wifi_setup.xml
+SHA-256-Digest: KwG1hOcjccPDCpuyNPi/fqnZbxLFaf1sMcXoFuhmtrs=
+
+Name: res/layout/screen_zoom_preview_settings.xml
+SHA-256-Digest: 2+oPYVvlYkYWhnVi/japjs8icO5yfxVUsrKNge3sL/A=
+
+Name: res/xml/testing_wifi_settings.xml
+SHA-256-Digest: cybwQnXScMkqJkEe/6uTC4tNhWuga+t48phcBMb2AQc=
+
+Name: res/layout/widget_text_views.xml
+SHA-256-Digest: tWlxyqXBK8afi01syt0mA4ixHxcrXDQSF6hZacwg1EY=
+
+Name: res/drawable-ldrtl-xhdpi-v4/ic_network_signal_0.png
+SHA-256-Digest: 3GqNeQqY8lGMb6/LzBoDodd7maV8obT4xlGvN81tXuM=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA-256-Digest: UcrXW2ElY1qt5dfTsuSlaRj5YzoOKQ6qQH5GeDt/B8E=
+
+Name: res/drawable-xxhdpi-v4/appwidget_settings_ind_off_l_holo.9.png
+SHA-256-Digest: TrrlHVHSMreqchaUelRTA4rVqMiztWFIjuU+V4Itqec=
+
+Name: res/layout/settings_main_dashboard.xml
+SHA-256-Digest: FzFVYmbT0xCcNwcQpWdcRi8rYvS+OPZYqvz22HhMYo8=
+
+Name: res/xml/location_scanning.xml
+SHA-256-Digest: 8Pjcq9QGJl63/8hkQnA2idcrAofrXXYMRJO+gYDYZLM=
+
+Name: res/drawable/abc_ic_go_search_api_material.xml
+SHA-256-Digest: CeVXjZogCtl0XtTm+Q6872Cs0q9aZgQJCW7x8bOniHE=
+
+Name: res/layout/ignore_optimizations_content.xml
+SHA-256-Digest: 9l6e5VwRBJqdRRDAv1qadXjXHVRLJo/L95PB3e4nnMc=
+
+Name: res/layout/filter_spinner_item.xml
+SHA-256-Digest: Es+kleyCB11B/fuN4jcYkesLy2uvRmC/S3MdrpmxZ8Y=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+SHA-256-Digest: oFMtN3op8orWEZomlshqRp7oFGrMQU2LhyzOH/Mil/M=
+
+Name: res/xml/device_picker.xml
+SHA-256-Digest: bcLoTZNriyviF8dQvZocZOcc32CXSewOueqo7eRdols=
+
+Name: res/layout/redaction_interstitial.xml
+SHA-256-Digest: lqCLjZPy8a36nhqByrJFxWZnGlJhhD881FKzVG7kqOo=
+
+Name: res/xml/accessibility_autoclick_settings.xml
+SHA-256-Digest: CPsKpMzi67s/rPU5vrhW+CxEt+aYSj5W+jaouwsTDLE=
+
+Name: res/xml/input_methods_prefs.xml
+SHA-256-Digest: qyzQEGLxVjTLyvRaaXD9tGRi46MVZB2y8EFQswHy9NM=
+
+Name: res/xml/zen_mode_external_rule_settings.xml
+SHA-256-Digest: Cxi5Q6QQ83Z9ft1n9D3J6lNgGwgju8cQD+y9k2IbTXg=
+
+Name: res/layout-v21/preference_information_material.xml
+SHA-256-Digest: KSepC982z3yqi4wLtyzp0sl9tbxqfEnt3m+f4Wgz1JA=
+
+Name: res/drawable/ic_hotspot.xml
+SHA-256-Digest: 3ncSVZU+iiZag+MturXPeQX5wvE22dEqv3719f2RU0Y=
+
+Name: res/layout/account_sync_screen.xml
+SHA-256-Digest: 0S7wT14ww7eyVjSZswC7A/MwrIEGvCUHFVEBfF3CxnU=
+
+Name: res/xml/wifi_configure_settings.xml
+SHA-256-Digest: 2pFt/f48HZBKXxa4X8/16/oTHolEFBiobecUJkYPw5Q=
+
+Name: res/drawable-hdpi-v4/data_sweep_right_activated.9.png
+SHA-256-Digest: JO4vyepcKX/wjhmeuJt5URDHTm4i9OsY7Two+iuSalc=
+
+Name: res/layout/data_usage_item.xml
+SHA-256-Digest: dErNBZfqap0RQOhsXwLw/tyjbkeOELyqAb/NIDORjpc=
+
+Name: res/layout/app_ops_summary.xml
+SHA-256-Digest: EpylYqRj0o2ojRpfkMKbIakhEPGHzljHFMtZ66qbjyc=
+
+Name: res/layout/app_preferred_settings.xml
+SHA-256-Digest: 2VYac+F3YiaiOHfT18DjBHOYIMBhaCqhTIGCoMbYlyw=
+
+Name: res/layout-sw600dp-v13/confirm_lock_pattern.xml
+SHA-256-Digest: 2L/joh1nKYdEPFd1gq9jAO1ey42wqsiXF0m4DxkfdF8=
+
+Name: res/drawable-sw600dp-xxhdpi-v13/bg_internal_storage_header.png
+SHA-256-Digest: BrQlFfqUJeq8dOWLdNURP274Ir511Kn+6k4IL/kttTw=
+
+Name: res/layout/layout_preference_frame.xml
+SHA-256-Digest: 5rq1VjMqSBHfSvMfERlesGxOZx9tP8lUTUHOAyTTwgA=
+
+Name: res/drawable-xhdpi-v4/lock_anim_4.png
+SHA-256-Digest: EWmolCIblh4rDjXvp05gCk9/hm17LDRdzGQCnbwDk28=
+
+Name: res/drawable/ic_settings_development.xml
+SHA-256-Digest: /7OzTMIQX4k8kjDcpL041/ArmIpDU2Ixmgh19iLR+CE=
+
+Name: res/layout/abc_expanded_menu_layout.xml
+SHA-256-Digest: i2Y3xNfH5TGRrg75sVHnIfxStwmid/TMGX/zkA2mW9s=
+
+Name: res/drawable-v21/suw_navbar_btn_bg.xml
+SHA-256-Digest: vJqcIS8amrpoSQMDSn/iXZytxi+jGB+ZCcFTYlxZUX8=
+
+Name: res/layout/running_service_details.xml
+SHA-256-Digest: 7u2GGDUgDHICjVBIms9vjsiGUkxbZ+ewJ2GHKYvRbMo=
+
+Name: res/layout/abc_screen_toolbar.xml
+SHA-256-Digest: 3ncYLNYQaBzZUHiRTTsyNCbH1kU2HLIDfBQHnRJmO5M=
+
+Name: res/drawable-xxhdpi-v4/ic_settings_timerswitch.png
+SHA-256-Digest: YwUiD/maZSRfSEEzxxmidfc/Y8Sf8Winc1Sow7tP2Kw=
+
+Name: res/drawable/abc_btn_borderless_material.xml
+SHA-256-Digest: n1xJWPPO2eC1t4SSzclLRwHytqbRZRgIdNTfWqIgFZU=
+
+Name: res/color-v23/abc_color_highlight_material.xml
+SHA-256-Digest: WQiQpZ9Yiwa7rnSN02fE5NXnrl5qOqyauH5RyebkoXo=
+
+Name: res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+SHA-256-Digest: XKWCESTlYU0wp567ZmgXmFiv6hV8muILervjPES3YkM=
+
+Name: res/layout/hotspot_checkbox.xml
+SHA-256-Digest: GiyeS+JWOmo0Nrx6aZ9pM2cZg9FXsLACEjxfF+L68qw=
+
+Name: res/layout/suw_preference_recycler_view_normal.xml
+SHA-256-Digest: NM/zkGqXvkcj9o0vNkbjRP9M/9dtousaVaECLZAf4mY=
+
+Name: res/layout/storage_wizard_init.xml
+SHA-256-Digest: PFuTfOyS+fyP8PEG/bVj9iI5L/uU4hhXxbJp7OdEcmA=
+
+Name: res/layout/device_admin_settings.xml
+SHA-256-Digest: oMs8A06pbG/f9Wl/hrR6BmdPdJtAY/7YneYmrL8Wh5U=
+
+Name: res/layout/suw_glif_template_content.xml
+SHA-256-Digest: Wp1lUO5A8+6IenbqhTxlPOLuYjKo8mDOpKY6EjqPje4=
+
+Name: res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+SHA-256-Digest: JZdOG95jAT/r4dIUlnUSGtKfL7PjM2c67GLaQcvqAuA=
+
+Name: res/drawable/accessibility_screen_magnification_background.xml
+SHA-256-Digest: 2L/VEM3iqnmkJonCKaSqZ7Nwn1Sfof5UPjscSanZMKA=
+
+Name: res/drawable/abc_tab_indicator_material.xml
+SHA-256-Digest: TjM1M8wwjCTdeIiYnf71msnXysImMyCugLy9si8d/xM=
+
+Name: res/layout/setup_screen_lock_fingerprint_details.xml
+SHA-256-Digest: rAug7q5M5qG/QMzZpTuZREj+mFeziS80OhyMULjUUh4=
+
+Name: res/drawable-xhdpi-v4/lock_anim_7.png
+SHA-256-Digest: H1qoaUAzA37CnKkbC500wT8MrX3L83cE1o+Vl5eBTMQ=
+
+Name: res/drawable-xxhdpi-v4/ic_wifi_lock_signal_4_dark.png
+SHA-256-Digest: CecXb4Ss5Q22y79nSA7zZJW1Mm1Bn4QUEYl/3RQnJy4=
+
+Name: res/layout/suw_progress_bar_stub.xml
+SHA-256-Digest: XLvHMObWt2sqR6YvgXg0MqdU1p8zfFkyAHs1t9egCys=
+
+Name: res/layout/running_service_details_process.xml
+SHA-256-Digest: DCs9Jeu7UF/12+S1lks8KK+pIhFmaXKMvdZc8e1thmc=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.p
+ ng
+SHA-256-Digest: 6ZZ9L8FJVW6t4EX6oS0cjvH6uQSifs+1xfGfeNZN3lM=
+
+Name: res/drawable-xhdpi-v4/encroid_progress.png
+SHA-256-Digest: 2UZ4Zm1t7XIsM1aujS5gThTm03Ko1oBgMT9EDUGZqXU=
+
+Name: res/layout-television-v8/settings_with_drawer.xml
+SHA-256-Digest: gw/6nG+Nj48YwCp84upfE8uSly1aPtG5I0e0HB/Ya8U=
+
+Name: res/drawable/fallback_home_unprovisioned_background.xml
+SHA-256-Digest: KnGJs0Qvd9vXSjX6cWAlD7ZT1Xr5ZQX8PJdHXTspD74=
+
+Name: res/xml/nfc_payment_settings.xml
+SHA-256-Digest: 52RCov0xgHU8xN1eIGEOFqvH8bCsulUI/IxyuYD10FM=
+
+Name: res/xml/device_info_storage.xml
+SHA-256-Digest: 7z2yCvuq2zMxJx+o6K0Ia6zkIzbNkLNooj6iZeCO79U=
+
+Name: res/drawable-xhdpi-v4/ic_tab_unselected_all.png
+SHA-256-Digest: dvZM5amKl8Yd4pYWjIgZObMoHObhDoa+AADb4N+VY98=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA-256-Digest: +SMRatY9AL4PP/rFmXPjKdEVSr3YRnmpQOy7K0gX81E=
+
+Name: res/raw/accessibility_screen_magnification.mp4
+SHA-256-Digest: VtJXmQ/AuxV+d0m08/0E8TUEhYv9t4Pn8wBgNWnk9TY=
+
+Name: res/layout/abc_activity_chooser_view_list_item.xml
+SHA-256-Digest: bcEU6Yoiua8bDm73uvQa1hOfGE97ijHckrvAdtgi0LU=
+
+Name: res/drawable/abc_vector_test.xml
+SHA-256-Digest: n1RXdsqIQKXJtBG8zfTtLO41tg/dhdYz7wvSD5C9f5E=
+
+Name: res/xml/zen_mode_event_rule_settings.xml
+SHA-256-Digest: AwF/gE6Xb0SvdbudH5OtobmIueG2sD8zobJgvGt/IsI=
+
+Name: res/color/abc_tint_edittext.xml
+SHA-256-Digest: 4ZWfJleqbkA5TdNWsvmQtGp/Ilm6PDIC60sff0KBh/4=
+
+Name: res/drawable-sw600dp-xxhdpi-v13/setup_illustration_wifi.jpg
+SHA-256-Digest: QyhhO5wwWiXONeSkmcR3l9hTvU+gbh/B6ewHxpcfhsg=
+
+Name: res/layout/settings_summary_preference.xml
+SHA-256-Digest: 7AXVQ8n7SYf08X6Xjed3crJtKpBhJzW3l67JTkXFw0g=
+
+Name: res/layout/preference_tts_engine.xml
+SHA-256-Digest: bTXY1S9g+maaOQrKqyzlUWHxMGLOu/ag0wjIo1Z5N8Q=
+
+Name: res/layout/abc_action_bar_title_item.xml
+SHA-256-Digest: CjXR9tMb2kHNYR3KgiYs8gV28BbxSKI461VREdSm5Ts=
+
+Name: res/drawable-xhdpi-v4/nav_divider.png
+SHA-256-Digest: mKBy83O1Gd+FKbwcZ/C7o9hrJ8p5TpPrBK6F2yIMhp4=
+
+Name: res/drawable/abc_btn_check_material.xml
+SHA-256-Digest: cI3xueRDY8qAe0CT5s8Ax6htzlRd5EMLMWMTGOBjpJw=
+
+Name: res/xml/application_settings.xml
+SHA-256-Digest: 3fZiHX+ZqjXnxPh5uS8n0mpuzCz0VL7KMpG/+r75oCw=
+
+Name: res/layout-sw600dp-v13/crypt_keeper_pattern_entry.xml
+SHA-256-Digest: mlLm1zC+ajVszk77ySl48rZeLNq0tJLQ9VLvI1q6+M8=
+
+Name: res/drawable-xxhdpi-v4/setup_illustration_wifi.jpg
+SHA-256-Digest: VX8fy+H2Mz27sXSI5e/bFsaykV399OSdHQp+OfJ2vQM=
+
+Name: res/xml/app_data_usage.xml
+SHA-256-Digest: WpzVT8+5MeWdycoSCnvPDTELsTskVNF4TY1/q2h4zlg=
+
+Name: res/layout/user_limits.xml
+SHA-256-Digest: qn/T+pibrUPHPWtzWIldl9TRdk2wD8SVXdLP5sFraPQ=
+
+Name: res/drawable/ic_bt_imaging.xml
+SHA-256-Digest: Te0PYL0vNnz7z5ltLKgD9uTUyzd4ikAZIvXCgFKS8qw=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png
+SHA-256-Digest: GACH0Xz6qdYAKAQdluohyef8VJK+N7RgUEUlPVSEa4c=
+
+Name: res/layout/data_usage_cycle_editor.xml
+SHA-256-Digest: k7knIWzJ6llHSA7OV4UDK3jGAFZ5Zo2ooIYekOY3TxA=
+
+Name: res/drawable-xxhdpi-v4/ic_search_history_am.png
+SHA-256-Digest: 1MU2RCYCsJ06C9j+rAZIFW9jAXrJHrHtBKghcZTrDQM=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.
+ png
+SHA-256-Digest: R6+Gkcy5BPnMQ4M8WlwG/jzP6r1MajvlTCafqq5LS44=
+
+Name: res/drawable/abc_btn_radio_material.xml
+SHA-256-Digest: tYX998NUnHKhgvR5wnM6N0TZBdWsuw1cqyoG57GWsFg=
+
+Name: res/anim/confirm_credential_close_enter.xml
+SHA-256-Digest: ffjZ1pmCB7lKXQHzHeiRlJIgq2PrbfZh5HL9NSv3zCg=
+
+Name: res/drawable-anydpi-v21/suw_navbar_ic_more.xml
+SHA-256-Digest: syxEiVu2NAoxfgDvr7DJ14WaXs0kQVS4Fph535xb3Zw=
+
+Name: res/layout/drawer_category.xml
+SHA-256-Digest: wP84KfNorrMaH0qCpGE8OAUyYvJoPNw1gD0gLcG403w=
+
+Name: res/layout/notification_template_big_media.xml
+SHA-256-Digest: IVPGpHnGVa8gvaXq+p4DUYuH1ruJMw8OtJE2x29dsyk=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+SHA-256-Digest: VPiitqc3JarCF+1WGlHTpp3ekQg+1c6IBbZlSoszX20=
+
+Name: res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+SHA-256-Digest: /m+YRIVip6XPhH9nkMX9djczHJCJGDiaFWpc+S+D7t0=
+
+Name: res/drawable/ic_data_saver.xml
+SHA-256-Digest: g89pjjqZQYbO0mdpxc8Gc+cDBDRDTLAokIj8ihL5qF0=
+
+Name: res/layout/suw_preference_template_header.xml
+SHA-256-Digest: WobYP56qv4tR1SYVog1R8dG9/WcUuCd7KNMeXMeJUIE=
+
+Name: res/xml/security_settings_slide_sub.xml
+SHA-256-Digest: ajzz1bXGTayot1u4Frb6HLw5VRRVNEa17n4B0wUxFrI=
+
+Name: res/drawable/abc_cab_background_internal_bg.xml
+SHA-256-Digest: r6yNDgg46Dppwn8ZBaEvlVuRSBGTIfvPGu5gasJ0OfY=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA-256-Digest: Nf4+acImlG2T7NVfXjhWm4bn5lUfqMx3TnbyrIbCXaA=
+
+Name: res/drawable-sw600dp-xxhdpi-v13/bg_portable_storage_header.png
+SHA-256-Digest: 9Pn4Lsp2heg3WKwOT0YyxJEx4S3qFxNx01LKE1ZD1q8=
+
+Name: res/anim-ldrtl/suw_slide_back_in.xml
+SHA-256-Digest: aYATFTgtcteQqI0A3LGpsmAD7SHxQgWe+1AB9SyX3t4=
+
+Name: res/layout/trusted_credentials.xml
+SHA-256-Digest: +SYw+uKf4X/tf7viLrAbqRjm4ZbqwvJOeSYBT+ncsvo=
+
+Name: res/drawable/abc_seekbar_track_material.xml
+SHA-256-Digest: nEKMbg1T11WjKSbDNkEvYtSTQWXyZIRNwtWuEgyFJrU=
+
+Name: res/drawable/ic_wallpaper.xml
+SHA-256-Digest: hmwKmLiUV6p8Gf33hB8z7YSqExpN5t8dk+YIgA6KuGs=
+
+Name: res/xml/print_job_settings.xml
+SHA-256-Digest: h/O7NtIaKPX5gJcsUNU7LqsJPMXSufA/Lnsp1hMzycE=
+
+Name: res/layout/suggestion_header.xml
+SHA-256-Digest: SrPZ97Jlh6OudZqI2coP6C993Z79e6Dcyz436FlxUXk=
+
+Name: res/drawable-xhdpi-v4/ic_tab_selected_all.png
+SHA-256-Digest: i/TLKcPYVJpTtimKZ1GrISRFySzkQdMf+HvYdJlTBRU=
+
+Name: res/layout/space_preference.xml
+SHA-256-Digest: 5L3kGOByBjwK4g4Gn+VDvvFcHWYIlIwXrzFvluGiksQ=
+
+Name: res/layout/running_processes_view.xml
+SHA-256-Digest: e3AJtW+q8N6n39+hoiWqQJx7zOKaf7LtETmmV8twenc=
+
+Name: res/layout/restricted_dialog_singlechoice.xml
+SHA-256-Digest: uNOJZzQGCQpaHjarpCrsCWl65qB//QmF4AFbnPFITxU=
+
+Name: res/xml/data_usage_list.xml
+SHA-256-Digest: /l0Li1aiWAmBw2/Z+H5A5+rk4sQ74apvt2qVQCMwVh8=
+
+Name: res/drawable-xhdpi-v4/lock_anim_5.png
+SHA-256-Digest: 4OcgZ7/czRWIc4s1Pm/O8KlnSdqQhuAmIKpkxJ4pJU4=
+
+Name: res/drawable/data_sweep_warning.xml
+SHA-256-Digest: BCFcF/Ojz1cPtuXIhINCcstNm7ucR+A1sgT3ae60ltk=
+
+Name: res/layout/select_dialog_item_material.xml
+SHA-256-Digest: cYk9ZGTawnH5mufFiKNWYawcuPhbx4s8NLMR3JoyCYE=
+
+Name: res/drawable-xhdpi-v4/lock_anim_6.png
+SHA-256-Digest: rhk21GrbygDtrjzr1Z5CfxKM3XO6cw/k0W0LNecjGDo=
+
+Name: res/xml/security_settings_pattern_profile.xml
+SHA-256-Digest: 2CL3pgrQeuGB9ITPjbA4O/5me7gpBzyJGQNWnti91c8=
+
+Name: res/drawable/ic_audio_ring.xml
+SHA-256-Digest: XQY5TXehZpAsVS2k68N5N6ZMqVJz+dRdieFX906bWXY=
+
+Name: res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+SHA-256-Digest: Ulh9eSI6HLj1uoeAlpsHef+1vW8z3fTNsdFTplapw8Y=
+
+Name: res/layout/screen_zoom_activity.xml
+SHA-256-Digest: zWUIJ6Uu+c+5S9lfBYOKK5NVjYUI2FCbx4m9tRUyWSw=
+
+Name: res/drawable/ic_check_green_24dp.xml
+SHA-256-Digest: wjyN3KSLuJmeNkIKPd7EQaIIKcly5qBDWcm2ZQVKsvw=
+
+Name: res/layout/dashboard_spacer.xml
+SHA-256-Digest: upyoZZjcDsvTVSl0GKtUx5iVMi5KqH97R30s4CE2sy4=
+
+Name: res/layout/notification_log_row.xml
+SHA-256-Digest: e3mBwfhk8UY75EIVkSnRrKA1ihS1LX3HNi7ZpOv6J8E=
+
+Name: res/layout/print_job_summary.xml
+SHA-256-Digest: GerURNOKaGS1Bs7qgaD4WrSMI7cT4rAS6bZiILBOTZ4=
+
+Name: res/color/abc_secondary_text_material_light.xml
+SHA-256-Digest: frHynUQON2yzminODx/BFsO4vg6lzmmaOeLX/yKepSo=
+
+Name: res/layout/custom_sim_switch.xml
+SHA-256-Digest: cy3T7yRjP0oIdJLrARS8SMrXD2nXeJ44IZlbhq+c3hs=
+
+Name: res/layout/storage_wizard_progress.xml
+SHA-256-Digest: rxgtuf6V3MBhkaR5NjAUV6HAjGQkEKYweTksbxc1PNY=
+
+Name: res/drawable-xxhdpi-v4/ic_appwidget_settings_sync_off_holo.png
+SHA-256-Digest: zP1buzmvY6MAbjPPEuIg1imDcJ7jFHmIlTrggd6tBoE=
+
+Name: res/layout/battery_active_view.xml
+SHA-256-Digest: 7vlYmKz5PRAWzOfv7F9p2YMO3mzFXI/+xgWhCKsIUmg=
+
+Name: res/color/switch_thumb_material_light.xml
+SHA-256-Digest: +58aCqZ8gmZLwmR0RXWGjjvzULovlTHsqOjPcuy0v9o=
+
+Name: res/drawable/fingerprint_progress_ring.xml
+SHA-256-Digest: P6FqpyTntdKc0Lu2HI2K9RUf5gFrHt8rGlwq+6YveRA=
+
+Name: res/anim/abc_slide_out_top.xml
+SHA-256-Digest: lE7jUT/meuvZ887GWPU9WLaLjHX+DEwM9HlWQv9S1tw=
+
+Name: res/layout/abc_screen_simple.xml
+SHA-256-Digest: Im5yCEdtecJ9VhoS0Mkl7tljf18wfluzsNU4XfUtYU4=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA-256-Digest: v73RW3UyHglMyJjKH9dnpAJv02EA00UZG0tZNXq0S+w=
+
+Name: res/xml/device_info_phone_status.xml
+SHA-256-Digest: YPgT/2Yx2CebNl9dHs+Rl+gryeJLPKzJ+vTNRIAOpvU=
+
+Name: res/layout/crypt_keeper_progress.xml
+SHA-256-Digest: 8Tcw8+a81hv0y8/H4Q6zndRRlyjnsJvPeXi01SResEI=
+
+Name: res/color-v23/abc_tint_seek_thumb.xml
+SHA-256-Digest: oBWHjoOF2w3a2UENrTG92qeCNf9SC3lxKI+QNXvtSbg=
+
+Name: res/drawable-nodpi-v4/preview.png
+SHA-256-Digest: ZtoTtlMna4p2ko6cMp7JQKso5yaXzjWuA0ImQuJfyLg=
+
+Name: res/drawable/ic_launch_app.xml
+SHA-256-Digest: HKulcT3MHaGtR4eYoOb4MGwAkPKTQUEbKj+DlgG3ha4=
+
+Name: res/drawable/suw_card_bg_dark.xml
+SHA-256-Digest: WvIp/qQuK8mPub8wG6G/r/Mlph7BpKL3AzGiLBph5Pc=
+
+Name: res/anim/enrollment_fingerprint_isolated_ridge_5_path_animation.
+ xml
+SHA-256-Digest: bwF/lFMZoa42mbhEMYNuZAhxtdS1boNM8Xs5h8lfve0=
+
+Name: res/drawable/setup_ic_add_another_network.xml
+SHA-256-Digest: xBWJyBRRHLPE093YK9mid/JLHMfzqkoh21A1rrooI90=
+
+Name: res/color-v23/abc_tint_edittext.xml
+SHA-256-Digest: 4ulny4H7/Er4NSULusNwe3zrcQparm3wOr5XTinEh1g=
+
+Name: res/drawable/abc_switch_thumb_material.xml
+SHA-256-Digest: mg8FPqmcP8qFc790j4aOzKlmXk/LMGFjQLSl5KTikY0=
+
+Name: res/xml/process_stats_ui.xml
+SHA-256-Digest: slnARK3zcfbWbv5q53+powzLiYSlc1cgCMZU9C2ma7w=
+
+Name: res/layout/choose_lock_pattern_size_header.xml
+SHA-256-Digest: r9KOXWmc6fWb+gS+QLyeTYwakAK3esX4QuNWNBJrFXs=
+
+Name: res/raw/gesture_fingerprint_swipe.mp4
+SHA-256-Digest: eZz9iOjwnjzvEws1pIDIVpAZ/8NC/dFHGnglK1TmB7k=
+
+Name: res/drawable/appwidget_item_bg.xml
+SHA-256-Digest: Gm5oVa2EQipqLD8aOqu6KyPneqk1qOLEvIz/UXk1h3A=
+
+Name: res/layout/suw_template_header.xml
+SHA-256-Digest: T/qF7SSjD9leFcIdMFwmPdhr1RlG9+6Y7Rj+mC+vd/c=
+
+Name: res/layout-v17/preference_dropdown_material.xml
+SHA-256-Digest: Kp7pbMhgfZGfrr1RSRKYgi40iLtZmAhDCMCJ5snxFZw=
+
+Name: res/layout/trusted_credential.xml
+SHA-256-Digest: 7PIkUOPTgTfDrwQvogKn//M1iO4v2Fp7phjduKr9cA8=
+
+Name: res/drawable/ic_perm_boot.xml
+SHA-256-Digest: cFtdvJwQwk97fAOun8VcmH4m1V/wloS7kB6ymNd+fSI=
+
+Name: res/layout/preference_widget_switch_compat.xml
+SHA-256-Digest: GMhiW9vnrhrkxMQRRLBPLfN/jY6tVOD+x2GCuH84hzI=
+
+Name: res/drawable/ic_perm_nfc.xml
+SHA-256-Digest: xAq89FrtRwTSqB8eIP3xVyCKpGpRSo9RlXvR82zgCTs=
+
+Name: res/drawable/ic_bt_cellphone.xml
+SHA-256-Digest: ayn2Q+aK6DC+vOZR01XNDJ2T0qcw5NjpNnYFqQg+ZWE=
+
+Name: res/drawable-xhdpi-v4/lock_anim_2.png
+SHA-256-Digest: k5ZuUTyA+BkASDPTX/nQ2skpxIniPuhsCuHLzT2Gze8=
+
+Name: res/drawable-nodpi-v4/gesture_ambient_lift
+SHA-256-Digest: TEMWeyMwhZIyllU6u7vK+77HLWMpCW8pWQxXR8ZRPZM=
+
+Name: res/xml/data_usage_metered_prefs.xml
+SHA-256-Digest: E+bgAsG5Z9pWnb1UeVAZo4ASxNW7fo3fgS3q+K1K1kg=
+
+Name: res/drawable-xhdpi-v4/ic_sync_red.png
+SHA-256-Digest: T2ELQIeNHJZtfdBW+iI/eC3csqcINoOFIMb6ioYbEbg=
+
+Name: res/drawable-xxhdpi-v4/ic_sync_error_holo.png
+SHA-256-Digest: pMwATsJW5Sf03NcvMthzE5RpN+E19F4QLyM+cPpqwXY=
+
+Name: res/layout/crypt_keeper_blank.xml
+SHA-256-Digest: 6RnMGM7B9cxeq37tg0YUGTiLl23ppcIHKj4LxaCcuoc=
+
+Name: res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+SHA-256-Digest: tp4XcUjwXrOefCerpWgX9xwSQchSPcEkTwyOB5ffNOo=
+
+Name: res/drawable-xxhdpi-v4/ic_sync_anim_holo.png
+SHA-256-Digest: UB2iWSP3r71I9XA1OScaYhb0FXBHrzXYlJ+1vpZbrFY=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+SHA-256-Digest: wTD5+vCYP8tyKFdCzXDQK69IV4EgHU/RtN/M4YPDhc4=
+
+Name: res/layout/write_wifi_config_to_nfc.xml
+SHA-256-Digest: 3R1OGdYqVgJHT/04LTKlxVRuQ9otcMFo+5UQOzrSp/A=
+
+Name: res/layout/preference_storage_action.xml
+SHA-256-Digest: G8P/r8hE3CXCDXPc1X7DB7wCY8XZ9VjiIGr+aa/0XAY=
+
+Name: res/drawable-xxhdpi-v4/appwidget_settings_ind_off_c_holo.9.png
+SHA-256-Digest: 6zGbexsZZsRmfpMFA7/9ZRr28dIrbozwVMfAmSFnANA=
+
+Name: res/xml/security_settings_pattern_size.xml
+SHA-256-Digest: o2XLed59uDcZyweXKQM/bwEaUV+0K/K0zL6TkCf+ZJw=
+
+Name: res/layout/lockscreen_remote_input.xml
+SHA-256-Digest: TV3hiHVvuSJT+y6TJsb4jxV/1sR9ytwOfd2qDxXT2K4=
+
+Name: res/xml/security_settings_chooser.xml
+SHA-256-Digest: V6SQy1p/S98SEboK/yJQELaVjRgWtSlE2Ura2KSqSDg=
+
+Name: res/xml/tts_engine_settings.xml
+SHA-256-Digest: I5SJAKUrPftehnB610bRNd2/HwRSJXDPgvHlLIQEk3E=
+
+Name: res/drawable/ic_settings_date_time.xml
+SHA-256-Digest: vCrCdQZklmf0XBxp5EXWDCgvc5rsc8q2KetwOgCQi/c=
+
+Name: res/layout/fingerprint_rename_dialog.xml
+SHA-256-Digest: xQ6Au6NNowvsR70EI0BbzB6274n5u3StFMrryAF5ivY=
+
+Name: res/drawable/ic_settings_lockscreen_white.xml
+SHA-256-Digest: Gu4F5xDDru9cmIFzU27rWUxb3m8yzrnNeGrVBRu87+I=
+
+Name: res/xml/shortcuts.xml
+SHA-256-Digest: GGaSylTutD5eZUNUYm9im/KBazmov0MhwAGIYawK/rY=
+
+Name: res/layout/screen_zoom_preview_app_icon.xml
+SHA-256-Digest: +imtJi/MwKP0Z8HnIO7drIvylWeefs9SoDRTlu+wzrE=
+
+Name: res/xml/location_mode.xml
+SHA-256-Digest: RahhB3dM/F16eB8b1BqR381Xa3co1YcEET5biG2oD4M=
+
+Name: res/layout/support_tile.xml
+SHA-256-Digest: i67y+oKlUm3zw83wzk456YoQ+R7h1+wAQSiQUJEIGlo=
+
+Name: res/raw/gesture_ambient_lift.mp4
+SHA-256-Digest: U85MrORE8nMtDYfumszoOBevtEseCSp1lPP2M3+YjV4=
+
+Name: res/xml/add_account_settings.xml
+SHA-256-Digest: fDks3kD9UFv9qhLqc9z+BmVaVGSS0pS6xJl7gZrLBd8=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png
+SHA-256-Digest: g71EitlCRp9n7pmHUgiMEMo9vg8ssU1oMeuWYxXzup0=
+
+Name: res/drawable/appwidget_button_center.xml
+SHA-256-Digest: 5MPosy65n6cTBBKx7aTr+iMHALqtSs1cN/mIfIGg+F0=
+
+Name: res/layout/abc_action_menu_item_layout.xml
+SHA-256-Digest: oiG9s3LpIi1H2I1f2yazZGIiRHfSVBVzuyet+e2nKJg=
+
+Name: res/layout-v11/preference.xml
+SHA-256-Digest: T91x/QNaBxssN92PcRI6t6I7Kk00cYyhJfJ7cOCr0oY=
+
+Name: res/layout/date_time_setup_custom_list_item_2.xml
+SHA-256-Digest: 6hLPBJqJM9jtsZc7Jfcg+c1/IvuR0kX6fyhMe1CLibI=
+
+Name: res/layout/suw_list_template_card_wide.xml
+SHA-256-Digest: QxIYpnNor/9fxz8Iilu++U9WMDpAWjbFfO5N1D6UVv0=
+
+Name: res/layout/spinner_view.xml
+SHA-256-Digest: m/But/16vP8o2WRRssXn/9iMwJPLcupgXgJYmq0A44g=
+
+Name: res/layout/suw_template_card.xml
+SHA-256-Digest: Nuin9mmLzyx4ChUwVaCSZhzKpSuL5TMpKmBn1VpBEc8=
+
+Name: res/layout/trusted_credential_details.xml
+SHA-256-Digest: lT07xlmIoeJPsfSvmJS0NlibtsWTKzOldcx7ci1CmCY=
+
+Name: res/layout/drawer_item.xml
+SHA-256-Digest: 8unrRcznlboO8i2DiviM+XJEMrbhwhITtWiPn3CR4zc=
+
+Name: res/drawable-anydpi-v21/suw_navbar_ic_next.xml
+SHA-256-Digest: NXr+C+QM+vR9OmqzS+9jJT30GqBp3D7Ac9XZvq5uhU0=
+
+Name: res/layout-sw720dp-v13/tab_widget.xml
+SHA-256-Digest: nfxngreIHGKeM3BP1fyAQ1BKCz8kh37CCd8EK+k2Koo=
+
+Name: res/layout/crypt_keeper_pattern_entry.xml
+SHA-256-Digest: /IbSqG98bhD1/oYcwamQn+N6F4MJWrn93SH63Ik0Zoc=
+
+Name: res/layout/suw_list_template_card.xml
+SHA-256-Digest: Rzpu9vXz7TzhXab1vzvNSKWz+L5Z3GdDVhjX+HCgF60=
+
+Name: res/layout/preference_widget_wifi_signal.xml
+SHA-256-Digest: Dyae7tab1JPgMB9TNKfngwDkgXK63nf4wH6vPF0pPRU=
+
+Name: res/drawable-xxhdpi-v4/ic_sim_sd.png
+SHA-256-Digest: 14ya4I+Bg4dsfgLoUmVgVbJNPO76Iu0uxXXVsFHOCnA=
+
+Name: res/drawable-nodpi-v4/fp_enrollment_header.png
+SHA-256-Digest: ti8G/GjyRpYUS0iVudsjZtcnjGYdSabm/QGZnaqOLl0=
+
+Name: res/xml/installed_app_launch_settings.xml
+SHA-256-Digest: 7V6/9NI0OkkM/3sJIi0GtuqtBz4StlyZ4+USUO/apfY=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: thZWyCtAttNMcIky0BVYQr6Bl9F0OMutoIK0uGyBXQc=
+
+Name: res/xml/security_settings_encryption_interstitial.xml
+SHA-256-Digest: UMHtZ0XrSqe4XAecTTEMG/I92flMW/vRwGyHriAgVL4=
+
+Name: res/drawable-hdpi-v4/data_sweep_right_default.9.png
+SHA-256-Digest: FoNDur9jdHkz9Er1lpQuR3QcYeDE4rLygzmXyJK0Jgs=
+
+Name: res/xml/app_memory_settings.xml
+SHA-256-Digest: DkGn9Pisz46ZdrGldh7u3lqRn3C0f63k6+tdn3XcGVk=
+
+Name: res/drawable-xxxhdpi-v4/shortcut_base.png
+SHA-256-Digest: +IUIoCDvhzkaVSdSUizv2NEDl0f7oiCEs4ySZZpmZwM=
+
+Name: res/drawable-xxhdpi-v4/ic_wifi_signal_3_dark.png
+SHA-256-Digest: Ow9ANVslUsdpYF3Nh7Tm4plL3ury/UV1x/VdqtO6xBc=
+
+Name: res/drawable/abc_seekbar_thumb_material.xml
+SHA-256-Digest: Qj6sFWshpi1BGo6P+Blx9i2AgnWNCC7Tsd2yQ90lYGo=
+
+Name: res/menu/zen_mode_rule.xml
+SHA-256-Digest: HRTUV0+zl2O0W4iHKBlO+1pTUlRt1AZfGsApooKn62M=
+
+Name: res/anim/abc_fade_out.xml
+SHA-256-Digest: uu3NUywK79JH2MxjaEHAib1cZnCJ3Arbem9sRLh6iqU=
+
+Name: res/color/abc_background_cache_hint_selector_material_light.xml
+SHA-256-Digest: TKhgszlP7Ea7x0BLDDuf8aDQ0IV8dFHQ0JOfPD8RQE4=
+
+Name: res/drawable/ic_lightbulb_outline_24.xml
+SHA-256-Digest: loKFb4ow88gU2p1reIt7Jx2gPjiNzZo6RJnW/gCCUTQ=
+
+Name: res/layout/fingerprint_enroll_find_sensor_graphic.xml
+SHA-256-Digest: +9mG0IZvqSjdgzZ1OqWlwHz9CgmGoTkG507D4FjmoEM=
+
+Name: res/layout/setup_wifi_empty.xml
+SHA-256-Digest: bMB7qyVWneQTLqZPcIXc0gVUbujwqCPuj/TIH5Oq8ig=
+
+Name: res/xml/display_settings.xml
+SHA-256-Digest: ISZziBRkTxM8D0Cn54gV8cXIAVi6n2j0SEZbRybhqBQ=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+SHA-256-Digest: Bgeao1+uS3sIMnmzPlXgnwp8f2E1Ed4NU+JtME+ZSqs=
+
+Name: res/xml/wifi_advanced_settings.xml
+SHA-256-Digest: qagKKRb3pTxr+TiW/2x5TnLRbW5iKcRZ2ZMsQYtr21I=
+
+Name: res/layout/preference_widget_settings.xml
+SHA-256-Digest: A0SC/sinKRh1FTOeRvO4ZBpGsAc33Pauiq2qilyV8eE=
+
+Name: res/drawable/empty_icon.xml
+SHA-256-Digest: KNGZIQyyK2g8IvTfwLcDwvsQPGAs/t2jN8BTujA/JmE=
+
+Name: res/drawable-v21/abc_edit_text_material.xml
+SHA-256-Digest: taKq+iT/PlzBdggD1LpnXlGOLkjwyNSDHTU89dVGOzU=
+
+Name: res/layout/support_escalation_options.xml
+SHA-256-Digest: Dwyf08nKdjEe6t5craNuXO8TipbMH2sO4MfBVNItCts=
+
+Name: res/drawable/ic_menu_add.xml
+SHA-256-Digest: wvBBH05avvsh0qo+wZgxWIZUfdk7Dm3KgGU7Y0v1QM8=
+
+Name: res/drawable/tile_icon_graphics.xml
+SHA-256-Digest: P3S6xDuqLsgKIk2Mhz3qrnSF/5INGaFl70983DrkBhE=
+
+Name: res/layout/master_clear_account.xml
+SHA-256-Digest: cjgHO9wkf9yXCwbfmGKwjswEQPtv/Irg3A58E0PjuJI=
+
+Name: res/layout/empty_printers_list_service_enabled.xml
+SHA-256-Digest: Qu8GuGRpQLosH9C/1gRvYxovbwTDKh9/HgkckEShydk=
+
+Name: res/layout/user_dictionary_item.xml
+SHA-256-Digest: QiwGRlckkE/QAoMQE0FXOm/Z+5c7mBU16stOhgvo1o8=
+
+Name: res/xml/zen_mode_priority_settings.xml
+SHA-256-Digest: bF/DYGnbdeM1aX0GTE/YgJOm9SM6n6NCx81NxNq9RI4=
+
+Name: res/drawable/signal.xml
+SHA-256-Digest: j2N6gkLEq+EjuYFHB1g4BiRjkXcqRxcfKwv9E1A/xwo=
+
+Name: res/layout/crypt_keeper_pin_entry.xml
+SHA-256-Digest: 6j2GfVpkG7SpVkda7+8XLWJ1Q2/SIio0oHGduI4qEg8=
+
+Name: res/xml/data_usage.xml
+SHA-256-Digest: 0S8xeGXN9MxCQAHsdQw8kd94fUYFDZ4MDcBh5o95nag=
+
+Name: res/xml/special_access.xml
+SHA-256-Digest: hDBcOKvvpqUfG5+RLw5OEeo0Ql8vuQm7dhloA6FIF4o=
+
+Name: res/xml/sim_lock_settings.xml
+SHA-256-Digest: oYH0JJDe5/3YHqep/7Y/ZEAWWH6kvq/Ur6vBSiTTLP8=
+
+Name: res/layout-sw600dp-v13/crypt_keeper_progress.xml
+SHA-256-Digest: XjMHjFgpfqRdbBVdoWp+nvzLpBDJHofdMlLtwq5hC44=
+
+Name: res/drawable-xhdpi-v4/lock_anim_3.png
+SHA-256-Digest: aMPbRmIzcJ8HwT64s/kpWDPA8JGmnTTt6BX9JbdQN6E=
+
+Name: res/drawable-xhdpi-v4/encroid_waiting.png
+SHA-256-Digest: ME3028p/GPEkdS5ec0eLQgVAvjMAx6M/1sWvrq+t+Z4=
+
+Name: res/drawable/wifi_signal_dark.xml
+SHA-256-Digest: Z4JJRzrFOp8j3R0fyyqZlS1RyeZBapDviiUvBo8NxJY=
+
+Name: res/drawable/suw_navbar_ic_back.xml
+SHA-256-Digest: uLk3dCz17CKg3FPt8NFSKr+Xodz5befcX/k/BHgZyuw=
+
+Name: res/drawable-nodpi-v4/fingerprint_sensor_location.png
+SHA-256-Digest: COu9zi6qzzgYy7DBz/OyTDR4BW7rTlcTZXNLfsK+qmI=
+
+Name: res/layout/search_panel_suggestions_header.xml
+SHA-256-Digest: 2EGIE3TgdbbyUK9VucZD6l911BhN95LVr26r5/0HIpI=
+
+Name: res/drawable-v21/abc_action_bar_item_background_material.xml
+SHA-256-Digest: Y0nunT7UmQF8n/soC7AaUEcfrGamZMbG1Q+AdYqD1+A=
+
+Name: res/drawable/wifi_signal.xml
+SHA-256-Digest: UsD7SOwqKBe2MWmIZTd801Gj8KxrFpY5oyGus/TV7X8=
+
+Name: res/drawable/ic_lock_list_icon.xml
+SHA-256-Digest: cMyvQsLFfW8LHcmncfI2zrgZ7cjcBstsOxgMFysoayc=
+
+Name: res/layout/convert_fbe.xml
+SHA-256-Digest: 06fN8R3DbGU73nvJAaDsrxleTxtMStfVvA1ZbXWi8CM=
+
+Name: res/layout/running_processes_header.xml
+SHA-256-Digest: mcrptAujLh+KCy5h5mxdtV3tIzGMrIV/hecUKCnRmPQ=
+
+Name: res/layout/data_usage_bytes_editor.xml
+SHA-256-Digest: Zab2pI7L7+wfTWSd8IOXIyJqSDyYPLJnvbclmDm4YnQ=
+
+Name: res/xml/vpn_app_management.xml
+SHA-256-Digest: FmflNilJWpI6CmCGY3WNB7Kqbi4wqg51JUxiHiTinok=
+
+Name: res/layout/suw_glif_recycler_template_content.xml
+SHA-256-Digest: ZKK7H/zi3f72leDNagpFpIzP893PxarUKVhEcVgRs6A=
+
+Name: res/layout/preference_wallpaper_type.xml
+SHA-256-Digest: IjCn2FI3GZDAFy3DN5KKxSh1yX8HSjm0z6HA4tce4G8=
+
+Name: res/drawable-hdpi-v4/data_sweep_left_activated.9.png
+SHA-256-Digest: JLy6T70Rv6JKE9YVfSAuOJ1sFYoWvDPxnqL2LtXx5D0=
+
+Name: res/drawable-xxhdpi-v4/setup_illustration_horizontal_tile.jpg
+SHA-256-Digest: HmTVUVrkLsTJonAWHvyJfTve6GPzWweKb+K/ETIGiww=
+
+Name: res/anim/abc_shrink_fade_out_from_bottom.xml
+SHA-256-Digest: pZwBoc2E0OBOSLzQNIN/MKt2/B5LxzHPXXV4Ew9WjqM=
+
+Name: res/drawable-hdpi-v4/data_sweep_left_default.9.png
+SHA-256-Digest: pQjJn6tAlz9GfVLybHdmapojfr/zg2rVVdnh8OmUbOQ=
+
+Name: res/layout/support_disclaimer_content.xml
+SHA-256-Digest: A0ONbw2LbF1cXpY2phLYoJnEf+EpnaCW//iSnwWzN3I=
+
+Name: res/xml/data_usage_cellular.xml
+SHA-256-Digest: sx8avrW6cl+7Jl26MuHhNuqA3nr/NK6aQBeF+JgABBw=
+
+Name: res/xml/wifi_p2p_settings.xml
+SHA-256-Digest: c0bfmsngnCYfFQwD+Xkab6OmbsM0O5IAAHU9/0wrCqA=
+
+Name: res/drawable-ldrtl/suw_navbar_ic_back.xml
+SHA-256-Digest: 8Jv7DSVnA63IoCLQ70VyXTXDZDXQ+6obBV18p7E+ANw=
+
+Name: res/xml/manage_accounts_settings.xml
+SHA-256-Digest: wo9ovqItcyfbI1GajynfRlGTndsqH43d4tVVZ+oEiOY=
+
+Name: res/layout/restricted_popup_menu_item.xml
+SHA-256-Digest: C7gaaA624Sf6gmwXrDsxulGxpNpWpyN+V/SLWfhjadU=
+
+Name: res/layout/suw_progress_bar.xml
+SHA-256-Digest: dSwRNd3wLg34VKkohFoE1k0GDW42V7cHkER5blpF+ro=
+
+Name: res/xml/timezones.xml
+SHA-256-Digest: GMhLIytoS8HWmAs3D7PG392gB5Zy7hQS/vI1Elt1bQc=
+
+Name: res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+SHA-256-Digest: rbOEh0vpQQR8lE5Cew2N8bn6QrCPBgbNRfR1J3I0fBo=
+
+Name: res/layout/suw_recycler_template_card_wide.xml
+SHA-256-Digest: w4x4GP3ZGimxKmXoZTjnCe5j67r35WsamRm2P3nVbAQ=
+
+Name: res/xml/about_legal.xml
+SHA-256-Digest: TPCSADzsqHXpFbjd0SRyUQoBRWsLnJnSp6dbR0U9GYg=
+
+Name: res/drawable/abc_item_background_holo_dark.xml
+SHA-256-Digest: cGT2EH64WgVUbGDnLKfCGhCDnAfeKUTER404vjcjrLU=
+
+Name: res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.pn
+ g
+SHA-256-Digest: DWC0/Ix7gNxO3/05ez4l6O8C7OclwLCij8QkL6ZkIoo=
+
+Name: res/interpolator/enrollment_fingerprint_isolated_animation_inter
+ polator_2.xml
+SHA-256-Digest: /2shQfBltAGijDP1RYJx7lhnJibfNQfH8Yr+j4Wg+fg=
+
+Name: res/drawable-xxhdpi-v4/ic_live_help.png
+SHA-256-Digest: XTZ4/Q4+lYP47OqrJuv1mPm8s5MNMhzN9T0tko+PiQw=
+
+Name: res/drawable/preference_list_divider_material.xml
+SHA-256-Digest: oWayX38C3g2l+NWmTz1bcWEHx8DYIrJQugICDLdSVpM=
+
+Name: res/layout/widget.xml
+SHA-256-Digest: Ua1gUb1ZwkxgHzCG9F6q6x+Ca5Z6lYGqBbuvdoAohAM=
+
+Name: res/drawable/regulatory_info.png
+SHA-256-Digest: BJpuPUDwqGbH6dOTDE8MScHQWHKlvML045cEH6VTDsA=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA-256-Digest: MgnXjXelE0g8/MW2cA+6OwK1EAgXdjILuqdBolbV7Yg=
+
+Name: res/layout/abc_popup_menu_header_item_layout.xml
+SHA-256-Digest: izQg81NF/QmIGnKqLtl5y4c3i34OmDWRVUnSjtvyuvY=
+
+Name: res/layout-v17/preference_category_material.xml
+SHA-256-Digest: 5RGCAxUo60Q0CViKxbUaXM4IHtYdX0hk1SEhb7eHaJY=
+
+Name: res/layout/android_beam.xml
+SHA-256-Digest: hMfQ0Dp81Oe4sen9qVyVS3mzPDip7zdBGOrZYTShmIw=
+
+Name: res/drawable-xxhdpi-v4/appwidget_inner_pressed_c_holo.9.png
+SHA-256-Digest: qVg7Kr681iXFVblsTdLU4v1LrzFScL+y/7X97wsojjo=
+
+Name: res/drawable/data_usage_sweep_background.xml
+SHA-256-Digest: HdYlt0H8pEOt2+O1A8I+R43mHCgs2ZB154Bw0GEi4eQ=
+
+Name: res/drawable-xxhdpi-v4/appwidget_settings_ind_on_l_holo.9.png
+SHA-256-Digest: +PtB4gvpLxzBiIo2apRGpW8Smn9o52UErpW3amPyEqo=
+
+Name: res/layout/wifi_display_preference.xml
+SHA-256-Digest: rO1boJ3P3mg/dX7x0CozuBMZuWTNapVjXUG6M7Lk400=
+
+Name: res/layout/data_usage_cycle_item.xml
+SHA-256-Digest: QVjYBbv4h2xiIxmHSee9E9gsKDswLEjaF1RX6aWBF84=
+
+Name: res/drawable/ic_settings_nfc_payment.xml
+SHA-256-Digest: ZQzPmGyx2rvHFh4Ydm6Kquy3qtfHcu/w2bDfA31b41U=
+
+Name: res/drawable/ic_settings_location.xml
+SHA-256-Digest: 1qSbsb8KHeeRe/JMDVoaBQKsxfwJIp21sB2hcNXqCX0=
+
+Name: res/color/storage_wizard_button.xml
+SHA-256-Digest: ubU73JxO1BR08PEAAl91R2/VLIYk1vuaL8lDeM1PLjs=
+
+Name: res/layout-land/crypt_keeper_progress.xml
+SHA-256-Digest: b3//xPy/Va8ihJuAq7nWmcr/juj84vgVsM2XaZyMFWc=
+
+Name: res/menu/storage_volume.xml
+SHA-256-Digest: Rg/ggTsovtaMSKo8ibBAMlbqj3OaJ8fdJ7T/V/QSa2U=
+
+Name: res/xml/setup_security_settings_picker.xml
+SHA-256-Digest: qtYdaCgfxNk10l/UspOKnfljOm1XX3R+lK9zxk7pPtM=
+
+Name: res/layout-sw720dp-v13/date_time_settings_setupwizard.xml
+SHA-256-Digest: VDXDGQl5Pt4lZBGLfjSVwDqvQs14M1CVclQ1il8ZgIQ=
+
+Name: res/layout/fallback_home_finishing_boot.xml
+SHA-256-Digest: cohvzMqryEI6NHE2MenBs8HKeiMOSeK5LDzQtMdc8pg=
+
+Name: res/layout/support_simple_spinner_dropdown_item.xml
+SHA-256-Digest: 7SZhc3/RAo9N73zzX5Y/UsaLnAMNetpF6mT4luGFZis=
+
+Name: res/xml/security_settings_misc.xml
+SHA-256-Digest: XX9Dh/kliq6PqQDC/oxMqvAcXQ8oxyeUVEjoh5sDh9Y=
+
+Name: res/drawable/ic_print_error.xml
+SHA-256-Digest: VAAxp/NpZBx/0DxsTquKpXcKX7RYWvI64GNpqJGmf+8=
+
+Name: res/layout-land/fingerprint_enroll_find_sensor.xml
+SHA-256-Digest: QpQKD6/oBYMEQYAMy2T0ydLJpmlnxdklssxmG4x32lU=
+
+Name: res/layout/suw_items_description.xml
+SHA-256-Digest: nainLFXag8XkoqAxDXMdcwzX/7NzTA9bshLFzVa98ew=
+
+Name: res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.pn
+ g
+SHA-256-Digest: WnOrROBL2eyxB5w+cVjrreivqrZZHaNxyvJSFez+4QU=
+
+Name: res/layout/abc_select_dialog_material.xml
+SHA-256-Digest: EM+4nzjFjqNJ2+spUAN+rRCnlvs7DHFffEUZWHSs6pA=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA-256-Digest: fLvQKBW2iB4yE+hflRA2aXumtGOZvjwvq03ixEGspVs=
+
+Name: res/xml/spellchecker_prefs.xml
+SHA-256-Digest: Fk/mZ249J9Hr52wUkiZwdG6rq1P8+HlvRTlSQo7S678=
+
+Name: res/drawable-xxhdpi-v4/ic_tab_unselected_download.png
+SHA-256-Digest: EklQQ60U2d6mJWtjvoB3MpQv8gv9MHiWXe6q0w1T8WM=
+
+Name: res/drawable/ic_menu_delete.xml
+SHA-256-Digest: uorfWquVsSEKCiEquBrc7srhUQ3PTOD5Ba4LwmXgms4=
+
+Name: res/drawable-xxhdpi-v4/msg_bubble_incoming.9.png
+SHA-256-Digest: t+DPDxIzdH9zTrXtAnn0rVZjtXi2YFf7LCWOi7kvi0Y=
+
+Name: res/color/abc_tint_btn_checkable.xml
+SHA-256-Digest: 2ynAWQbEnEvICZyc4vFcx0up6YvftqRE3MCGqWMAsj0=
+
+Name: res/layout/preference_increasing_ring.xml
+SHA-256-Digest: 1ihZvhljDKAOIhLkumMW7ixyn2hO7AJ258dVCfgyEuk=
+
+Name: res/layout/preference_widget_radiobutton.xml
+SHA-256-Digest: uPckZ7MYSSKKRlqIbXNGBBYay00dbi0lemeGSHL3hVs=
+
+Name: res/layout/preference_widget_summary.xml
+SHA-256-Digest: bFJAGnWBYiE+GazCfDV8aNQSZVeJcZVh57IASEJ97+I=
+
+Name: res/drawable-xxhdpi-v4/bg_internal_storage_header.png
+SHA-256-Digest: d/fLnMg30sgE9HcbqGWB+uDVK5IXN2IZPL/XtgO68EE=
+
+Name: res/layout/screen_pinning_instructions.xml
+SHA-256-Digest: kTMowSXvJXUsErLed6Q/4Wgvzn+A6JSWwFjH1WMcxMA=
+
+Name: res/drawable-xxhdpi-v4/appwidget_settings_ind_mid_c_holo.9.png
+SHA-256-Digest: ieN06AJ9ELFpr89+QIVqftjTZlL76niM9QK8Wc3J8/k=
+
+Name: res/drawable-xxhdpi-v4/ic_appwidget_settings_brightness_full_hol
+ o.png
+SHA-256-Digest: WOIOUEsz8yUBycSFDrG5LYWyd/1GBmPQc9ZE44M/XF0=
+
+Name: res/anim/confirm_credential_close_exit.xml
+SHA-256-Digest: 91f2/ihyzP5u57gihbshtzzhvgDHrcoAY3V5Cj384X4=
+
+Name: res/xml/accessibility_settings.xml
+SHA-256-Digest: qrT5pdIhfyrf+Rwz6ciTKEMp+zqHEoTY2AFqCmYAW3g=
+
+Name: res/layout/single_button_panel.xml
+SHA-256-Digest: M3TfqzP+n6ARIjEDXr//hx7TC7FPrfXWJbAgEslYQ0o=
+
+Name: res/layout/title.xml
+SHA-256-Digest: wHn0DlQ6nqUPq0k8l3dT2M74gdSOj+c8mOYZqe9S2eU=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+SHA-256-Digest: G5VtWnxJoWbX3GzliFYvyq/1QCbIeO0ajeab1EztNT4=
+
+Name: res/layout/horizontal_preference.xml
+SHA-256-Digest: Gsang1M1PNrLJJi0UROpJ3TxOxIG+z91w23Y06a9VmQ=
+
+Name: res/layout/notification_template_big_media_narrow_custom.xml
+SHA-256-Digest: FBKa8+YQblGCSJQPz8oI/jgUSfFiOoaR+HuTA7l2vak=
+
+Name: res/layout/app_header.xml
+SHA-256-Digest: 4zywleCuW4rWi9kecbHm1fqEEkfsj3Frj3A91nIMqts=
+
+Name: res/layout/set_backup_pw.xml
+SHA-256-Digest: MR2Ky96TEvPMkhlAEWFeivYsKwXIIMfskgIVstbHo4k=
+
+Name: res/drawable-xxhdpi-v4/suw_navbar_ic_left_arrow.png
+SHA-256-Digest: XYW/bfkemrpn7qf2in3Xvp9XHENxSW4P2QlVkyfCGaY=
+
+Name: res/drawable/abc_ratingbar_indicator_material.xml
+SHA-256-Digest: Q4ziBv26FS/s18WlWmFeMqnJE9pvsfnsd2U04Z6vStc=
+
+Name: res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+SHA-256-Digest: /wbxgxTosGN9X+GPhRauMKo3/S3JDiBJrkRFkN2wz/o=
+
+Name: res/layout/suw_glif_list_template_card.xml
+SHA-256-Digest: hal2IFMwtOvAj5YH5/aubBRgQ6gTUfEwWjsCBSBFl+U=
+
+Name: res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.
+ png
+SHA-256-Digest: XjYQYwyjfIFLikQfBBYdgfdSAhJla59VCtE1N6NkcaU=
+
+Name: res/drawable-xhdpi-v4/ic_tab_unselected_running.png
+SHA-256-Digest: gIPr9Xp/rWJMCUrQLDE0m4/CHTxXaTk4EQB9549NSFE=
+
+Name: res/xml/zen_mode_visual_interruptions_settings.xml
+SHA-256-Digest: lvZPzMh8DJeXvi4jd/z8QgC8t9hy2O0ZZ/ACQoOzI8g=
+
+Name: res/drawable-xxhdpi-v4/ic_appwidget_settings_sync_on_holo.png
+SHA-256-Digest: GGL5HeW4z1n3CPP/OY+b5h4PWmWb8XBIP/nmJpuhS34=
+
+Name: res/layout/device_profiles_settings.xml
+SHA-256-Digest: SAplSih0WR0Yr3ZCTiSgQv3r/nHr8joGPbo5SSYk76w=
+
+Name: res/drawable/abc_list_selector_holo_dark.xml
+SHA-256-Digest: /ibI6lprtlLBvHHJxj8mBBQnU9CThX2vDLqwwMeS99o=
+
+Name: res/animator-ldrtl-v11/suw_slide_next_in.xml
+SHA-256-Digest: 7M3kAeYEKxi7mgtK0s+MgrIVDtsFD1bWKyw16uNBoXs=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+SHA-256-Digest: 7W76SvjOlA5p93aITqOQPeJqtej1CWYmUn+l3w8d/gk=
+
+Name: res/drawable/ic_font_size_24dp.xml
+SHA-256-Digest: rBYgfgDlIrCWrKhfi7z2JSVvZZNAEkLVoi4MA7w5Bxg=
+
+Name: res/interpolator/enrollment_fingerprint_isolated_animation_inter
+ polator_1.xml
+SHA-256-Digest: rkMkfL49hSyTPuT03Mi+ETbPlFAp5ZSRJhTkbfpx8SI=
+
+Name: res/layout/notification_template_big_media_custom.xml
+SHA-256-Digest: /v98lAeIMaac+2dauYiiH1DjhDQ3DQ84k1F3Uev0u+k=
+
+Name: res/layout/preference_empty_list.xml
+SHA-256-Digest: mk8W/HJYm4n9wmA5HyKcZP5SUTDrw3Tlrfxhf3jc5nQ=
+
+Name: res/layout/enable_accessibility_service_dialog_content.xml
+SHA-256-Digest: 7AjmhJWazlkpxt3EMjne+rd8IoWAwfMoF0EJJL6Kwn8=
+
+Name: res/drawable/abc_ratingbar_small_material.xml
+SHA-256-Digest: nNBorwitZ14IbC9ET+Ma3gRKcs4eEOpqM/oAC2F/CFA=
+
+Name: res/drawable/suw_layout_background.xml
+SHA-256-Digest: yHzlAr0l9NzVg5euJucHdWf2HiE37T2+HMWvcYELCzo=
+
+Name: res/drawable/abc_spinner_textfield_background_material.xml
+SHA-256-Digest: siwopt7DRsV+mE8bD3eH2UYKqDpM12eXZokewD4IFuM=
+
+Name: res/drawable-xhdpi-v4/lock_anim_10.png
+SHA-256-Digest: zp865Ce7ZuRQr5kUJhhMLyyA5O6ZQS+VCgc3SasI064=
+
+Name: res/layout-v17/preference_information_material.xml
+SHA-256-Digest: 6CCdwPe4Y2fDkuGlGVWmt5i2e08/UPUTbk32NymNRzc=
+
+Name: res/layout/usage_stats_item.xml
+SHA-256-Digest: vbI28rb9yRNJEXnF8R47pRX7A5f5v8Tov+mMu/G4hw8=
+
+Name: res/drawable-xxhdpi-v4/tapandpay_emptystate.png
+SHA-256-Digest: b8KzQUAoBCxl3Zk+Worf3CBMjZZIgAL6XXQhZVu39Sg=
+
+Name: res/drawable/abc_dialog_material_background.xml
+SHA-256-Digest: MZo6GHVkLDOePIN4N3WrGCT36J8640oWoUwNK8m5jzA=
+
+Name: res/layout/zen_rule_type_selection.xml
+SHA-256-Digest: 2+gHK6Ll+dYmam+g/rCMReNTXTvKRQvqu+vOXikBRig=
+
+Name: res/drawable-xhdpi-v4/lock_anim_0.png
+SHA-256-Digest: G1q9DmehmHfwv48wTJvEOZUNO0TAr7mBgfkOesnaASo=
+
+Name: res/layout/fingerprint_enroll_introduction.xml
+SHA-256-Digest: Ds76axs2tbGrSH8VLXmTLcOGgpsOlFDQXpjlk9KcXZU=
+
+Name: res/layout/suw_recycler_template_header_collapsed.xml
+SHA-256-Digest: rQqQlHkvMeXUA2XS0hJvFQuIcJZ5rSwT1y0EmZiinJo=
+
+Name: res/xml/automatic_storage_management_settings.xml
+SHA-256-Digest: 3TBp383PeXVtldhIsVtJ0VHzBZU79j2fQqIjimeK0MM=
+
+Name: res/layout/band_mode.xml
+SHA-256-Digest: F1JJ3YmHXL+Af6hvdf7VnlaA4nKBv5rcYo885s5i+iI=
+
+Name: res/drawable-nodpi-v4/work_challenge_background.png
+SHA-256-Digest: Ea0xEIqOqxBTjusuhoJvCujh/f6S4j7Hb8RCVuTywKE=
+
+Name: res/drawable-xxhdpi-v4/appwidget_settings_ind_on_r_holo.9.png
+SHA-256-Digest: jQ50/8U3ciSR2TyKRENCxatOPBUGtmOOaSL4Rb1NeK0=
+
+Name: res/layout/notification_media_cancel_action.xml
+SHA-256-Digest: 5p0q+rRwbsgyobtxY6ePoSYEeYZqTGobnAxgP+XGo2k=
+
+Name: res/layout/preference_information.xml
+SHA-256-Digest: DGAkMdgleLbXPEotkhf7TM1kEDoBQr5YHaTUq0tzOoQ=
+
+Name: res/drawable/ic_fingerprint_dark.xml
+SHA-256-Digest: AJRDySXtCbtN+sW2hefiIrLNcO9EhhcbCqXcxyKtW68=
+
+Name: res/drawable-xhdpi-v4/lock_anim_1.png
+SHA-256-Digest: SHPnkPlbyo8kZQdUAyAeNR4u0ntu2u3vNMHVn7l8ApU=
+
+Name: res/layout/sliding_tab_indicator_view.xml
+SHA-256-Digest: x4ziq6m1EWx9HiqjvSwkXhAEtfNxIggi6goq9BgYXus=
+
+Name: res/layout/master_clear_disallowed_screen.xml
+SHA-256-Digest: IYE6OVjdvsILz2UMKKwd8St/KxeWgND6VlgYQQJ1wL4=
+
+Name: res/layout/storage_item.xml
+SHA-256-Digest: F3m5e1SMiOmkhsGDuBlvcpEEsC8d/NHFRxmAmyMMxak=
+
+Name: res/drawable/ic_settings_accounts.xml
+SHA-256-Digest: jwr71lDMlra0EuMV3aSzQVWsqFOSS4tK1xMd9kqxteY=
+
+Name: res/layout/hidden_apps_list.xml
+SHA-256-Digest: xD8xfw1s+teScCxP9sTtjJfjtIaEivX3WKvhupkEFDQ=
+
+Name: res/layout/suw_glif_recycler_template_card.xml
+SHA-256-Digest: F6K98cZY2BNgCQstqucCVebj/a5ro8uRcMyoc7Fest4=
+
+Name: res/layout/apn_preference_layout.xml
+SHA-256-Digest: FqY2EoqplevzIC5kx0bs8d35g2xbu802ZAgaUKn8wIw=
+
+Name: res/drawable/tile_icon_show_layout.xml
+SHA-256-Digest: kz1E5aQgquu9AVxuHzt60U7PPEJ/qYOzFRsv/PER/vI=
+
+Name: res/layout-watch-v8/settings_with_drawer.xml
+SHA-256-Digest: fyWvb+iNIMH7erktIhHnslAmJ6XXiE/6h1WSrzMInVg=
+
+Name: res/xml/wifi_access_points.xml
+SHA-256-Digest: JyO8FVv7FjqrlY95TEJtcIWOC1lG0hKiqvpfs4TewSw=
+
+Name: res/layout/preference_category_material.xml
+SHA-256-Digest: PAO0vnuwndg2aoljKkH6pCQfSLM0YYldRPPRtSOAwkw=
+
+Name: res/drawable-xxhdpi-v4/ic_appwidget_settings_location_off_holo.p
+ ng
+SHA-256-Digest: 6KVXNlQGsTsn4uvxqGYn3f8/r86VhFXqurAO35T7V+4=
+
+Name: res/layout/crypt_keeper_status.xml
+SHA-256-Digest: BwZPTpp5+V/vcoX9Vb9UAQcuIUA1CSyyGVqqDT/Cpkk=
+
+Name: res/drawable/data_sweep_left.xml
+SHA-256-Digest: gao539+paf7C4DLtPaiB4ETN0XWnzaZAiJzyE3FNduY=
+
+Name: res/drawable/ic_call_24dp.xml
+SHA-256-Digest: zWq0T89qZP3BmKcrA5C+/9ZqGim4f1yfmq09VFsAUuo=
+
+Name: res/drawable-ldrtl-xhdpi-v4/ic_tab_selected_running.png
+SHA-256-Digest: VyTSbJxEKNASMVb0chHGbeUj6WBlD/wWuLe6Xnc45x4=
+
+Name: res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+SHA-256-Digest: bUA7q8ACVP2xwVLc3CW2FArHCq97AJLjrEVxPeqD8WY=
+
+Name: res/layout/keyguard_appwidget_picker_layout.xml
+SHA-256-Digest: uPGr3n2Xr/Y88wVJPvbZk7l0YxO1tu2qaDuwsLpWpSk=
+
+Name: res/drawable-xxhdpi-v4/ic_settings_voice_calls.png
+SHA-256-Digest: /qeCfT5W7jGMu43jDkDBs5ZVqWUnD5bqVYY9OPfI+xY=
+
+Name: res/layout/conversation_message_content.xml
+SHA-256-Digest: amvm3m+3dZ8i5DPfDFamMqonis/HS/cp7kQeROYSA/c=
+
+Name: res/layout/suw_glif_preference_recycler_view.xml
+SHA-256-Digest: 7er54VRGmUnPPbGsJzQEPGMtcK4XgZZRjQmyMH6ryGk=
+
+Name: res/drawable-xhdpi-v4/ic_menu_refresh_holo_dark.png
+SHA-256-Digest: P0Re4IePtwOKL47wqHszssdg0FBfnrVJfXjmKHZRaZA=
+
+Name: res/layout/suw_glif_recycler_template_compact.xml
+SHA-256-Digest: ueEApqjy6dp8bGISlSABpkdWu3SMWcXFwC6S2maAEJw=
+
+Name: res/layout/preference_category_short.xml
+SHA-256-Digest: rmVvvrcVu35p2YSRU/fkDoZAdVbhfxlSwkJZhOyYb3A=
+
+Name: res/raw/media_volume.ogg
+SHA-256-Digest: E7Zlo6Vu65S4sQw0/spPxTPgIX5BOqtK0WuTbWG5VnE=
+
+Name: res/layout/abc_screen_content_include.xml
+SHA-256-Digest: 6b6aA57HaBvarfA0l/CC5pLjC6PWUrVbev7vnPj0PuE=
+
+Name: res/drawable/ic_settings_protected.png
+SHA-256-Digest: dQYnQHRV7X5C3tzcFhncBth/uacSlhNCcqfqmIj+MGU=
+
+Name: res/layout/dashboard_category.xml
+SHA-256-Digest: eCZARExmLN7SLXvBPBfHSSyQbd6BUr18ZjkK1X82LY0=
+
+Name: res/layout/proxy.xml
+SHA-256-Digest: 0h+sDD7Qn55uuXCU8u9FwXLgZ6RDTU2U9p3axfeTo6g=
+
+Name: res/layout/captioning_preview.xml
+SHA-256-Digest: IGMlX260942HZehhznWPxwawkOYIEDhXVAh4TQO03zM=
+
+Name: res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+SHA-256-Digest: qO0tgHsSACl09xOt6ZcICNJUkrReq0brmhHasP1X5fg=
+
+Name: res/drawable/ic_fingerprint.xml
+SHA-256-Digest: dfQowhCulKBClQyKN+xm95vq41jRizA73now6IZ0UZE=
+
+Name: res/layout/vpn_lockdown_editor.xml
+SHA-256-Digest: 0GllZBl5VtCcSIzqpGR16RBR5WRgTr8TzgahRFG9VgI=
+
+Name: res/color-v23/abc_tint_switch_track.xml
+SHA-256-Digest: nljiZX1Z2fu0e2ETW/GAvjI7XBu6uzj5LqIa4B2NQPE=
+
+Name: res/xml/bluetooth_settings.xml
+SHA-256-Digest: eOU7dVXtFmEoIxXr/uoYPb8fp6W39JiPzQG4L/Xo6cA=
+
+Name: res/layout/data_usage_detail.xml
+SHA-256-Digest: 4E7gb+BtkSI3sw6KqnWOUOaRabWVAE7K3QJ3bl91iM8=
+
+Name: res/xml/privacy_settings.xml
+SHA-256-Digest: bQItFM4BAfDLLinK89n+8mZ1K0Kd2i/y6Gu+1s1WC30=
+
+Name: res/layout/select_dialog_singlechoice_material.xml
+SHA-256-Digest: U53nf+1K0GcSCUax9D8lE98HT2F9Hlw4AbxwG+2vuyY=
+
+Name: res/xml/security_settings_password_sub.xml
+SHA-256-Digest: Kx11lLKEzZLaS538s29Ce9RueCVSyy9lKU6JRah2aG4=
+
+Name: res/layout/bluetooth_pin_confirm.xml
+SHA-256-Digest: uTlrlrKxbeseuMihchRr4K0MtcRqyER18+HPxzBXMjg=
+
+Name: res/xml/security_settings_encrypted.xml
+SHA-256-Digest: iA82Xyp6Hj5jiK1Hf1kjGT26oRk3dmbIGcORn6/9swA=
+
+Name: res/layout/trusted_credential_list_container.xml
+SHA-256-Digest: AgXbzlZEYezQ+hS9XZ09TWW8go1LRElTNljIQ+rvGJs=
+
+Name: res/layout/manage_applications_apps.xml
+SHA-256-Digest: ZBznyhwR3I7T4vXKUnzinHPHdPNQCFJr+ugM6ZdE608=
+
+Name: res/drawable-xxhdpi-v4/setup_illustration_tile.jpg
+SHA-256-Digest: uYEV/7uoqNj83OJXbXJhF8edSr63vTjGVryK07aNQdM=
+
+Name: res/drawable/enrollment_fingerprint_isolated_animation.xml
+SHA-256-Digest: hqpV7Kgo57tcl6dAuq3JOQmnZ8sK2rK3tCuknE0eb8Y=
+
+Name: res/layout/preference_recyclerview.xml
+SHA-256-Digest: ti2yPpq2EqnXlwzC3W9iGRB/03L30OePpSp8Li9FLNY=
+
+Name: res/drawable-xhdpi-v4/ic_tab_unselected_sdcard.png
+SHA-256-Digest: sQYfeXPGneipyQJprJCWcDX85Umh4F4GGk17twInHuE=
+
+Name: res/xml/suggestion_ordering.xml
+SHA-256-Digest: 4M+zvyuWcCZUpTB32gws2i6xG78x4xhwgN0XOP2TqV0=
+
+Name: res/layout/data_usage_graph.xml
+SHA-256-Digest: NYA+Fmmievgfc0rvwfb2H/5O4dJAApvxg6PKqhEhrHA=
+
+Name: res/xml/night_display_settings.xml
+SHA-256-Digest: RIMlPC2osEnofvtoL9/SidaLflLtJTzO+fHOsmOWUao=
+
+Name: res/layout/wifi_api_test.xml
+SHA-256-Digest: PzCWY7QYeWdJf6PZlmGtnCf2j2baAKSauJBj5TX+w94=
+
+Name: res/animator-ldrtl-v11/suw_slide_back_in.xml
+SHA-256-Digest: JmgTQsJUTFdm1lqYjP7oHnK9DlZd4W75fcmPvM0H+a8=
+
+Name: res/layout-sw600dp-v13/nfc_payment_how_it_works.xml
+SHA-256-Digest: b7Tjqo3EF3f1kuuOxHzekyv0gLW9a7RHIuQ2BbtiDK8=
+
+Name: res/xml/wifi_display_saved_access_points.xml
+SHA-256-Digest: XjdVrzi2JRRNoWCOfaLU2rmyamfU6ClOFS2BGWzgpBI=
+
+Name: res/color/storage_wizard_button_red.xml
+SHA-256-Digest: 6MIn9P7CwdZwfem5MZrTKixqsYZwUjOn7cXa61ltgSk=
+
+Name: res/drawable/abc_btn_default_mtrl_shape.xml
+SHA-256-Digest: EAq9DlNclKaFPp+HeaO63FDytgj4tKSQEX9hIWwNr+o=
+
+Name: res/drawable/ic_settings_battery.xml
+SHA-256-Digest: r2hNkPCyX7OArIaWLGvxXMbqwq5LpDdA/pjxkLj7NiQ=
+
+Name: res/drawable/ic_suggested_notifications.xml
+SHA-256-Digest: BKUxCqDbaWYnbgyHsji38Jlk423VWRbYK3tT4I/u9bE=
+
+Name: res/color-v23/abc_tint_btn_checkable.xml
+SHA-256-Digest: diLpgqu/yDvefecYnGRAUfz68qUaIEHIGAZEftwum4Q=
+
+Name: res/layout-sw600dp-v13/confirm_lock_password.xml
+SHA-256-Digest: 9saw0V8Wai1zb/3ZL1pqG6Uor8KwzMQStBanfVoWwQk=
+
+Name: res/drawable-ldrtl-xxhdpi-v4/msg_bubble_outgoing.9.png
+SHA-256-Digest: 1tLX2CxIJzlAaloxxoT7ttZFKlrrwxc8KqVFYno43BE=
+
+Name: res/layout/support_offline_escalation_options.xml
+SHA-256-Digest: bKKuXYUJpp2rl74biqsWUdQTU42mkOaHRZhGvcDJ8xw=
+
+Name: res/layout/suw_items_switch.xml
+SHA-256-Digest: 596WzBBPSc7iL2LvuPVw/IAOZ3GgQml46PdtncAB/YA=
+
+Name: res/drawable/ic_wifi_signal_4.xml
+SHA-256-Digest: SrZ3BhUPjAtDQh3rvfdVGaa4OumLMM6cEK/wEx57c9w=
+
+Name: res/layout/spinner_dropdown_restricted_item.xml
+SHA-256-Digest: +y4DHdG059iIJoPNzFa3nF3L49SnVVBLr7n7GNMtprE=
+
+Name: res/layout/notification_template_big_media_narrow.xml
+SHA-256-Digest: eu0okRd0cgDB95NwkRMGZ4hW2ptEdT6wY1HFRq1401g=
+
+Name: res/xml/wireless_settings.xml
+SHA-256-Digest: TJ4sD3cOwLQrqfSCXISt3OdrgQL1IJA0r0h/er6hp1w=
+
+Name: res/drawable/abc_seekbar_tick_mark_material.xml
+SHA-256-Digest: kyCcx2CY62cW1572Znf2vIzZ2TwItbAsLP/SoHdlCrg=
+
+Name: res/drawable/ic_settings_language.xml
+SHA-256-Digest: XvrDty5wVGv8xlo5rt2jXB0IxBAvoTIeUBIeIkKEphg=
+
+Name: res/drawable/ic_settings_memory.xml
+SHA-256-Digest: yRQxkibkBOMPNKmAIzeazPr0HfV+Fgl8V9kq52N4zoo=
+
+Name: res/drawable-xxhdpi-v4/bg_tile_teal.png
+SHA-256-Digest: fiBMgftxiEETj5OzcbcYRBoBBE+XtKBBg9fwX4VC78U=
+
+Name: res/interpolator/enrollment_fingerprint_isolated_animation_inter
+ polator_0.xml
+SHA-256-Digest: eh4rvRnBHfQWMska2+lVGgO7D/7MZeiJYE4AKYP+Jd8=
+
+Name: res/layout/zen_rule_name.xml
+SHA-256-Digest: B621MU7G7G5WWQ1qtsMN3aV+GKkrSg53q4rUfjTfUh4=
+

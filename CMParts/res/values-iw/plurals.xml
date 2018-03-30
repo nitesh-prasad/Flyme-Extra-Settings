@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backlight_timeout_time">
+        <item quantity="other">%d שניות</item>
+        <item quantity="one">שנייה %d</item>
+        <item quantity="two">%d שניות</item>
+        <item quantity="many">%d שניות</item>
+    </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d פעמים</item>
+        <item quantity="one">פעם אחת</item>
+        <item quantity="two">%d פעמים</item>
+        <item quantity="many">%d פעמים</item>
+    </plurals>
+</resources>

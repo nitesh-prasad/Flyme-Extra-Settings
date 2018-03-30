@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/display_rotation_title" android:key="rotation"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:cm="http://schemas.android.com/apk/res/cyanogenmod.platform">
+    <SwitchPreference android:title="@string/accelerometer_title" android:key="accelerometer" />
+    <cyanogenmod.preference.CMSystemSettingSwitchPreference android:title="@string/display_lockscreen_rotation_title" android:key="lockscreen_rotation" android:dependency="accelerometer" android:defaultValue="false" cm:requiresConfig="@android:bool/config_enableLockScreenRotation" />
+    <PreferenceCategory android:title="@string/display_rotation_category_title" android:key="display_rotation_category" android:dependency="accelerometer">
+        <CheckBoxPreference android:title="@string/display_rotation_0_title" android:key="display_rotation_0" />
+        <CheckBoxPreference android:title="@string/display_rotation_90_title" android:key="display_rotation_90" />
+        <CheckBoxPreference android:title="@string/display_rotation_180_title" android:key="display_rotation_180" />
+        <CheckBoxPreference android:title="@string/display_rotation_270_title" android:key="display_rotation_270" />
+    </PreferenceCategory>
+</PreferenceScreen>

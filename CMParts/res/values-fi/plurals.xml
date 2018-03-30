@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backlight_timeout_time">
+        <item quantity="other">%d sekuntia</item>
+        <item quantity="one">%d sekunti</item>
+    </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d kertaa</item>
+        <item quantity="one">kerran</item>
+    </plurals>
+</resources>

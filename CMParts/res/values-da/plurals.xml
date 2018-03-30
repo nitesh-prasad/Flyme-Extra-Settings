@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backlight_timeout_time">
+        <item quantity="other">%d sekunder</item>
+        <item quantity="one">%d sekund</item>
+    </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d gange</item>
+        <item quantity="one">én gang</item>
+    </plurals>
+</resources>

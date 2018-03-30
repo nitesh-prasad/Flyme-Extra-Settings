@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/perf_profile_settings_title" android:key="perf_profile_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/power_save_category_title" android:key="power_save_category">
+        <SwitchPreference android:persistent="false" android:title="@string/power_save_title" android:key="power_save" android:summary="@string/power_save_summary" />
+        <ListPreference android:persistent="false" android:title="@string/auto_power_save_title" android:key="auto_power_save" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/perf_profile_category_title" android:key="perf_profile_category">
+        <org.cyanogenmod.cmparts.widget.SeekBarPreference android:persistent="false" android:layout="@layout/preference_slider" android:max="4" android:title="@string/perf_profile_title" android:key="perf_seekbar" android:defaultValue="1" />
+        <cyanogenmod.preference.CMSecureSettingSwitchPreference android:title="@string/app_perf_profiles_title" android:key="app_perf_profiles_enabled" android:summary="@string/app_perf_profiles_summary" android:defaultValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

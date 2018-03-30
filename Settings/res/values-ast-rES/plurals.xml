@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d vegaes</item>
+        <item quantity="one">una vegada</item>
+    </plurals>
+    <plurals name="show_dev_countdown_cm">
+        <item quantity="other">"Tas a %1$d pasos d'habilitar los axustes de desendolcu."</item>
+        <item quantity="one">"Tas a %1$d pasu d'habilitar los axustes de desendolcu."</item>
+    </plurals>
+    <plurals name="dlg_remove_locales_title">
+        <item quantity="other">¿Desaniciar les llingües esbillaes?</item>
+        <item quantity="one">¿Desaniciar la llingua esbillada?</item>
+    </plurals>
+    <plurals name="uri_permissions_text">
+        <item quantity="other">%d elementos</item>
+        <item quantity="one">1 elementu</item>
+    </plurals>
+    <plurals name="print_settings_title">
+        <item quantity="other">"%d trabayos d'imprentación"</item>
+        <item quantity="one">"1 trabayu d'imprentación"</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_settings_button">
+        <item quantity="other">Comprobar certificaos</item>
+        <item quantity="one">Comprobar certificáu</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d aplicaciones puen lleer avisos</item>
+        <item quantity="one">%d aplicación pue lleer avisos</item>
+    </plurals>
+    <plurals name="permissions_summary">
+        <item quantity="other">%d permisos concedíos</item>
+        <item quantity="one">%d permisu concedíu</item>
+    </plurals>
+    <plurals name="hours">
+        <item quantity="other">%s hores</item>
+        <item quantity="one">1 hora</item>
+    </plurals>
+    <plurals name="minutes">
+        <item quantity="other">%s minutos</item>
+        <item quantity="one">1 minutu</item>
+    </plurals>
+    <plurals name="seconds">
+        <item quantity="other">%s segundos</item>
+        <item quantity="one">1 segundu</item>
+    </plurals>
+</resources>

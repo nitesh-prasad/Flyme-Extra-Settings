@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.SetupWizardLayout android:layout_width="fill_parent" android:layout_height="fill_parent" settings:suwHeaderText="@string/wifi_setup_wizard_title" settings:suwBackgroundTile="@drawable/setup_illustration_tile" settings:suwIllustrationHorizontalTile="@drawable/setup_illustration_horizontal_tile" settings:suwIllustrationImage="@drawable/setup_illustration_wifi"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:settings="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:id="@id/wifi_mac_address_layout" layout="@layout/setup_wifi_mac_address" />
+        <LinearLayout android:id="@id/wifi_networks_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</com.android.setupwizardlib.SetupWizardLayout>

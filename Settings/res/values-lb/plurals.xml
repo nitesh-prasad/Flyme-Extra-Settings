@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d-mol</item>
+        <item quantity="one">eemol</item>
+    </plurals>
+    <plurals name="show_dev_countdown_cm">
+        <item quantity="other">"Du bass %1$d Schrëtter dovun ewech, d'Entwéckleroptiounen z'aktivéieren."</item>
+        <item quantity="one">"Du bass %1$d Schrëtt dovun ewech, d'Entwéckleroptiounen z'aktivéieren."</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Du bass nach %1$d Schrëtter dovun ewech en Entwéckler ze sinn.</item>
+        <item quantity="one">Du bass nach %1$d Schrëtt dovun ewech en Entwéckler ze sinn.</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Inkorrekte SIM-PIN-Code, du hues nach %d Versich iwwreg.</item>
+        <item quantity="one">"Inkorrekte SIM-PIN-Code, du hues nach %d Versuch iwwreg ier s de däi Provider kontaktéiere muss fir däin Apparat z'entspären."</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d Appe kënnen Notifikatioune liesen</item>
+        <item quantity="one">%d App kann Notifikatioune liesen</item>
+    </plurals>
+</resources>

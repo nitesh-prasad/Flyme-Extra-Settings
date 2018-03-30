@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/data_usage_summary_title"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.android.flymexx.datausage.SpinnerPreference android:key="cycle" />
+    <com.android.flymexx.applications.SpacePreference android:layout_height="8.0dip" />
+    <Preference android:layout="@layout/horizontal_preference" android:title="@string/total_size_label" android:selectable="false" android:key="total_usage" />
+    <Preference android:layout="@layout/horizontal_preference" android:title="@string/data_usage_label_foreground" android:selectable="false" android:key="foreground_usage" />
+    <Preference android:layout="@layout/horizontal_preference" android:title="@string/data_usage_label_background" android:selectable="false" android:key="background_usage" />
+    <com.android.flymexx.applications.SpacePreference android:layout_height="8.0dip" />
+    <Preference android:title="@string/data_usage_app_settings" android:key="app_settings" />
+    <PreferenceCategory android:title="@string/data_usage_app_restrict_data_category_title" android:key="data_usage_app_restrict_data_category">
+        <SwitchPreference android:title="@string/data_usage_app_restrict_background" android:key="restrict_background" android:summary="@string/data_usage_app_restrict_background_summary" />
+        <SwitchPreference android:title="@string/unrestricted_app_title" android:key="unrestricted_data_saver" android:summary="@string/unrestricted_app_summary" />
+        <SwitchPreference android:title="@string/data_usage_app_restrict_all_data_title" android:key="restrict_all_data" android:summary="@string/data_usage_app_restrict_all_data_summary" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/data_usage_app_restrict_wifi_category_title" android:key="data_usage_app_restrict_wifi_category">
+        <SwitchPreference android:title="@string/data_usage_app_restrict_all_wifi_title" android:key="restrict_all_wifi" android:summary="@string/data_usage_app_restrict_all_wifi_summary" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/data_usage_other_apps" android:key="app_list" />
+</PreferenceScreen>

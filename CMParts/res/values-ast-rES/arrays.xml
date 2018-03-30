@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="wifi_status">
+        <item></item>
+        <item>Escaniando…</item>
+        <item>Coneutando…</item>
+        <item>Autenticando…</item>
+        <item>Consiguiendo direición IP…</item>
+        <item>Connected</item>
+        <item>Suspended</item>
+        <item>Desconeutando…</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Evitando temporalmente conexón probe</item>
+    </string-array>
+    <string-array name="wifi_status_with_ssid">
+        <item></item>
+        <item>Escaniando…</item>
+        <item>Connecting to %1$s…</item>
+        <item>Authenticating with %1$s…</item>
+        <item>Consiguiendo direición IP de %1$s…</item>
+        <item>Connected to %1$s</item>
+        <item>Suspended</item>
+        <item>Disconnecting from %1$s…</item>
+        <item>Disconnected</item>
+        <item>Unsuccessful</item>
+        <item>Blocked</item>
+        <item>Temporarily avoiding poor connection</item>
+    </string-array>
+    <string-array name="hdcp_checking_titles">
+        <item>Enxamás comprobar</item>
+        <item>Comprobar namái conteníu DRM</item>
+        <item>Comprobar siempres</item>
+    </string-array>
+    <string-array name="hdcp_checking_summaries">
+        <item>Never use HDCP checking</item>
+        <item>Use HDCP checking for DRM content only</item>
+        <item>Usa siempres la comprobación HDCP</item>
+    </string-array>
+    <string-array name="select_logd_size_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+    </string-array>
+    <string-array name="select_logd_size_lowram_titles">
+        <item>Off</item>
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Off</item>
+        <item>All</item>
+        <item>All but radio</item>
+        <item>namái kernel</item>
+    </string-array>
+    <string-array name="window_animation_scale_entries">
+        <item>Animation off</item>
+        <item>"Escala d'animación 0,5x"</item>
+        <item>"Escala d'animación 1x"</item>
+        <item>"Escala d'animación 1,5x"</item>
+        <item>"Escala d'animación 2x"</item>
+        <item>"Escala d'animación 5x"</item>
+        <item>"Escala d'animación 10x"</item>
+    </string-array>
+    <string-array name="transition_animation_scale_entries">
+        <item>Animation off</item>
+        <item>"Escala d'animación 0,5x"</item>
+        <item>"Escala d'animación 1x"</item>
+        <item>"Escala d'animación 1,5x"</item>
+        <item>"Escala d'animación 2x"</item>
+        <item>"Escala d'animación 5x"</item>
+        <item>"Escala d'animación 10x"</item>
+    </string-array>
+    <string-array name="animator_duration_scale_entries">
+        <item>Animation off</item>
+        <item>"Escala d'animación 0,5x"</item>
+        <item>"Escala d'animación 1x"</item>
+        <item>"Escala d'animación 1,5x"</item>
+        <item>"Escala d'animación 2x"</item>
+        <item>"Escala d'animación 5x"</item>
+        <item>"Escala d'animación 10x"</item>
+    </string-array>
+    <string-array name="overlay_display_devices_entries">
+        <item>None</item>
+        <item>480p</item>
+        <item>480p (secure)</item>
+        <item>720p</item>
+        <item>720p (secure)</item>
+        <item>1080p</item>
+        <item>1080p (secure)</item>
+        <item>4K</item>
+        <item>4K (secure)</item>
+        <item>4K (upscaled)</item>
+        <item>4K (upscaled, secure)</item>
+        <item>720p, 1080p (pantalla doble)</item>
+    </string-array>
+    <string-array name="track_frame_time_entries">
+        <item>Off</item>
+        <item>En pantalla como barres</item>
+        <item>En adb shell dumpsys gfxinfo</item>
+    </string-array>
+    <string-array name="app_process_limit_entries">
+        <item>Llende estándar</item>
+        <item>Ensin procesos de fondu</item>
+        <item>Como muncho 1 procesu</item>
+        <item>Como muncho 2 procesos</item>
+        <item>Como muncho 3 procesos</item>
+        <item>Como muncho 4 procesos</item>
+    </string-array>
+    <string-array name="usb_configuration_titles">
+        <item>Carga llétrica</item>
+        <item>MTP (Protocolu de tresferencia de medios)</item>
+        <item>PTP (Protocolu de tresferencia de semeyes)</item>
+        <item>RNDIS (Ethernet USB)</item>
+        <item>"Fonte d'audiu"</item>
+        <item>MIDI</item>
+    </string-array>
+    <string-array name="tts_rate_entries">
+        <item>Very slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Faster</item>
+        <item>Very fast</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Fastest</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>300</item>
+        <item>350</item>
+    </string-array>
+    <string-array name="color_mode_names">
+        <item>Vibrant (default)</item>
+        <item>Natural</item>
+        <item>Estándar</item>
+    </string-array>
+    <string-array name="color_mode_descriptions">
+        <item>Colores ameyoraos</item>
+        <item>Natural colors as seen by the eye</item>
+        <item>Colores optimizaes pal conteníu dixital</item>
+    </string-array>
+    <string-array name="battery_labels">
+        <item>0%</item>
+        <item>50%</item>
+        <item>100%</item>
+    </string-array>
+</resources>

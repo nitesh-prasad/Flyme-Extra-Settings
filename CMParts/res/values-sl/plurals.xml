@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="backlight_timeout_time">
+        <item quantity="other">%d sekund</item>
+        <item quantity="one">%d sekunda</item>
+        <item quantity="two">%d sekundi</item>
+        <item quantity="few">%d sekunde</item>
+    </plurals>
+    <plurals name="app_ops_count">
+        <item quantity="other">%d-krat</item>
+        <item quantity="one">enkrat</item>
+        <item quantity="two">%d-krat</item>
+        <item quantity="few">%d-krat</item>
+    </plurals>
+</resources>

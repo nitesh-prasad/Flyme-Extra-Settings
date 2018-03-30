@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/touchscreen_gesture_settings_title" android:key="touchscreen_gesture_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <cyanogenmod.preference.CMSystemSettingSwitchPreference android:title="@string/touchscreen_gestures_haptic_feedback_title" android:key="touchscreen_gesture_haptic_feedback" android:summary="@string/touchscreen_gestures_haptic_feedback_summary" android:defaultValue="true" />
+</PreferenceScreen>

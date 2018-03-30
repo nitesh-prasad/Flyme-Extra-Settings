@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen android:title="@string/expanded_desktop_settings_title" android:key="expanded_desktop_settings"
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:cm="http://schemas.android.com/apk/res/org.cyanogenmod.cmparts">
+    <PreferenceCategory android:title="@string/expanded_desktop_options_title" android:key="expanded_desktop_options">
+        <ListPreference android:entries="@array/expanded_desktop_style_entries" android:title="@string/expanded_desktop_style_title" android:key="expanded_desktop_style" android:entryValues="@array/expanded_desktop_style_values" />
+    </PreferenceCategory>
+    <org.cyanogenmod.cmparts.widget.WallOfTextPreference android:selectable="false" android:summary="@string/expanded_desktop_nothing_to_show_text" cm:allowDividerAbove="true" />
+</PreferenceScreen>

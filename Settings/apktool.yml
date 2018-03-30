@@ -1,0 +1,28 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: Settings_flymexx.apk
+compressionType: false
+doNotCompress:
+- arsc
+- res/drawable-nodpi-v4/gesture_ambient_lift
+- res/drawable-nodpi-v4/gesture_ambient_tap
+- res/drawable-nodpi-v4/gesture_double_tap
+- res/drawable-nodpi-v4/gesture_fingerprint_swipe
+- res/drawable-nodpi-v4/gesture_twist
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '25'
+  targetSdkVersion: '25'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  - 63
+  tag: null
+version: 2.3.1
+versionInfo:
+  versionCode: '25'
+  versionName: 7.1.2
