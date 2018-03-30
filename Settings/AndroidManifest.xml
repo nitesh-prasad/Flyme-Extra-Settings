@@ -87,6 +87,7 @@
         <activity android:label="@string/settings_label_launcher" android:launchMode="singleTask" android:name="Settings" android:taskAffinity="com.android.flymexx">
             <intent-filter android:priority="1">
                 <action android:name="android.settings.SETTINGS"/>
+                <action android:name="com.android.settings.ADDITIONAL_APPLICATION_SETTING"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
             <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
@@ -95,7 +96,6 @@
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.DEFAULT"/>
-                <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
             <meta-data android:name="android.app.shortcuts" android:resource="@xml/shortcuts"/>
         </activity-alias>
