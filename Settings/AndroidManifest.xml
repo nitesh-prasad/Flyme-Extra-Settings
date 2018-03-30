@@ -148,13 +148,6 @@
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.VOICE_LAUNCH"/>
             </intent-filter>
-            <intent-filter android:priority="-1">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.wireless"/>
-            <meta-data android:name="com.android.flymexx.title" android:resource="@string/radio_controls_title"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.WirelessSettings"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
         <activity android:exported="true" android:label="@string/wireless_networks_settings_title" android:name="AirplaneModeVoiceActivity" android:theme="@android:style/Theme.DeviceDefault.Light.Voice">
             <intent-filter>
@@ -174,12 +167,6 @@
                 <category android:name="android.intent.category.VOICE_LAUNCH"/>
                 <category android:name="com.android.flymexx.SHORTCUT"/>
             </intent-filter>
-            <intent-filter android:priority="4">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.wireless"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.wifi.WifiSettings"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
         <activity-alias android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:icon="@drawable/ic_settings_wireless" android:label="@string/wifi_settings" android:name=".wifi.WifiSettings" android:targetActivity="Settings$WifiSettingsActivity" android:taskAffinity="com.android.flymexx">
             <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.wifi.WifiSettings"/>
@@ -294,11 +281,6 @@
                 <category android:name="com.android.flymexx.SHORTCUT"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
-            <intent-filter android:priority="3">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.wireless"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.bluetooth.BluetoothSettings"/>
         </activity>
         <activity-alias android:clearTaskOnLaunch="true" android:exported="true" android:label="@string/bluetooth_settings_title" android:name=".bluetooth.BluetoothSettings" android:targetActivity="Settings$BluetoothSettingsActivity">
             <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.bluetooth.BluetoothSettings"/>
@@ -367,23 +349,12 @@
                 <category android:name="android.intent.category.VOICE_LAUNCH"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
-            <intent-filter android:priority="6">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.system"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.DateTimeSettings"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
         <activity android:icon="@drawable/ic_settings_timerswitch" android:label="@string/timer_switch_settings_title" android:name="Settings$TimerSwitchSettingsActivity" android:taskAffinity="">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
-            <intent-filter android:priority="5">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.system"/>
-            <meta-data android:name="com.android.flymexx.ACTIVITY_ACTION" android:value="qualcomm.intent.action.TIMER_SWITCH"/>
         </activity>
         <activity android:label="@string/date_and_time" android:name="DateTimeSettingsSetupWizard" android:screenOrientation="behind" android:theme="@android:style/Theme.DeviceDefault.Light.NoActionBar">
             <intent-filter>
@@ -409,12 +380,6 @@
                 <category android:name="android.intent.category.VOICE_LAUNCH"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
-            <intent-filter android:priority="-1">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.personal"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.inputmethod.InputMethodAndLanguageSettings"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
         <activity android:label="@string/available_virtual_keyboard_category" android:name="Settings$AvailableVirtualKeyboardActivity">
             <intent-filter android:priority="1">
@@ -556,27 +521,11 @@
             <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.notification.ZenModeAutomationSettings"/>
             <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
-        <activity android:exported="true" android:icon="@drawable/ic_settings_notifications" android:label="@string/zen_mode_automation_settings_title" android:name="Settings$ZenModeAutomationSuggestionActivity" android:taskAffinity="">
-            <intent-filter android:priority="1">
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="com.android.flymexx.suggested.category.SETTINGS_ONLY"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.notification.ZenModeAutomationSettings"/>
-            <meta-data android:name="com.android.flymexx.dismiss" android:value="30"/>
-            <meta-data android:name="com.android.flymexx.title" android:resource="@string/zen_mode_automation_suggestion_title"/>
-            <meta-data android:name="com.android.flymexx.summary" android:resource="@string/zen_mode_automation_suggestion_summary"/>
-        </activity>
+        <activity android:exported="true" android:icon="@drawable/ic_settings_notifications" android:label="@string/zen_mode_automation_settings_title" android:name="Settings$ZenModeAutomationSuggestionActivity" android:taskAffinity=""/>
         <activity android:icon="@drawable/ic_wallpaper" android:label="@string/wallpaper_settings_fragment_title" android:name="Settings$WallpaperSettingsActivity" android:taskAffinity="">
             <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.WallpaperTypeSettings"/>
         </activity>
-        <activity android:exported="true" android:icon="@drawable/ic_wallpaper" android:label="@string/wallpaper_settings_title" android:name="WallpaperSuggestionActivity" android:theme="@android:style/Theme.NoDisplay">
-            <intent-filter android:priority="1">
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="com.android.flymexx.suggested.category.SETTINGS_ONLY"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.title" android:resource="@string/wallpaper_suggestion_title"/>
-            <meta-data android:name="com.android.flymexx.summary" android:resource="@string/wallpaper_suggestion_summary"/>
-        </activity>
+        <activity android:exported="true" android:icon="@drawable/ic_wallpaper" android:label="@string/wallpaper_settings_title" android:name="WallpaperSuggestionActivity" android:theme="@android:style/Theme.NoDisplay"/>
         <activity android:exported="true" android:name="Settings$ZenModeScheduleRuleSettingsActivity" android:taskAffinity="">
             <intent-filter android:priority="1">
                 <action android:name="android.settings.ZEN_MODE_SCHEDULE_RULE_SETTINGS"/>
@@ -658,13 +607,6 @@
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.VOICE_LAUNCH"/>
             </intent-filter>
-            <intent-filter android:priority="-1">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.system"/>
-            <meta-data android:name="com.android.flymexx.title" android:resource="@string/about_settings"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.DeviceInfoSettings"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
         <activity android:configChanges="orientation|screenSize" android:label="@string/settings_license_activity_title" android:name="SettingsLicenseActivity" android:theme="@android:style/Theme.DeviceDefault.Light.Panel">
             <intent-filter android:priority="1">
@@ -842,12 +784,6 @@
                 <category android:name="android.intent.category.VOICE_LAUNCH"/>
                 <category android:name="com.android.flymexx.SHORTCUT"/>
             </intent-filter>
-            <intent-filter android:priority="3">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.personal"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.location.LocationSettings"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
         <activity android:configChanges="keyboardHidden|orientation|screenSize" android:icon="@drawable/ic_settings_security" android:label="@string/security_settings_title" android:name="Settings$SecuritySettingsActivity" android:parentActivityName="Settings" android:taskAffinity="">
             <intent-filter android:priority="1">
@@ -860,12 +796,6 @@
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.VOICE_LAUNCH"/>
             </intent-filter>
-            <intent-filter android:priority="2">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.personal"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.SecuritySettings"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
         <activity android:excludeFromRecents="true" android:label="" android:name="MonitoringCertInfoActivity" android:taskAffinity="" android:theme="@style/Transparent">
             <intent-filter android:priority="1">
@@ -905,12 +835,6 @@
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.VOICE_LAUNCH"/>
             </intent-filter>
-            <intent-filter android:priority="-2">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.personal"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.PrivacySettings"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
         <activity android:exported="false" android:name="SetFullBackupPassword" android:theme="@style/Theme.SubSettingsDialogWhenLarge"/>
         <activity android:configChanges="keyboardHidden|orientation|screenSize" android:launchMode="singleTop" android:name="CredentialStorage" android:theme="@style/Transparent">
@@ -974,22 +898,8 @@
                 <category android:name="android.intent.category.VOICE_LAUNCH"/>
                 <category android:name="com.android.flymexx.SHORTCUT"/>
             </intent-filter>
-            <intent-filter android:priority="4">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.system"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.accessibility.AccessibilitySettings"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
-        <activity android:label="@string/vision_settings_title" android:name=".accessibility.AccessibilitySettingsForSetupWizardActivity" android:taskAffinity="com.android.wizard" android:theme="@style/SetupWizardAccessibilityTheme">
-            <intent-filter android:priority="1">
-                <action android:name="android.settings.ACCESSIBILITY_SETTINGS_FOR_SUW"/>
-                <category android:name="android.intent.category.DEFAULT"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.system"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.accessibility.AccessibilitySettingsForSetupWizard"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
-        </activity>
+        <activity android:label="@string/vision_settings_title" android:name=".accessibility.AccessibilitySettingsForSetupWizardActivity" android:taskAffinity="com.android.wizard" android:theme="@style/SetupWizardAccessibilityTheme"/>
         <activity android:label="@string/accessibility_display_daltonizer_preference_title" android:name="Settings$AccessibilityDaltonizerSettingsActivity" android:parentActivityName="Settings$AccessibilitySettingsActivity" android:taskAffinity="com.android.flymexx">
             <intent-filter android:priority="1">
                 <action android:name="com.android.flymexx.ACCESSIBILITY_COLOR_SPACE_SETTINGS"/>
@@ -1093,25 +1003,8 @@
             </intent-filter>
             <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
-        <activity android:icon="@drawable/ic_settings_security" android:name=".Settings$ScreenLockSuggestionActivity">
-            <intent-filter android:priority="1">
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="com.android.flymexx.suggested.category.LOCK_SCREEN"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.dismiss" android:value="0,30"/>
-            <meta-data android:name="com.android.flymexx.title" android:resource="@string/suggested_lock_settings_title"/>
-            <meta-data android:name="com.android.flymexx.summary" android:resource="@string/suggested_lock_settings_summary"/>
-        </activity>
-        <activity android:icon="@drawable/ic_suggestion_fingerprint" android:name=".Settings$FingerprintEnrollSuggestionActivity">
-            <intent-filter android:priority="2">
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="com.android.flymexx.suggested.category.LOCK_SCREEN"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.dismiss" android:value="0,30"/>
-            <meta-data android:name="com.android.flymexx.require_feature" android:value="android.hardware.fingerprint"/>
-            <meta-data android:name="com.android.flymexx.title" android:resource="@string/suggested_fingerprint_lock_settings_title"/>
-            <meta-data android:name="com.android.flymexx.summary" android:resource="@string/suggested_fingerprint_lock_settings_summary"/>
-        </activity>
+        <activity android:icon="@drawable/ic_settings_security" android:name=".Settings$ScreenLockSuggestionActivity"/>
+        <activity android:icon="@drawable/ic_suggestion_fingerprint" android:name=".Settings$FingerprintEnrollSuggestionActivity"/>
         <activity android:excludeFromRecents="true" android:exported="false" android:label="@string/lockpassword_choose_lock_generic_header" android:name="ChooseLockGeneric$InternalActivity" android:theme="@style/SetupWizardTheme.Light"/>
         <activity android:exported="false" android:name="SetupChooseLockPattern" android:taskAffinity="com.android.wizard" android:theme="@style/SetupWizardTheme.Light"/>
         <activity android:exported="false" android:name="ChooseLockPatternSize" android:theme="@style/SetupWizardTheme.Light"/>
@@ -1207,12 +1100,6 @@
                 <action android:name="com.android.flymexx.APPLICATION_DEVELOPMENT_SETTINGS"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
-            <intent-filter android:priority="2">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.system"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.DevelopmentSettings"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
         <activity android:icon="@drawable/ic_settings_print" android:label="@string/print_settings" android:name="Settings$PrintSettingsActivity" android:parentActivityName="Settings" android:taskAffinity="com.android.flymexx">
             <intent-filter android:priority="1">
@@ -1224,11 +1111,6 @@
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.VOICE_LAUNCH"/>
             </intent-filter>
-            <intent-filter android:priority="3">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.system"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.print.PrintSettingsFragment"/>
         </activity>
         <activity android:label="@string/print_print_job" android:name="Settings$PrintJobSettingsActivity" android:parentActivityName="Settings$PrintSettingsActivity" android:taskAffinity="com.android.flymexx">
             <intent-filter android:priority="1">
@@ -1436,12 +1318,6 @@
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
-            <intent-filter android:priority="1">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.personal"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.accounts.AccountSettings"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
         <activity android:label="@string/account_sync_settings_title" android:name="Settings$AccountSyncSettingsActivity" android:parentActivityName="Settings" android:taskAffinity="">
             <intent-filter android:priority="1">
@@ -1502,11 +1378,6 @@
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="com.android.flymexx.SHORTCUT"/>
             </intent-filter>
-            <intent-filter android:priority="1">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.wireless"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.datausage.DataUsageSummary"/>
         </activity>
         <activity android:enabled="false" android:icon="@drawable/ic_settings_roaming" android:label="@string/label_global_roaming_settings" android:name="Settings$RoamingSettingsActivity" android:taskAffinity="">
             <intent-filter>
@@ -1542,12 +1413,6 @@
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
-            <intent-filter android:priority="2">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.device"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.users.UserSettings"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
         <activity android:icon="@drawable/ic_settings_nfc_payment" android:label="@string/nfc_payment_settings_title" android:name="Settings$PaymentSettingsActivity" android:taskAffinity="">
             <intent-filter android:priority="1">
@@ -1642,12 +1507,6 @@
                 <category android:name="android.intent.category.VOICE_LAUNCH"/>
                 <category android:name="com.android.flymexx.SHORTCUT"/>
             </intent-filter>
-            <intent-filter android:priority="7">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.device"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.notification.SoundSettings"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
         <activity-alias android:exported="true" android:label="@string/sound_settings" android:name="SoundSettings" android:targetActivity="Settings$SoundSettingsActivity">
             <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.notification.SoundSettings"/>
@@ -1664,13 +1523,7 @@
             <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.notification.OtherSoundSettings"/>
             <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
-        <activity android:exported="true" android:icon="@drawable/ic_settings_notifications" android:label="@string/app_notifications_title" android:name="Settings$NotificationAppListActivity" android:taskAffinity="">
-            <intent-filter android:priority="8">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.device"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.applications.NotificationApps"/>
-        </activity>
+        <activity android:exported="true" android:icon="@drawable/ic_settings_notifications" android:label="@string/app_notifications_title" android:name="Settings$NotificationAppListActivity" android:taskAffinity=""/>
         <activity android:exported="true" android:label="@string/app_notifications_title" android:name="Settings$AppNotificationSettingsActivity">
             <intent-filter android:priority="1">
                 <action android:name="android.settings.APP_NOTIFICATION_SETTINGS"/>
@@ -1742,11 +1595,6 @@
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
-            <intent-filter android:priority="2">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.wireless"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.sim.SimSettings"/>
         </activity>
         <activity android:excludeFromRecents="true" android:name=".sim.SimPreferenceDialog" android:theme="@android:style/Theme.DeviceDefault.Light.Dialog.NoActionBar"/>
         <activity android:configChanges="keyboardHidden|orientation|screenSize" android:excludeFromRecents="true" android:exported="true" android:label="" android:name=".wifi.WifiDialogActivity" android:permission="android.permission.CHANGE_WIFI_STATE" android:theme="@style/Transparent">
@@ -1860,11 +1708,6 @@
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.VOICE_LAUNCH"/>
             </intent-filter>
-            <intent-filter android:priority="-2">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.personal"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
         <activity android:exported="@bool/config_storage_manager_settings_enabled" android:label="@string/automatic_storage_manager_settings" android:name="Settings$AutomaticStorageManagerSettingsActivity" android:taskAffinity="">
             <intent-filter android:priority="1">
