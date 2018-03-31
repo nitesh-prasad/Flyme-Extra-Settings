@@ -762,7 +762,7 @@ Do you really want to disable this feature?"</string>
     <string name="show_dev_already">No need, you are already a developer.</string>
     <string name="header_category_wireless_networks">Wireless &amp; networks</string>
     <string name="header_category_connections">Connections</string>
-    <string name="header_category_device">Device</string>
+    <string name="header_category_device">Tweaks</string>
     <string name="header_category_personal">Personal</string>
     <string name="header_category_access">Access</string>
     <string name="header_category_system">System</string>
@@ -985,8 +985,8 @@ Broadcasting uses low-power Bluetooth signals."</string>
     <string name="forget">Forget</string>
     <string name="save">Save</string>
     <string name="done">Done</string>
-    <string name="settings_label">Settings</string>
-    <string name="settings_label_launcher">Settings</string>
+    <string name="settings_label">Additional Settings</string>
+    <string name="settings_label_launcher">Additional Settings</string>
     <string name="settings_shortcut">Settings shortcut</string>
     <string name="airplane_mode">Airplane mode</string>
     <string name="radio_controls_title">More</string>
@@ -3263,7 +3263,7 @@ Any user can update apps for all other users."</string>
     <string name="sim_pref_divider">Preferred SIM for</string>
     <string name="sim_calls_ask_first_prefs_title">Ask every time</string>
     <string name="sim_selection_required_pref">Selection required</string>
-    <string name="dashboard_title">Settings</string>
+    <string name="dashboard_title">Additional Settings</string>
     <string name="search_results_title">Settings</string>
     <string name="search_menu">Search settings</string>
     <string name="query_hint_text">Search settings</string>
