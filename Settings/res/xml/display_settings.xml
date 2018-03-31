@@ -10,6 +10,7 @@
         <com.android.flymexxlib.RestrictedPreference android:title="@string/wallpaper_settings_title" android:key="wallpaper" settings:useAdminDisabledSummary="true" settings:keywords="@string/keywords_display_wallpaper">
             <intent android:targetPackage="@string/config_wallpaper_picker_package" android:targetClass="@string/config_wallpaper_picker_class" />
         </com.android.flymexxlib.RestrictedPreference>
+        <com.android.flymexx.TimeoutListPreference android:entries="@array/screen_timeout_entries" android:title="@string/screen_timeout" android:key="screen_timeout" android:summary="@string/screen_timeout_summary" android:entryValues="@array/screen_timeout_values" />
         <SwitchPreference android:title="@string/camera_gesture_title" android:key="camera_gesture" android:summary="@string/camera_gesture_desc" />
         <SwitchPreference android:title="@string/lift_to_wake_title" android:key="lift_to_wake" />
         <SwitchPreference android:title="@string/doze_title" android:key="doze" android:summary="@string/doze_summary" />
