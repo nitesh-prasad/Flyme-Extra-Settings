@@ -627,12 +627,6 @@
                 <category android:name="android.intent.category.VOICE_LAUNCH"/>
                 <category android:name="com.android.flymexx.SHORTCUT"/>
             </intent-filter>
-            <intent-filter android:priority="6">
-                <action android:name="com.android.flymexx.action.SETTINGS"/>
-            </intent-filter>
-            <meta-data android:name="com.android.flymexx.category" android:value="com.android.flymexx.category.device"/>
-            <meta-data android:name="com.android.flymexx.FRAGMENT_CLASS" android:value="com.android.flymexx.applications.ManageApplications"/>
-            <meta-data android:name="com.android.flymexx.PRIMARY_PROFILE_CONTROLLED" android:value="true"/>
         </activity>
         <activity android:icon="@drawable/ic_settings_memory" android:label="@string/domain_urls_title" android:name="Settings$ManageDomainUrlsActivity" android:taskAffinity="com.android.flymexx">
             <intent-filter>
